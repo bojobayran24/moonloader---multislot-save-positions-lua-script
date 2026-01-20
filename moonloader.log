@@ -1,0 +1,33 @@
+[02:17:47.363367] (system)	Session started.
+[02:17:47.365388] (debug)	Module handle: 70DC0000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[02:17:47.365388] (info)	Working directory: D:\Games\Gta San Andreas\GTA San Andreas\moonloader
+[02:17:47.365388] (debug)	FP Control: 0009001F
+[02:17:47.365388] (debug)	Game: GTA SA 1.0.0.0 US
+[02:17:47.365388] (system)	Installing pre-game hooks...
+[02:17:47.369878] (system)	Hooks installed.
+[02:17:49.981136] (debug)	Initializing opcode handler table
+[02:17:49.981136] (debug)	package.path = D:\Games\Gta San Andreas\GTA San Andreas\moonloader\lib\?.lua;D:\Games\Gta San Andreas\GTA San Andreas\moonloader\lib\?\init.lua;D:\Games\Gta San Andreas\GTA San Andreas\moonloader\?.lua;D:\Games\Gta San Andreas\GTA San Andreas\moonloader\?\init.lua;.\?.lua;D:\Games\Gta San Andreas\GTA San Andreas\moonloader\lib\?.luac;D:\Games\Gta San Andreas\GTA San Andreas\moonloader\lib\?\init.luac;D:\Games\Gta San Andreas\GTA San Andreas\moonloader\?.luac;D:\Games\Gta San Andreas\GTA San Andreas\moonloader\?\init.luac;.\?.luac
+[02:17:49.982135] (debug)	package.cpath = D:\Games\Gta San Andreas\GTA San Andreas\moonloader\lib\?.dll;
+[02:17:50.091068] (system)	Loading script 'D:\Games\Gta San Andreas\GTA San Andreas\moonloader\multihack.lua'...
+[02:17:50.091068] (debug)	New script: 01C7D884
+[02:17:50.093066] (error)	multihack.lua: ...Gta San Andreas\GTA San Andreas\moonloader\multihack.lua:61: attempt to yield across C-call boundary
+stack traceback:
+	[C]: in function 'wait'
+	...Gta San Andreas\GTA San Andreas\moonloader\multihack.lua:61: in function 'main'
+	...Gta San Andreas\GTA San Andreas\moonloader\multihack.lua:523: in main chunk
+[02:17:50.094066] (error)	multihack.lua: Script died due to an error. (01C7D884)
+[02:17:50.094066] (system)	Loading script 'D:\Games\Gta San Andreas\GTA San Andreas\moonloader\SavePosition.lua'...
+[02:17:50.094066] (debug)	New script: 01C7D0DC
+[02:17:50.146712] (system)	SavePosition: Loaded successfully.
+[02:17:58.303662] (system)	Installing post-load hooks...
+[02:17:58.305060] (system)	Hooks installed.
+[02:18:08.119722] (system)	Unloading...
+[02:18:08.119722] (system)	SavePosition: Script terminated. (01C7D0DC)
+[02:18:08.140443] (system)	Session terminated.
