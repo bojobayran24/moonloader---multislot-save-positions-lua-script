@@ -1,9 +1,9 @@
 -- SAVED POSITIONS EXPORT --
--- Generated on: 2026-01-25 13:07:44
--- Total positions: 222
+-- Generated on: 2026-02-02 01:01:03
+-- Total positions: 301
 
 JSON DATA:
-{ {  ["interior"]=0,  ["x"]=-2293.9765625,  ["inVehicle"]=false,  ["name"]="Bayside Marina",  ["y"]=2229.6262207031,  ["angle"]=13.773926734924,  ["z"]=4.9821910858154,  ["timestamp"]=1768930376}, {  ["interior"]=0,  ["x"]=-2300.9094238281,  ["timestamp"]=1769077870,  ["z"]=24.925838470459,  ["y"]=-2452.595703125,  ["angle"]=191.31466674805,  ["name"]="Angel Pine Hoboshack",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2503.3520507813,  ["timestamp"]=1769078539,  ["z"]=10.393699645996,  ["y"]=2127.3093261719,  ["angle"]=253.31393432617,  ["name"]="World Topless",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1498.6391601563,  ["timestamp"]=1769078608,  ["z"]=10.289891242981,  ["y"]=2763.2160644531,  ["angle"]=332.48550415039,  ["name"]="Yellow Bell Golf",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2595.2106933594,  ["timestamp"]=1769078862,  ["z"]=3.9000468254089,  ["y"]=65.937622070313,  ["angle"]=219.48783874512,  ["name"]="Hippy Shopper",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2536.2143554688,  ["timestamp"]=1769078925,  ["z"]=37.421875,  ["y"]=1227.5935058594,  ["angle"]=90.792892456055,  ["name"]="Actual Piece Of Cable",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2684.9152832031,  ["inVehicle"]=false,  ["name"]="8 Track Racing Dome",  ["y"]=-1685.3527832031,  ["angle"]=211.09436035156,  ["z"]=9.4294843673706,  ["timestamp"]=1769079431}, {  ["interior"]=0,  ["x"]=807.25305175781,  ["inVehicle"]=false,  ["name"]="A Burger for OG Loc",  ["y"]=-1640.1188964844,  ["angle"]=9.3371324539185,  ["z"]=13.546875,  ["timestamp"]=1769079481}, {  ["interior"]=0,  ["x"]=2806.9475097656,  ["inVehicle"]=false,  ["name"]="A Canon in a House ( LS )",  ["y"]=-1184.5915527344,  ["angle"]=353.50579833984,  ["z"]=25.39457321167,  ["timestamp"]=1769079549}, {  ["interior"]=0,  ["x"]=1974.5672607422,  ["inVehicle"]=false,  ["name"]="A lake In a Park",  ["y"]=-1221.9995117188,  ["angle"]=5.9008164405823,  ["z"]=20.0234375,  ["timestamp"]=1769079602}, {  ["interior"]=0,  ["x"]=1828.30078125,  ["inVehicle"]=false,  ["name"]="Alhambra",  ["y"]=-1684.4051513672,  ["angle"]=289.68951416016,  ["z"]=13.546875,  ["timestamp"]=1769079638}, {  ["interior"]=0,  ["x"]=1184.5166015625,  ["inVehicle"]=false,  ["name"]="All Saints General Hospital",  ["y"]=-1324.9892578125,  ["angle"]=269.35266113281,  ["z"]=13.574625015259,  ["timestamp"]=1769079790}, {  ["interior"]=0,  ["x"]=2437.7922363281,  ["inVehicle"]=false,  ["name"]="Breakable Bridge",  ["y"]=-1657.0963134766,  ["angle"]=355.10104370117,  ["z"]=26.400417327881,  ["timestamp"]=1769079830}, {  ["interior"]=0,  ["x"]=2351.8962402344,  ["inVehicle"]=false,  ["name"]="Burn Baby Burn",  ["y"]=-1161.7806396484,  ["angle"]=186.60186767578,  ["z"]=27.412134170532,  ["timestamp"]=1769079863}, {  ["interior"]=0,  ["x"]=414.07321166992,  ["inVehicle"]=false,  ["name"]="Candy Suxx",  ["y"]=-1351.9527587891,  ["angle"]=6.1281251907349,  ["z"]=14.783375740051,  ["timestamp"]=1769079928}, {  ["interior"]=0,  ["x"]=2494.9838867188,  ["inVehicle"]=false,  ["name"]="Cj is Home",  ["y"]=-1685.7360839844,  ["angle"]=194.4380645752,  ["z"]=13.512100219727,  ["timestamp"]=1769079960}, {  ["interior"]=0,  ["x"]=2401.1875,  ["inVehicle"]=false,  ["name"]="CJ's First Coffee",  ["y"]=-1722.9180908203,  ["angle"]=351.52398681641,  ["z"]=13.602819442749,  ["timestamp"]=1769079999}, {  ["interior"]=0,  ["x"]=2249.921875,  ["inVehicle"]=false,  ["name"]="Cj's First Spawn",  ["y"]=-1261.4215087891,  ["angle"]=80.375709533691,  ["z"]=23.958957672119,  ["timestamp"]=1769080024}, {  ["interior"]=0,  ["x"]=2095.0161132813,  ["inVehicle"]=false,  ["name"]="CJ's First Tagging",  ["y"]=-1648.5267333984,  ["angle"]=268.86065673828,  ["z"]=13.692207336426,  ["timestamp"]=1769080073}, {  ["interior"]=0,  ["x"]=1661.2744140625,  ["inVehicle"]=false,  ["name"]="Cloverleaf Junction",  ["y"]=-1013.8734741211,  ["angle"]=45.872253417969,  ["z"]=23.8984375,  ["timestamp"]=1769080129}, {  ["interior"]=0,  ["x"]=2371.0190429688,  ["inVehicle"]=false,  ["name"]="Drive Thru Cluckin' Bell",  ["y"]=-1919.4252929688,  ["angle"]=310.32302856445,  ["z"]=13.3828125,  ["timestamp"]=1769080184}, {  ["interior"]=0,  ["x"]=2076.3762207031,  ["inVehicle"]=false,  ["name"]="First Hairdresser",  ["y"]=-1792.2452392578,  ["angle"]=108.51348114014,  ["z"]=13.546875,  ["timestamp"]=1769080212}, {  ["interior"]=0,  ["x"]=2095.5234375,  ["inVehicle"]=false,  ["name"]="First Meal",  ["y"]=-1804.0998535156,  ["angle"]=257.37701416016,  ["z"]=13.551650047302,  ["timestamp"]=1769080230}, {  ["interior"]=0,  ["x"]=825.33544921875,  ["inVehicle"]=false,  ["name"]="Graveyard",  ["y"]=-1103.701171875,  ["angle"]=65.928558349609,  ["z"]=25.7890625,  ["timestamp"]=1769080272}, {  ["interior"]=0,  ["x"]=2339.2436523438,  ["inVehicle"]=false,  ["name"]="Ideal Homies Store",  ["y"]=-1403.7595214844,  ["angle"]=253.50219726563,  ["z"]=23.814680099487,  ["timestamp"]=1769080309}, {  ["interior"]=0,  ["x"]=1036.9677734375,  ["inVehicle"]=false,  ["name"]="Inside The Giant Donut",  ["y"]=-1358.2749023438,  ["angle"]=349.27871704102,  ["z"]=18.514133453369,  ["timestamp"]=1769080338}, {  ["interior"]=0,  ["x"]=639.19586181641,  ["inVehicle"]=false,  ["name"]="Interglobal Television",  ["y"]=-1356.5104980469,  ["angle"]=268.64935302734,  ["z"]=13.401826858521,  ["timestamp"]=1769080376}, {  ["interior"]=0,  ["x"]=1064.521484375,  ["inVehicle"]=false,  ["name"]="Yoyojo's records",  ["y"]=-1352.9932861328,  ["angle"]=88.77220916748,  ["z"]=13.3828125,  ["timestamp"]=1769080410}, {  ["interior"]=0,  ["x"]=817.12115478516,  ["inVehicle"]=false,  ["name"]="Vinyl Countdown",  ["y"]=-1392.490234375,  ["angle"]=11.666744232178,  ["z"]=13.375079154968,  ["timestamp"]=1769080433}, {  ["interior"]=0,  ["x"]=1050.0852050781,  ["inVehicle"]=false,  ["name"]="Gravy Train",  ["y"]=-1370.9923095703,  ["angle"]=276.39813232422,  ["z"]=13.389519691467,  ["timestamp"]=1769080463}, {  ["interior"]=0,  ["x"]=1093.626953125,  ["inVehicle"]=false,  ["name"]="Spacey",  ["y"]=-1277.8092041016,  ["angle"]=2.0239531993866,  ["z"]=13.457945823669,  ["timestamp"]=1769080478}, {  ["interior"]=0,  ["x"]=1138.2785644531,  ["inVehicle"]=false,  ["name"]="Le Sex Shoppe",  ["y"]=-1139.2447509766,  ["angle"]=347.38903808594,  ["z"]=23.65625,  ["timestamp"]=1769080526}, {  ["interior"]=0,  ["x"]=2226.6904296875,  ["inVehicle"]=false,  ["name"]="Jefferson Motel",  ["y"]=-1150.3186035156,  ["angle"]=203.99588012695,  ["z"]=25.833946228027,  ["timestamp"]=1769080580}, {  ["interior"]=0,  ["x"]=153.2677154541,  ["inVehicle"]=false,  ["name"]="LightHouse",  ["y"]=-1940.4448242188,  ["angle"]=17.614128112793,  ["z"]=3.7734375,  ["timestamp"]=1769080603}, {  ["interior"]=0,  ["x"]=376.97766113281,  ["inVehicle"]=false,  ["name"]="Los Santos Carousel",  ["y"]=-2024.5822753906,  ["angle"]=239.58557128906,  ["z"]=7.8300905227661,  ["timestamp"]=1769080626}, {  ["interior"]=0,  ["x"]=1360.8500976563,  ["inVehicle"]=false,  ["name"]="LS' Biggest Ammu-Nation",  ["y"]=-1278.4659423828,  ["angle"]=263.02575683594,  ["z"]=13.3828125,  ["timestamp"]=1769080654}, {  ["interior"]=0,  ["x"]=1835.1868896484,  ["inVehicle"]=false,  ["name"]="LS Bomb Shop",  ["y"]=-1856.2110595703,  ["angle"]=96.157035827637,  ["z"]=13.389747619629,  ["timestamp"]=1769080701}, {  ["interior"]=0,  ["x"]=1641.3150634766,  ["inVehicle"]=false,  ["name"]="In Los Santos Airport",  ["y"]=-2544.091796875,  ["angle"]=92.80827331543,  ["z"]=14.99498462677,  ["timestamp"]=1769080754}, {  ["interior"]=0,  ["x"]=2234.1357421875,  ["inVehicle"]=false,  ["name"]="LS Train Yard",  ["y"]=-2275.01953125,  ["angle"]=180.85321044922,  ["z"]=14.764669418335,  ["timestamp"]=1769080802}, {  ["interior"]=0,  ["x"]=2195.4565429688,  ["inVehicle"]=false,  ["name"]="LS Junkyard",  ["y"]=-1976.5290527344,  ["angle"]=151.24153137207,  ["z"]=13.552864074707,  ["timestamp"]=1769080839}, {  ["interior"]=0,  ["x"]=2168.4938964844,  ["inVehicle"]=false,  ["name"]="LS Breakable SPRUNK Sign",  ["y"]=-1507.5686035156,  ["angle"]=236.32406616211,  ["z"]=23.924098968506,  ["timestamp"]=1769080873}, {  ["interior"]=0,  ["x"]=1545.3055419922,  ["inVehicle"]=false,  ["name"]="LSPD",  ["y"]=-1675.7414550781,  ["angle"]=275.35003662109,  ["z"]=13.560103416443,  ["timestamp"]=1769080907}, {  ["interior"]=0,  ["x"]=1298.4260253906,  ["inVehicle"]=false,  ["name"]="Madd Dogg ain't Home",  ["y"]=-806.48162841797,  ["angle"]=0.76544988155365,  ["z"]=84.140625,  ["timestamp"]=1769080932}, {  ["interior"]=0,  ["x"]=829.59588623047,  ["timestamp"]=1769081002,  ["z"]=13.3828125,  ["y"]=-1601.2982177734,  ["angle"]=323.26364135742,  ["name"]="The Book Emporium",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=874.03729248047,  ["timestamp"]=1769081037,  ["z"]=20.948268890381,  ["y"]=-1556.0885009766,  ["angle"]=60.916240692139,  ["name"]="Big S Liqour&deli",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=963.83770751953,  ["timestamp"]=1769081084,  ["z"]=23.82501411438,  ["y"]=-1151.4104003906,  ["angle"]=4.1450777053833,  ["name"]="Movie Star Tour",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1076.2746582031,  ["timestamp"]=1769081149,  ["z"]=13.546875,  ["y"]=-1705.1892089844,  ["angle"]=330.72906494141,  ["name"]="Papercut, let us fill your office",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1067.33984375,  ["timestamp"]=1769081201,  ["z"]=42.789405822754,  ["y"]=-950.16510009766,  ["angle"]=39.454174041748,  ["name"]="Quite Humourous Comedy Club",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-61.024421691895,  ["timestamp"]=1769081243,  ["z"]=2.6107201576233,  ["y"]=-1587.3021240234,  ["angle"]=53.07649230957,  ["name"]="Trailerpark at sea",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=580.32177734375,  ["timestamp"]=1769081275,  ["z"]=5.1822957992554,  ["y"]=-1848.705078125,  ["angle"]=187.21315002441,  ["name"]="SFSE Birthday House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=442.56829833984,  ["timestamp"]=1769081301,  ["z"]=8.6963596343994,  ["y"]=-1749.3928222656,  ["angle"]=91.611602783203,  ["name"]="Son Of a Beach",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2316.7307128906,  ["timestamp"]=1769081332,  ["z"]=14.071750640869,  ["y"]=-1654.1168212891,  ["angle"]=12.7004737854,  ["name"]="Ten Green Bottles",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2511.2294921875,  ["timestamp"]=1769081365,  ["z"]=13.546875,  ["y"]=-1676.9326171875,  ["angle"]=277.7126159668,  ["name"]="Sweet Johnson's House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1759.5074462891,  ["timestamp"]=1769081459,  ["z"]=24.734375,  ["y"]=856.16943359375,  ["angle"]=339.59921264648,  ["name"]="Big Pointy Building in SF Downtown",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2753.0837402344,  ["timestamp"]=1769081497,  ["z"]=4.1391272544861,  ["y"]=375.68792724609,  ["angle"]=96.063743591309,  ["name"]="City Hall",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2264.6008300781,  ["timestamp"]=1769081573,  ["z"]=35.171875,  ["y"]=-156.38780212402,  ["angle"]=58.335414886475,  ["name"]="Cobra Martial Arts",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2320.4516601563,  ["timestamp"]=1769081628,  ["z"]=35.3203125,  ["y"]=-100.09367370605,  ["angle"]=48.447052001953,  ["name"]="Development Opportunity",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2081.7368164063,  ["timestamp"]=1769081696,  ["z"]=66.875,  ["y"]=-850.46154785156,  ["angle"]=177.18391418457,  ["name"]="Five Identical Buildings",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1803.5799560547,  ["timestamp"]=1769081771,  ["z"]=17.625030517578,  ["y"]=-220.41174316406,  ["angle"]=70.168922424316,  ["name"]="Harry Plums Wholesale Fruit",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2306.9104003906,  ["timestamp"]=1769081878,  ["z"]=35.3125,  ["y"]=198.81010437012,  ["angle"]=16.152614593506,  ["name"]="Homerun",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1274.2712402344,  ["timestamp"]=1769081912,  ["z"]=18.234375,  ["y"]=503.74560546875,  ["angle"]=267.05145263672,  ["name"]="I bet my Hydra can land on that Ship",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2084.6188964844,  ["timestamp"]=1769082249,  ["z"]=68.704803466797,  ["y"]=929.69305419922,  ["angle"]=272.32855224609,  ["name"]="Midtown Madness",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1897.3831787109,  ["timestamp"]=1769082289,  ["z"]=24.59375,  ["y"]=-597.9453125,  ["angle"]=179.97019958496,  ["name"]="Jizzy's girl is kidnapped",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2026.1005859375,  ["timestamp"]=1769082353,  ["z"]=35.1640625,  ["y"]=-97.040237426758,  ["angle"]=177.32255554199,  ["name"]="Learning is Hard",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2661.4853515625,  ["timestamp"]=1769082429,  ["z"]=7.5500516891479,  ["y"]=-276.17370605469,  ["angle"]=179.21566772461,  ["name"]="Lets play some golf",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1972.6931152344,  ["timestamp"]=1769082474,  ["z"]=53.704643249512,  ["y"]=1116.1048583984,  ["angle"]=350.23007202148,  ["name"]="Lets say a prayer",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2165.0002441406,  ["timestamp"]=1769082524,  ["z"]=36.515625,  ["y"]=-261.63073730469,  ["angle"]=105.5111618042,  ["name"]="Lets visit the coke factory",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2516.8698730469,  ["timestamp"]=1769082560,  ["z"]=132.56979370117,  ["y"]=-619.51141357422,  ["angle"]=170.92274475098,  ["name"]="Missionary Hill TV Station",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1943.4180908203,  ["timestamp"]=1769082603,  ["z"]=54.424087524414,  ["y"]=962.61492919922,  ["angle"]=221.537109375,  ["name"]="Mullholiday and Dulaly",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2695.4431152344,  ["timestamp"]=1769082642,  ["z"]=217.27389526367,  ["y"]=1595.2097167969,  ["angle"]=268.2424621582,  ["name"]="No Easter eggs up here",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1014.2583007813,  ["timestamp"]=1769082738,  ["z"]=136.3203125,  ["y"]=-704.00378417969,  ["angle"]=96.625244140625,  ["name"]="Oil Refinery",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1671.7197265625,  ["timestamp"]=1769082773,  ["z"]=7.1721897125244,  ["y"]=1369.9187011719,  ["angle"]=137.8955078125,  ["name"]="Pier 69",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2441.2014160156,  ["timestamp"]=1769083209,  ["z"]=30.095552444458,  ["y"]=500.6682434082,  ["angle"]=77.287094116211,  ["name"]="San Andreas Federal Mint",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1989.6318359375,  ["timestamp"]=1769083239,  ["z"]=35.171875,  ["y"]=273.77178955078,  ["angle"]=238.47521972656,  ["name"]="SF Vehicle Dealership",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2453.2241210938,  ["timestamp"]=1769083278,  ["z"]=34.968673706055,  ["y"]=136.50230407715,  ["angle"]=127.97183990479,  ["name"]="The Biffin Bridge Hotel",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2135.3718261719,  ["timestamp"]=1769083314,  ["z"]=35.3359375,  ["y"]=-426.55136108398,  ["angle"]=72.255424499512,  ["name"]="The Corvin Stadium",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1804.0255126953,  ["timestamp"]=1769083371,  ["z"]=24.890625,  ["y"]=939.70239257813,  ["angle"]=40.59285736084,  ["name"]="The finest pizza in San Fierro",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1807.6285400391,  ["timestamp"]=1769083440,  ["z"]=234.890625,  ["y"]=526.51208496094,  ["angle"]=16.416355133057,  ["name"]="The Highest Building In San Fierro",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2476.83984375,  ["timestamp"]=1769083481,  ["z"]=33.234375,  ["y"]=1545.9528808594,  ["angle"]=334.12896728516,  ["name"]="The Ship Cabin",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1892.7984619141,  ["timestamp"]=1769083510,  ["z"]=5.0564203262329,  ["y"]=1469.5303955078,  ["angle"]=229.56866455078,  ["name"]="The USS Nummutz",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2756.4782714844,  ["timestamp"]=1769083533,  ["z"]=54.346824645996,  ["y"]=781.67193603516,  ["angle"]=84.334526062012,  ["name"]="Tuff Nut Donuts",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1376.5023193359,  ["timestamp"]=1769083577,  ["z"]=3.0703125,  ["y"]=664.90191650391,  ["angle"]=93.661506652832,  ["name"]="Under The Bridge",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2394.0661621094,  ["timestamp"]=1769083607,  ["z"]=35.171875,  ["y"]=315.99694824219,  ["angle"]=54.267288208008,  ["name"]="Vank Hoff In the Park",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2247.5153808594,  ["timestamp"]=1769083627,  ["z"]=35.171875,  ["y"]=136.04832458496,  ["angle"]=254.62228393555,  ["name"]="Zero RC Shop",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1962.9556884766,  ["timestamp"]=1769083693,  ["z"]=46.5625,  ["y"]=711.92175292969,  ["angle"]=219.89158630371,  ["name"]="Zombotech",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2131.1303710938,  ["timestamp"]=1769083773,  ["z"]=10.8203125,  ["y"]=2363.0466308594,  ["angle"]=16.609369277954,  ["name"]="Emerald Isle",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1602.3269042969,  ["timestamp"]=1769083856,  ["z"]=10.8203125,  ["y"]=2648.7412109375,  ["angle"]=268.06951904297,  ["name"]="C.R.A.S.H",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2191.8737792969,  ["timestamp"]=1769083885,  ["z"]=12.194765090942,  ["y"]=1682.6655273438,  ["angle"]=21.334812164307,  ["name"]="Casino Robbed By CJ",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2447.986328125,  ["timestamp"]=1769083913,  ["z"]=10.601404190063,  ["y"]=1945.5234375,  ["angle"]=3.3028717041016,  ["name"]="Casino still in construction",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1819.9094238281,  ["timestamp"]=1769083958,  ["z"]=28.922180175781,  ["y"]=2142.5,  ["angle"]=38.699504852295,  ["name"]="Come First Every Time",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2526.3884277344,  ["timestamp"]=1769084026,  ["z"]=10.671875,  ["y"]=2335.3508300781,  ["angle"]=277.94348144531,  ["name"]="Dick's Sounds",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2030.0764160156,  ["timestamp"]=1769084069,  ["z"]=10.8203125,  ["y"]=1007.7341918945,  ["angle"]=88.371055603027,  ["name"]="Dragon lovers' casino",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1658.1126708984,  ["timestamp"]=1769084124,  ["z"]=17.291418075562,  ["y"]=2206.322265625,  ["angle"]=186.18161010742,  ["name"]="Four Big Wheels",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1693.5219726563,  ["timestamp"]=1769084140,  ["z"]=10.8203125,  ["y"]=1864.7102050781,  ["angle"]=165.31860351563,  ["name"]="Shody Used Autos",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2633.57421875,  ["timestamp"]=1769084177,  ["z"]=17.8203125,  ["y"]=2321.2133789063,  ["angle"]=300.24401855469,  ["name"]="Guitar Shaped Pool",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2747.1911621094,  ["inVehicle"]=false,  ["name"]="The Golden Palms",  ["y"]=-1206.0084228516,  ["angle"]=80.22802734375,  ["z"]=67.201759338379,  ["timestamp"]=1769084599}, {  ["interior"]=0,  ["x"]=1167.0570068359,  ["timestamp"]=1769084732,  ["z"]=10.387490272522,  ["y"]=1367.1813964844,  ["angle"]=211.15754699707,  ["name"]="Turning Tricks Advanced (LV)",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2385.7028808594,  ["timestamp"]=1769084911,  ["z"]=10.267756462097,  ["y"]=1478.1759033203,  ["angle"]=267.21618652344,  ["name"]="Unused Pay N Spray",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2439.7980957031,  ["timestamp"]=1769084974,  ["z"]=10.246095657349,  ["y"]=2056.5769042969,  ["angle"]=259.25814819336,  ["name"]="The Craw Bar",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1798.9891357422,  ["inVehicle"]=false,  ["name"]="Hazardous Materials Response Team",  ["y"]=2059.8002929688,  ["angle"]=33.21603012085,  ["z"]=10.9765625,  ["timestamp"]=1769158596}, {  ["interior"]=0,  ["x"]=2625.0971679688,  ["inVehicle"]=false,  ["name"]="Herro, Welcome to China",  ["y"]=1824.8455810547,  ["angle"]=267.17926025391,  ["z"]=11.0234375,  ["timestamp"]=1769158649}, {  ["interior"]=0,  ["x"]=1381.6311035156,  ["inVehicle"]=false,  ["name"]="Home of the Bandits",  ["y"]=2180.1079101563,  ["angle"]=344.05639648438,  ["z"]=11.0234375,  ["timestamp"]=1769158699}, {  ["interior"]=0,  ["x"]=1997.5494384766,  ["inVehicle"]=false,  ["name"]="LV Bomb Shop",  ["y"]=2297.3017578125,  ["angle"]=356.34646606445,  ["z"]=10.8203125,  ["timestamp"]=1769158790}, {  ["interior"]=0,  ["x"]=2421.8779296875,  ["inVehicle"]=false,  ["name"]="LV City planning department",  ["y"]=1118.4986572266,  ["angle"]=56.919368743896,  ["z"]=10.8203125,  ["timestamp"]=1769158855}, {  ["interior"]=0,  ["x"]=2462.3557128906,  ["inVehicle"]=false,  ["name"]="Military Fuel Depot",  ["y"]=2760.7761230469,  ["angle"]=297.01864624023,  ["z"]=10.8203125,  ["timestamp"]=1769158901}, {  ["interior"]=0,  ["x"]=2927.8405761719,  ["inVehicle"]=false,  ["name"]="Pipe goes under the water",  ["y"]=2120.6740722656,  ["angle"]=265.35601806641,  ["z"]=21.734523773193,  ["timestamp"]=1769158943}, {  ["interior"]=0,  ["x"]=1696.7009277344,  ["inVehicle"]=false,  ["name"]="Redsands West Steakhouse",  ["y"]=2198.2912597656,  ["angle"]=24.572721481323,  ["z"]=10.8203125,  ["timestamp"]=1769158996}, {  ["interior"]=0,  ["x"]=2086.1374511719,  ["inVehicle"]=false,  ["name"]="Royal Casino",  ["y"]=1521.2620849609,  ["angle"]=212.46226501465,  ["z"]=10.8203125,  ["timestamp"]=1769159025}, {  ["interior"]=0,  ["x"]=1919.6219482422,  ["inVehicle"]=false,  ["name"]="Souvenirs: Gifts, Hats & Bag",  ["y"]=2414.9353027344,  ["angle"]=40.526779174805,  ["z"]=10.8203125,  ["timestamp"]=1769159053}, {  ["interior"]=0,  ["x"]=2289.7639160156,  ["inVehicle"]=false,  ["name"]="Taking the law into our own hands",  ["y"]=2422.9816894531,  ["angle"]=0.83476275205612,  ["z"]=10.8203125,  ["timestamp"]=1769159090}, {  ["interior"]=0,  ["x"]=975.78491210938,  ["inVehicle"]=false,  ["name"]="The meat factory",  ["y"]=2154.4729003906,  ["angle"]=55.446643829346,  ["z"]=10.8203125,  ["timestamp"]=1769159142}, {  ["interior"]=0,  ["x"]=2014.0192871094,  ["inVehicle"]=false,  ["name"]="The Pirate bay home, real pirate ship",  ["y"]=1545.1635742188,  ["angle"]=92.01823425293,  ["z"]=11.25602722168,  ["timestamp"]=1769159167}, {  ["interior"]=0,  ["x"]=2095.7312011719,  ["inVehicle"]=false,  ["name"]="The Strip sex shop",  ["y"]=2076.9130859375,  ["angle"]=98.768013000488,  ["z"]=10.8203125,  ["timestamp"]=1769159198}, {  ["interior"]=0,  ["x"]=2324.9838867188,  ["inVehicle"]=false,  ["name"]="Top of the pyramid",  ["y"]=1286.7147216797,  ["angle"]=181.72897338867,  ["z"]=93.02214050293,  ["timestamp"]=1769159223}, {  ["interior"]=0,  ["x"]=2194.4194335938,  ["inVehicle"]=false,  ["name"]="Underneath the Giant Sphinx",  ["y"]=1286.2006835938,  ["angle"]=97.049674987793,  ["z"]=10.8203125,  ["timestamp"]=1769159273}, {  ["interior"]=0,  ["x"]=2363.8269042969,  ["inVehicle"]=false,  ["name"]="Venturas Steaks",  ["y"]=2011.6887207031,  ["angle"]=283.27349853516,  ["z"]=10.828125,  ["timestamp"]=1769159308}, {  ["interior"]=0,  ["x"]=1099.7484130859,  ["inVehicle"]=false,  ["name"]="Welcome to dirtring!",  ["y"]=1611.5853271484,  ["angle"]=179.9404296875,  ["z"]=12.546875,  ["timestamp"]=1769159358}, {  ["interior"]=0,  ["x"]=2006.8582763672,  ["inVehicle"]=false,  ["name"]="Big Skull",  ["y"]=1621.2132568359,  ["angle"]=57.925430297852,  ["z"]=11.6015625,  ["timestamp"]=1769159482}, {  ["interior"]=0,  ["x"]=-1640.6363525391,  ["inVehicle"]=false,  ["name"]="A Shack in the woods, flint county",  ["y"]=-2243.1716308594,  ["angle"]=355.63427734375,  ["z"]=31.4765625,  ["timestamp"]=1769159632}, {  ["interior"]=0,  ["x"]=-722.11224365234,  ["timestamp"]=1769159954,  ["z"]=40.407638549805,  ["y"]=1537.412109375,  ["angle"]=87.955070495605,  ["name"]="Alamo",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2293.0185546875,  ["timestamp"]=1769159998,  ["z"]=26.189682006836,  ["y"]=-2440.6481933594,  ["angle"]=178.38401794434,  ["name"]="Angel Pine hoboshack",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1851.4366455078,  ["timestamp"]=1769160031,  ["z"]=40.8671875,  ["y"]=-1700.7448730469,  ["angle"]=212.91296386719,  ["name"]="Angel Pine Junkyard",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2054.4521484375,  ["timestamp"]=1769160081,  ["z"]=30.631776809692,  ["y"]=-2370.1945800781,  ["angle"]=186.5358581543,  ["name"]="Angel Pine Sawmill",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=214.19766235352,  ["timestamp"]=1769160111,  ["z"]=13.140625,  ["y"]=1873.9708251953,  ["angle"]=96.898506164551,  ["name"]="Area 69",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2496.1098632813,  ["timestamp"]=1769160188,  ["z"]=14.118227958679,  ["y"]=2357.5568847656,  ["angle"]=3.3016493320465,  ["name"]="Because we care, Phat Clothing",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=622.04724121094,  ["timestamp"]=1769160245,  ["z"]=16.1875,  ["y"]=-527.53973388672,  ["angle"]=12.383177757263,  ["name"]="Big Mike's Truck. Performance. Auto",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1277.798828125,  ["timestamp"]=1769160340,  ["z"]=19.5546875,  ["y"]=292.55932617188,  ["angle"]=68.441009521484,  ["name"]="Biowaste Well",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2341.5415039063,  ["timestamp"]=1769160439,  ["z"]=26.3359375,  ["y"]=-67.488380432129,  ["angle"]=93.703819274902,  ["name"]="Bub's Hardware",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1316.7590332031,  ["timestamp"]=1769160486,  ["z"]=19.408935546875,  ["y"]=364.27194213867,  ["angle"]=307.48797607422,  ["name"]="Burned House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-184.40187072754,  ["timestamp"]=1769160571,  ["z"]=19.591096878052,  ["y"]=1093.064453125,  ["angle"]=223.5450592041,  ["name"]="Cactus Bar",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-437.07528686523,  ["timestamp"]=1769160618,  ["z"]=20.844211578369,  ["y"]=1433.2972412109,  ["angle"]=198.08898925781,  ["name"]="Cave",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-785.29034423828,  ["timestamp"]=1769160732,  ["z"]=27.1171875,  ["y"]=1616.6696777344,  ["angle"]=35.807891845703,  ["name"]="Dam Camper Park",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1357.7220458984,  ["timestamp"]=1769160775,  ["z"]=56.498893737793,  ["y"]=2053.9877929688,  ["angle"]=2.1816415786743,  ["name"]="Desert Bait Shop",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-86.386856079102,  ["timestamp"]=1769160818,  ["z"]=19.589130401611,  ["y"]=1194.8848876953,  ["angle"]=141.77046203613,  ["name"]="Desert Bowling",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-802.74517822266,  ["timestamp"]=1769160855,  ["z"]=27.1171875,  ["y"]=1558.1671142578,  ["angle"]=269.45513916016,  ["name"]="Desert Castle",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-134.16638183594,  ["timestamp"]=1769160879,  ["z"]=33.340564727783,  ["y"]=2247.1516113281,  ["angle"]=335.23492431641,  ["name"]="Deserted Bodybags",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-38.440830230713,  ["timestamp"]=1769160909,  ["z"]=24.134738922119,  ["y"]=2341.279296875,  ["angle"]=346.28024291992,  ["name"]="Deserted Snake Farm",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=635.078125,  ["timestamp"]=1769160995,  ["z"]=16.3359375,  ["y"]=-574.98443603516,  ["angle"]=79.262428283691,  ["name"]="Dillimore PD",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=110.10524749756,  ["timestamp"]=1769161025,  ["z"]=13.609375,  ["y"]=1101.6682128906,  ["angle"]=1.0876504182816,  ["name"]="Drive-in Thearte",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1465.9093017578,  ["timestamp"]=1769161057,  ["z"]=76.837768554688,  ["y"]=2637.0913085938,  ["angle"]=314.19857788086,  ["name"]="El Quebrados water supply",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2340.7280273438,  ["timestamp"]=1769161126,  ["z"]=128.80299377441,  ["y"]=-653.75836181641,  ["angle"]=280.33535766602,  ["name"]="Forgotten Building in North Rock",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-337.06307983398,  ["timestamp"]=1769161160,  ["z"]=42.5078125,  ["y"]=1855.5653076172,  ["angle"]=17.725391387939,  ["name"]="Fountain of Youth",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-851.78637695313,  ["timestamp"]=1769161202,  ["z"]=22.612691879272,  ["y"]=1539.2396240234,  ["angle"]=128.05375671387,  ["name"]="Giant Desert Cow",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-229.24090576172,  ["timestamp"]=1769161227,  ["z"]=62.621246337891,  ["y"]=2663.8562011719,  ["angle"]=111.47800445557,  ["name"]="Giant Desert Chicken",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-333.41918945313,  ["timestamp"]=1769161263,  ["z"]=75.602409362793,  ["y"]=1607.7452392578,  ["angle"]=100.85608673096,  ["name"]="Greate Signal Up here!",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-378.00186157227,  ["timestamp"]=1769161330,  ["z"]=25.7265625,  ["y"]=-1441.5598144531,  ["angle"]=68.062309265137,  ["name"]="Helena Wankstein's Home",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-593.13623046875,  ["timestamp"]=1769161368,  ["z"]=60.186485290527,  ["y"]=2023.3704833984,  ["angle"]=170.38670349121,  ["name"]="Hoover dam",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-329.74963378906,  ["timestamp"]=1769161419,  ["z"]=45.32837677002,  ["y"]=1862.11328125,  ["angle"]=155.94053649902,  ["name"]="Hot water geyser",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=592.38214111328,  ["timestamp"]=1769161441,  ["z"]=-42.497318267822,  ["y"]=877.57867431641,  ["angle"]=101.11828613281,  ["name"]="Huge mine",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=220.32369995117,  ["timestamp"]=1769161530,  ["z"]=7.5255169868469,  ["y"]=1822.79296875,  ["angle"]=87.857093811035,  ["name"]="I can see the whole world from here",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=279.95989990234,  ["timestamp"]=1769161569,  ["z"]=10.421962738037,  ["y"]=1413.7338867188,  ["angle"]=104.00399780273,  ["name"]="If I owned all this oil",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2190.8483886719,  ["timestamp"]=1769161600,  ["z"]=4.9705543518066,  ["y"]=2407.2141113281,  ["angle"]=316.04028320313,  ["name"]="Learn to be a captain!",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-847.67742919922,  ["timestamp"]=1769161659,  ["z"]=154.73385620117,  ["y"]=2308.7143554688,  ["angle"]=87.892074584961,  ["name"]="Longest ramp in GTA",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2157.1420898438,  ["timestamp"]=1769161698,  ["z"]=30.625,  ["y"]=-2415.9909667969,  ["angle"]=119.3374710083,  ["name"]="Loving a Loan",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1275.1324462891,  ["timestamp"]=1769161851,  ["z"]=19.40633392334,  ["y"]=253.3699798584,  ["angle"]=158.67658996582,  ["name"]="Miller & Son",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1995.1848144531,  ["timestamp"]=1769161896,  ["z"]=84.749008178711,  ["y"]=-1544.71875,  ["angle"]=171.19714355469,  ["name"]="Mountian Hole",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=699.43371582031,  ["timestamp"]=1769161937,  ["z"]=16.3359375,  ["y"]=-524.98620605469,  ["angle"]=336.18084716797,  ["name"]="Mr Grants Bike Shed",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2813.6232910156,  ["timestamp"]=1769162010,  ["z"]=140.84375,  ["y"]=-1523.0137939453,  ["angle"]=147.96403503418,  ["name"]="Mt. Chilliad hill-house",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2109.845703125,  ["timestamp"]=1769162039,  ["z"]=2.0063586235046,  ["y"]=-99.035308837891,  ["angle"]=125.4645690918,  ["name"]="Nice Wheelchair",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-429.47308349609,  ["timestamp"]=1769162316,  ["z"]=124.3046875,  ["y"]=2502.0356445313,  ["angle"]=339.95532226563,  ["name"]="on top of the cock-rock",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=257.56774902344,  ["timestamp"]=1769162369,  ["z"]=1.578125,  ["y"]=-66.508781433105,  ["angle"]=67.334365844727,  ["name"]="Phat Liquor",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=258.54034423828,  ["timestamp"]=1769162956,  ["z"]=9.2511940002441,  ["y"]=2898.0817871094,  ["angle"]=249.90887451172,  ["name"]="Pink (Ocean View) House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=869.69183349609,  ["timestamp"]=1769163168,  ["z"]=63.1953125,  ["y"]=-36.712886810303,  ["angle"]=74.209815979004,  ["name"]="Rusty, Old, Broken Walton",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=853.65991210938,  ["timestamp"]=1769163603,  ["z"]=18.40482711792,  ["y"]=-597.31109619141,  ["angle"]=199.84941101074,  ["name"]="Solarin Industries",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1337.1077880859,  ["timestamp"]=1769163648,  ["z"]=48.785339355469,  ["y"]=-2933.9077148438,  ["angle"]=246.6070098877,  ["name"]="Southmost point in SA",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-851.85845947266,  ["timestamp"]=1769163674,  ["z"]=45.812496185303,  ["y"]=2739.205078125,  ["angle"]=311.93649291992,  ["name"]="Tee Pee Motel",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=691.29656982422,  ["timestamp"]=1769163702,  ["z"]=5.5390625,  ["y"]=1943.21875,  ["angle"]=344.74472045898,  ["name"]="The Big Spread Ranch",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-50.394664764404,  ["timestamp"]=1769163747,  ["z"]=5.4296875,  ["y"]=-279.271484375,  ["angle"]=4.4188561439514,  ["name"]="The Fleischberg Factory",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1297.7447509766,  ["timestamp"]=1769163996,  ["z"]=87.042236328125,  ["y"]=2491.3513183594,  ["angle"]=41.762104034424,  ["name"]="Ghostly Town",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-750.59558105469,  ["timestamp"]=1769164270,  ["z"]=23.366907119751,  ["y"]=-2113.6616210938,  ["angle"]=3.697342634201,  ["name"]="Tree House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-920.45318603516,  ["timestamp"]=1769164301,  ["z"]=129.0207824707,  ["y"]=1905.4306640625,  ["angle"]=243.05990600586,  ["name"]="Two Leaning pylons",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-81.323837280273,  ["timestamp"]=1769164337,  ["z"]=10.274950027466,  ["y"]=1373.5838623047,  ["angle"]=72.012855529785,  ["name"]="UFO bar",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=657.86572265625,  ["timestamp"]=1769164371,  ["z"]=16.3359375,  ["y"]=-562.49194335938,  ["angle"]=202.34773254395,  ["name"]="We have Gas",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1082.6029052734,  ["timestamp"]=1769164454,  ["z"]=76.3671875,  ["y"]=-1635.2940673828,  ["angle"]=103.6016998291,  ["name"]="Welcome to The Truth's drugfarm",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1183.912109375,  ["timestamp"]=1769164740,  ["z"]=23.87487411499,  ["y"]=-1155.5991210938,  ["angle"]=162.64584350586,  ["name"]="Blastin Fools Records",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2075.0444335938,  ["timestamp"]=1769164794,  ["z"]=13.546875,  ["y"]=-1887.1331787109,  ["angle"]=111.08929443359,  ["name"]="Dragon",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=934.30792236328,  ["timestamp"]=1769164829,  ["z"]=24.691259384155,  ["y"]=-1058.2331542969,  ["angle"]=325.04840087891,  ["name"]="Ghost Graffiti",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2526.0703125,  ["timestamp"]=1769164869,  ["z"]=15.15398311615,  ["y"]=-1668.8825683594,  ["angle"]=282.08831787109,  ["name"]="Grove Basketball",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1119.1501464844,  ["timestamp"]=1769164898,  ["z"]=23.65625,  ["y"]=-1137.5784912109,  ["angle"]=49.241382598877,  ["name"]="Half Cocked",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1287.6795654297,  ["timestamp"]=1769165070,  ["z"]=32.6953125,  ["y"]=-989.39739990234,  ["angle"]=358.44989013672,  ["name"]="Hidden Tunnel LS",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1728.3076171875,  ["timestamp"]=1769165099,  ["z"]=30.8984375,  ["y"]=-1309.9593505859,  ["angle"]=106.8669052124,  ["name"]="Homies Sharp",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2315.1342773438,  ["inVehicle"]=true,  ["name"]="Bank without a vault",  ["y"]=-6.5241613388062,  ["angle"]=31.984354019165,  ["z"]=26.317296981812,  ["timestamp"]=1769165324}, {  ["interior"]=0,  ["x"]=-804.40356445313,  ["inVehicle"]=true,  ["name"]="Horseshoes",  ["y"]=-2261.6291503906,  ["angle"]=141.0652923584,  ["z"]=39.067756652832,  ["timestamp"]=1769165576}, {  ["interior"]=0,  ["x"]=2211.78515625,  ["z"]=10.390944480896,  ["timestamp"]=1769305584,  ["y"]=2522.3806152344,  ["angle"]=54.306163787842,  ["name"]="Wedding Tackle",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=520.88665771484,  ["z"]=27.240566253662,  ["timestamp"]=1769305682,  ["y"]=-1302.2985839844,  ["angle"]=120.72334289551,  ["name"]="Grotti Dealership",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1882.1351318359,  ["z"]=14.053046226501,  ["timestamp"]=1769305920,  ["y"]=-1315.8294677734,  ["angle"]=355.8896484375,  ["name"]="Unfinished buildin near the skatepark",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2429.33984375,  ["z"]=34.887950897217,  ["timestamp"]=1769306132,  ["y"]=-152.99459838867,  ["angle"]=41.816581726074,  ["name"]="We've Got Crabs!",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-1057.7281494141,  ["z"]=128.7300567627,  ["timestamp"]=1769306602,  ["y"]=-1195.3757324219,  ["angle"]=151.6146697998,  ["name"]="Cult Farm",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=614.259765625,  ["z"]=17.981662750244,  ["timestamp"]=1769306698,  ["y"]=-1229.0985107422,  ["angle"]=104.39298248291,  ["name"]="Credit And Commerce Bank",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2584.10546875,  ["z"]=4.4223575592041,  ["timestamp"]=1769306811,  ["y"]=309.27416992188,  ["angle"]=142.92510986328,  ["name"]="Garden Center",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1247.9174804688,  ["z"]=19.1282787323,  ["timestamp"]=1769306921,  ["y"]=336.36083984375,  ["angle"]=150.15995788574,  ["name"]="Crippen Memorial Hospital",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=851.91241455078,  ["z"]=13.11980342865,  ["timestamp"]=1769307052,  ["y"]=-1587.5837402344,  ["angle"]=2.2939703464508,  ["name"]="Toy Corner",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-1458.1098632813,  ["z"]=6.7352213859558,  ["timestamp"]=1769307170,  ["y"]=389.16152954102,  ["angle"]=199.16931152344,  ["name"]="Easter Basin Naval Base",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2675.8332519531,  ["z"]=14.026267051697,  ["timestamp"]=1769307922,  ["y"]=633.93823242188,  ["angle"]=22.408554077148,  ["name"]="SF Hospital",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=17.314361572266,  ["z"]=39.995140075684,  ["timestamp"]=1769307960,  ["y"]=-2641.4836425781,  ["angle"]=216.23434448242,  ["name"]="69 Store",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1803.2747802734,  ["z"]=12.984740257263,  ["timestamp"]=1769308050,  ["y"]=-1573.4860839844,  ["angle"]=101.73136901855,  ["name"]="Los Santos Prison",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1099.9664306641,  ["z"]=114.02174377441,  ["timestamp"]=1769308282,  ["y"]=-824.46881103516,  ["angle"]=28.082738876343,  ["name"]="UFO House",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2050.2614746094,  ["z"]=32.376857757568,  ["timestamp"]=1769308579,  ["y"]=250.45590209961,  ["angle"]=6.1491150856018,  ["name"]="Rest In Cement",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1670.9958496094,  ["z"]=13.097045898438,  ["timestamp"]=1769308819,  ["y"]=-1859.1059570313,  ["angle"]=88.845733642578,  ["name"]="Ugaladajara Jewelry Plaza",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2313.4790039063,  ["z"]=34.884857177734,  ["timestamp"]=1769308908,  ["y"]=14.669025421143,  ["angle"]=328.86663818359,  ["name"]="Pastageddon",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1039.5402832031,  ["timestamp"]=1769312430,  ["inVehicle"]=true,  ["y"]=-1300.1748046875,  ["angle"]=224.56051635742,  ["name"]="Milkshake",  ["z"]=20.935810089111}, {  ["interior"]=0,  ["x"]=2443.5034179688,  ["timestamp"]=1769312781,  ["inVehicle"]=true,  ["y"]=-1425.9267578125,  ["angle"]=2.0002820491791,  ["name"]="Rodriguez Iron Works",  ["z"]=23.571937561035}, {  ["interior"]=0,  ["x"]=1699.1251220703,  ["timestamp"]=1769313132,  ["inVehicle"]=true,  ["y"]=-1667.8635253906,  ["angle"]=279.4541015625,  ["name"]="Atrium",  ["z"]=19.76390838623}, {  ["interior"]=0,  ["x"]=2301.0219726563,  ["timestamp"]=1769313409,  ["inVehicle"]=true,  ["y"]=14.556113243103,  ["angle"]=208.85003662109,  ["name"]="Little Lady",  ["z"]=26.04870223999}, {  ["interior"]=0,  ["x"]=1543.7551269531,  ["timestamp"]=1769313602,  ["inVehicle"]=true,  ["y"]=1126.0639648438,  ["angle"]=47.917060852051,  ["name"]="Big Bananas",  ["z"]=10.382527351379}, {  ["interior"]=0,  ["x"]=1492.1552734375,  ["timestamp"]=1769313781,  ["inVehicle"]=true,  ["y"]=-945.23413085938,  ["angle"]=11.42993927002,  ["name"]="Plug it in and enjoy",  ["z"]=50.847476959229}, {  ["interior"]=0,  ["x"]=-1800.7766113281,  ["timestamp"]=1769315168,  ["inVehicle"]=true,  ["y"]=1196.1583251953,  ["angle"]=123.03667449951,  ["name"]="Michelle's Auto Repair",  ["z"]=24.591375350952}, {  ["interior"]=0,  ["x"]=2336.9768066406,  ["timestamp"]=1769315606,  ["inVehicle"]=true,  ["y"]=30.910707473755,  ["angle"]=5.8237338066101,  ["name"]="Jazz Mags",  ["z"]=26.038778305054}, {  ["interior"]=0,  ["x"]=2158.9833984375,  ["timestamp"]=1769315708,  ["inVehicle"]=true,  ["y"]=-1744.4909667969,  ["angle"]=42.799716949463,  ["name"]="Sity Burgers",  ["z"]=13.119799613953}, {  ["interior"]=0,  ["x"]=1560.3751220703,  ["timestamp"]=1769315863,  ["inVehicle"]=true,  ["y"]=1011.0053710938,  ["angle"]=1.5430289506912,  ["name"]="Broffles Waffles",  ["z"]=10.375789642334}, {  ["interior"]=0,  ["x"]=2768.0112304688,  ["timestamp"]=1769315974,  ["inVehicle"]=true,  ["y"]=598.68676757813,  ["angle"]=82.274803161621,  ["name"]="Under Frederick Bridge",  ["z"]=4.9725656509399}, {  ["interior"]=0,  ["x"]=2449.2485351563,  ["timestamp"]=1769316042,  ["inVehicle"]=true,  ["y"]=-1969.1079101563,  ["angle"]=39.883255004883,  ["name"]="Emmet",  ["z"]=13.471845626831}, {  ["interior"]=0,  ["x"]=494.99990844727,  ["timestamp"]=1769316151,  ["inVehicle"]=true,  ["y"]=-1569.6473388672,  ["angle"]=345.88079833984,  ["name"]="Rodeo Style since 1888",  ["z"]=17.221809387207}, {  ["interior"]=0,  ["x"]=1070.1163330078,  ["timestamp"]=1769316272,  ["inVehicle"]=true,  ["y"]=-1305.1540527344,  ["angle"]=270.98715209961,  ["name"]="L.S Eyeworks",  ["z"]=13.082368850708}, {  ["interior"]=0,  ["x"]=665.00555419922,  ["timestamp"]=1769316389,  ["inVehicle"]=true,  ["y"]=-1866.7493896484,  ["angle"]=30.977136611938,  ["name"]="Santa Maria Gym",  ["z"]=5.0217185020447}, {  ["interior"]=0,  ["x"]=1316.3618164063,  ["timestamp"]=1769316511,  ["inVehicle"]=true,  ["y"]=-1712.6696777344,  ["angle"]=338.71954345703,  ["name"]="Reservoir Dregs",  ["z"]=12.958008766174}, {  ["interior"]=0,  ["x"]=-1548.3057861328,  ["timestamp"]=1769316587,  ["inVehicle"]=false,  ["y"]=1343.5333251953,  ["angle"]=104.81069946289,  ["name"]="Underwater Tunnel",  ["z"]=-8.0484094619751}, {  ["interior"]=0,  ["x"]=1654.8602294922,  ["timestamp"]=1769316747,  ["inVehicle"]=true,  ["y"]=1774.4455566406,  ["angle"]=184.91400146484,  ["name"]="Turning Trailers into Homes",  ["z"]=10.392961502075}, {  ["interior"]=0,  ["x"]=1303.3811035156,  ["timestamp"]=1769316852,  ["inVehicle"]=true,  ["y"]=361.67642211914,  ["angle"]=136.9508972168,  ["name"]="Nice Buns",  ["z"]=19.272565841675}, {  ["interior"]=0,  ["x"]=1118.2255859375,  ["timestamp"]=1769317349,  ["inVehicle"]=true,  ["y"]=-2038.7333984375,  ["angle"]=120.45261383057,  ["name"]="Observatory",  ["z"]=77.78539276123}, {  ["interior"]=0,  ["x"]=2090.9274902344,  ["timestamp"]=1769317477,  ["inVehicle"]=true,  ["y"]=-1904.1739501953,  ["angle"]=316.95465087891,  ["name"]="Tony's Liquor",  ["z"]=13.09047794342}, {  ["interior"]=0,  ["x"]=2035.759765625,  ["timestamp"]=1769317651,  ["inVehicle"]=true,  ["y"]=2729.0498046875,  ["angle"]=220.61520385742,  ["name"]="Millie Perkins House",  ["z"]=10.391459465027}}
+{ {  ["interior"]=0,  ["x"]=-2293.9765625,  ["inVehicle"]=false,  ["name"]="Bayside Marina",  ["y"]=2229.6262207031,  ["angle"]=13.773926734924,  ["z"]=4.9821910858154,  ["timestamp"]=1768930376}, {  ["interior"]=0,  ["x"]=-2300.9094238281,  ["timestamp"]=1769077870,  ["z"]=24.925838470459,  ["y"]=-2452.595703125,  ["angle"]=191.31466674805,  ["name"]="Angel Pine Hoboshack",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2503.3520507813,  ["timestamp"]=1769078539,  ["z"]=10.393699645996,  ["y"]=2127.3093261719,  ["angle"]=253.31393432617,  ["name"]="World Topless",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2595.2106933594,  ["timestamp"]=1769078862,  ["z"]=3.9000468254089,  ["y"]=65.937622070313,  ["angle"]=219.48783874512,  ["name"]="Hippy Shopper",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2536.2143554688,  ["timestamp"]=1769078925,  ["z"]=37.421875,  ["y"]=1227.5935058594,  ["angle"]=90.792892456055,  ["name"]="Actual Piece Of Cable",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2684.9152832031,  ["inVehicle"]=false,  ["name"]="8 Track Racing Dome",  ["y"]=-1685.3527832031,  ["angle"]=211.09436035156,  ["z"]=9.4294843673706,  ["timestamp"]=1769079431}, {  ["interior"]=0,  ["x"]=1974.5672607422,  ["inVehicle"]=false,  ["name"]="A lake In a Park",  ["y"]=-1221.9995117188,  ["angle"]=5.9008164405823,  ["z"]=20.0234375,  ["timestamp"]=1769079602}, {  ["interior"]=0,  ["x"]=1828.30078125,  ["inVehicle"]=false,  ["name"]="Alhambra",  ["y"]=-1684.4051513672,  ["angle"]=289.68951416016,  ["z"]=13.546875,  ["timestamp"]=1769079638}, {  ["interior"]=0,  ["x"]=2437.7922363281,  ["inVehicle"]=false,  ["name"]="Breakable Bridge",  ["y"]=-1657.0963134766,  ["angle"]=355.10104370117,  ["z"]=26.400417327881,  ["timestamp"]=1769079830}, {  ["interior"]=0,  ["x"]=2494.9838867188,  ["inVehicle"]=false,  ["name"]="Cj is Home",  ["y"]=-1685.7360839844,  ["angle"]=194.4380645752,  ["z"]=13.512100219727,  ["timestamp"]=1769079960}, {  ["interior"]=0,  ["x"]=2401.1875,  ["inVehicle"]=false,  ["name"]="CJ's First Coffee",  ["y"]=-1722.9180908203,  ["angle"]=351.52398681641,  ["z"]=13.602819442749,  ["timestamp"]=1769079999}, {  ["interior"]=0,  ["x"]=2249.921875,  ["inVehicle"]=false,  ["name"]="Cj's First Spawn",  ["y"]=-1261.4215087891,  ["angle"]=80.375709533691,  ["z"]=23.958957672119,  ["timestamp"]=1769080024}, {  ["interior"]=0,  ["x"]=2095.0161132813,  ["inVehicle"]=false,  ["name"]="CJ's First Tagging",  ["y"]=-1648.5267333984,  ["angle"]=268.86065673828,  ["z"]=13.692207336426,  ["timestamp"]=1769080073}, {  ["interior"]=0,  ["x"]=1661.2744140625,  ["inVehicle"]=false,  ["name"]="Cloverleaf Junction",  ["y"]=-1013.8734741211,  ["angle"]=45.872253417969,  ["z"]=23.8984375,  ["timestamp"]=1769080129}, {  ["interior"]=0,  ["x"]=2371.0190429688,  ["inVehicle"]=false,  ["name"]="Drive Thru Cluckin' Bell",  ["y"]=-1919.4252929688,  ["angle"]=310.32302856445,  ["z"]=13.3828125,  ["timestamp"]=1769080184}, {  ["interior"]=0,  ["x"]=2076.3762207031,  ["inVehicle"]=false,  ["name"]="First Hairdresser",  ["y"]=-1792.2452392578,  ["angle"]=108.51348114014,  ["z"]=13.546875,  ["timestamp"]=1769080212}, {  ["interior"]=0,  ["x"]=2095.5234375,  ["inVehicle"]=false,  ["name"]="First Meal",  ["y"]=-1804.0998535156,  ["angle"]=257.37701416016,  ["z"]=13.551650047302,  ["timestamp"]=1769080230}, {  ["interior"]=0,  ["x"]=825.33544921875,  ["inVehicle"]=false,  ["name"]="Graveyard",  ["y"]=-1103.701171875,  ["angle"]=65.928558349609,  ["z"]=25.7890625,  ["timestamp"]=1769080272}, {  ["interior"]=0,  ["x"]=2339.2436523438,  ["inVehicle"]=false,  ["name"]="Ideal Homies Store",  ["y"]=-1403.7595214844,  ["angle"]=253.50219726563,  ["z"]=23.814680099487,  ["timestamp"]=1769080309}, {  ["interior"]=0,  ["x"]=1036.9677734375,  ["inVehicle"]=false,  ["name"]="Inside The Giant Donut",  ["y"]=-1358.2749023438,  ["angle"]=349.27871704102,  ["z"]=18.514133453369,  ["timestamp"]=1769080338}, {  ["interior"]=0,  ["x"]=639.19586181641,  ["inVehicle"]=false,  ["name"]="Interglobal Television",  ["y"]=-1356.5104980469,  ["angle"]=268.64935302734,  ["z"]=13.401826858521,  ["timestamp"]=1769080376}, {  ["interior"]=0,  ["x"]=1064.521484375,  ["inVehicle"]=false,  ["name"]="Yoyojo's records",  ["y"]=-1352.9932861328,  ["angle"]=88.77220916748,  ["z"]=13.3828125,  ["timestamp"]=1769080410}, {  ["interior"]=0,  ["x"]=817.12115478516,  ["inVehicle"]=false,  ["name"]="Vinyl Countdown",  ["y"]=-1392.490234375,  ["angle"]=11.666744232178,  ["z"]=13.375079154968,  ["timestamp"]=1769080433}, {  ["interior"]=0,  ["x"]=1050.0852050781,  ["inVehicle"]=false,  ["name"]="Gravy Train",  ["y"]=-1370.9923095703,  ["angle"]=276.39813232422,  ["z"]=13.389519691467,  ["timestamp"]=1769080463}, {  ["interior"]=0,  ["x"]=1093.626953125,  ["inVehicle"]=false,  ["name"]="Spacey",  ["y"]=-1277.8092041016,  ["angle"]=2.0239531993866,  ["z"]=13.457945823669,  ["timestamp"]=1769080478}, {  ["interior"]=0,  ["x"]=1138.2785644531,  ["inVehicle"]=false,  ["name"]="Le Sex Shoppe",  ["y"]=-1139.2447509766,  ["angle"]=347.38903808594,  ["z"]=23.65625,  ["timestamp"]=1769080526}, {  ["interior"]=0,  ["x"]=2226.6904296875,  ["inVehicle"]=false,  ["name"]="Jefferson Motel",  ["y"]=-1150.3186035156,  ["angle"]=203.99588012695,  ["z"]=25.833946228027,  ["timestamp"]=1769080580}, {  ["interior"]=0,  ["x"]=153.2677154541,  ["inVehicle"]=false,  ["name"]="LightHouse",  ["y"]=-1940.4448242188,  ["angle"]=17.614128112793,  ["z"]=3.7734375,  ["timestamp"]=1769080603}, {  ["interior"]=0,  ["x"]=376.97766113281,  ["inVehicle"]=false,  ["name"]="Los Santos Carousel",  ["y"]=-2024.5822753906,  ["angle"]=239.58557128906,  ["z"]=7.8300905227661,  ["timestamp"]=1769080626}, {  ["interior"]=0,  ["x"]=1360.8500976563,  ["inVehicle"]=false,  ["name"]="LS' Biggest Ammu-Nation",  ["y"]=-1278.4659423828,  ["angle"]=263.02575683594,  ["z"]=13.3828125,  ["timestamp"]=1769080654}, {  ["interior"]=0,  ["x"]=1835.1868896484,  ["inVehicle"]=false,  ["name"]="LS Bomb Shop",  ["y"]=-1856.2110595703,  ["angle"]=96.157035827637,  ["z"]=13.389747619629,  ["timestamp"]=1769080701}, {  ["interior"]=0,  ["x"]=1641.3150634766,  ["inVehicle"]=false,  ["name"]="In Los Santos Airport",  ["y"]=-2544.091796875,  ["angle"]=92.80827331543,  ["z"]=14.99498462677,  ["timestamp"]=1769080754}, {  ["interior"]=0,  ["x"]=2234.1357421875,  ["inVehicle"]=false,  ["name"]="LS Train Yard",  ["y"]=-2275.01953125,  ["angle"]=180.85321044922,  ["z"]=14.764669418335,  ["timestamp"]=1769080802}, {  ["interior"]=0,  ["x"]=2195.4565429688,  ["inVehicle"]=false,  ["name"]="LS Junkyard",  ["y"]=-1976.5290527344,  ["angle"]=151.24153137207,  ["z"]=13.552864074707,  ["timestamp"]=1769080839}, {  ["interior"]=0,  ["x"]=1298.4260253906,  ["inVehicle"]=false,  ["name"]="Madd Dogg ain't Home",  ["y"]=-806.48162841797,  ["angle"]=0.76544988155365,  ["z"]=84.140625,  ["timestamp"]=1769080932}, {  ["interior"]=0,  ["x"]=829.59588623047,  ["timestamp"]=1769081002,  ["z"]=13.3828125,  ["y"]=-1601.2982177734,  ["angle"]=323.26364135742,  ["name"]="The Book Emporium",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=874.03729248047,  ["timestamp"]=1769081037,  ["z"]=20.948268890381,  ["y"]=-1556.0885009766,  ["angle"]=60.916240692139,  ["name"]="Big S Liqour&deli",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=963.83770751953,  ["timestamp"]=1769081084,  ["z"]=23.82501411438,  ["y"]=-1151.4104003906,  ["angle"]=4.1450777053833,  ["name"]="Movie Star Tour",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1076.2746582031,  ["timestamp"]=1769081149,  ["z"]=13.546875,  ["y"]=-1705.1892089844,  ["angle"]=330.72906494141,  ["name"]="Papercut, let us fill your office",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1067.33984375,  ["timestamp"]=1769081201,  ["z"]=42.789405822754,  ["y"]=-950.16510009766,  ["angle"]=39.454174041748,  ["name"]="Quite Humourous Comedy Club",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-61.024421691895,  ["timestamp"]=1769081243,  ["z"]=2.6107201576233,  ["y"]=-1587.3021240234,  ["angle"]=53.07649230957,  ["name"]="Trailerpark at sea",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=580.32177734375,  ["timestamp"]=1769081275,  ["z"]=5.1822957992554,  ["y"]=-1848.705078125,  ["angle"]=187.21315002441,  ["name"]="SFSE Birthday House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=442.56829833984,  ["timestamp"]=1769081301,  ["z"]=8.6963596343994,  ["y"]=-1749.3928222656,  ["angle"]=91.611602783203,  ["name"]="Son Of a Beach",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2316.7307128906,  ["timestamp"]=1769081332,  ["z"]=14.071750640869,  ["y"]=-1654.1168212891,  ["angle"]=12.7004737854,  ["name"]="Ten Green Bottles",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2511.2294921875,  ["timestamp"]=1769081365,  ["z"]=13.546875,  ["y"]=-1676.9326171875,  ["angle"]=277.7126159668,  ["name"]="Sweet Johnson's House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2753.0837402344,  ["timestamp"]=1769081497,  ["z"]=4.1391272544861,  ["y"]=375.68792724609,  ["angle"]=96.063743591309,  ["name"]="City Hall",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2264.6008300781,  ["timestamp"]=1769081573,  ["z"]=35.171875,  ["y"]=-156.38780212402,  ["angle"]=58.335414886475,  ["name"]="Cobra Martial Arts",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2320.4516601563,  ["timestamp"]=1769081628,  ["z"]=35.3203125,  ["y"]=-100.09367370605,  ["angle"]=48.447052001953,  ["name"]="Development Opportunity",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2081.7368164063,  ["timestamp"]=1769081696,  ["z"]=66.875,  ["y"]=-850.46154785156,  ["angle"]=177.18391418457,  ["name"]="Five Identical Buildings",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1803.5799560547,  ["timestamp"]=1769081771,  ["z"]=17.625030517578,  ["y"]=-220.41174316406,  ["angle"]=70.168922424316,  ["name"]="Harry Plums Wholesale Fruit",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2084.6188964844,  ["timestamp"]=1769082249,  ["z"]=68.704803466797,  ["y"]=929.69305419922,  ["angle"]=272.32855224609,  ["name"]="Midtown Madness",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2661.4853515625,  ["timestamp"]=1769082429,  ["z"]=7.5500516891479,  ["y"]=-276.17370605469,  ["angle"]=179.21566772461,  ["name"]="Lets play some golf",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1972.6931152344,  ["timestamp"]=1769082474,  ["z"]=53.704643249512,  ["y"]=1116.1048583984,  ["angle"]=350.23007202148,  ["name"]="Lets say a prayer",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2165.0002441406,  ["timestamp"]=1769082524,  ["z"]=36.515625,  ["y"]=-261.63073730469,  ["angle"]=105.5111618042,  ["name"]="Lets visit the coke factory",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2516.8698730469,  ["timestamp"]=1769082560,  ["z"]=132.56979370117,  ["y"]=-619.51141357422,  ["angle"]=170.92274475098,  ["name"]="Missionary Hill TV Station",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1943.4180908203,  ["timestamp"]=1769082603,  ["z"]=54.424087524414,  ["y"]=962.61492919922,  ["angle"]=221.537109375,  ["name"]="Mullholiday and Dulaly",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1014.2583007813,  ["timestamp"]=1769082738,  ["z"]=136.3203125,  ["y"]=-704.00378417969,  ["angle"]=96.625244140625,  ["name"]="Oil Refinery",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1671.7197265625,  ["timestamp"]=1769082773,  ["z"]=7.1721897125244,  ["y"]=1369.9187011719,  ["angle"]=137.8955078125,  ["name"]="Pier 69",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2441.2014160156,  ["timestamp"]=1769083209,  ["z"]=30.095552444458,  ["y"]=500.6682434082,  ["angle"]=77.287094116211,  ["name"]="San Andreas Federal Mint",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1989.6318359375,  ["timestamp"]=1769083239,  ["z"]=35.171875,  ["y"]=273.77178955078,  ["angle"]=238.47521972656,  ["name"]="SF Vehicle Dealership",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2135.3718261719,  ["timestamp"]=1769083314,  ["z"]=35.3359375,  ["y"]=-426.55136108398,  ["angle"]=72.255424499512,  ["name"]="The Corvin Stadium",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1804.0255126953,  ["timestamp"]=1769083371,  ["z"]=24.890625,  ["y"]=939.70239257813,  ["angle"]=40.59285736084,  ["name"]="The finest pizza in San Fierro",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1807.6285400391,  ["timestamp"]=1769083440,  ["z"]=234.890625,  ["y"]=526.51208496094,  ["angle"]=16.416355133057,  ["name"]="The Highest Building In San Fierro",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2476.83984375,  ["timestamp"]=1769083481,  ["z"]=33.234375,  ["y"]=1545.9528808594,  ["angle"]=334.12896728516,  ["name"]="The Ship Cabin",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1892.7984619141,  ["timestamp"]=1769083510,  ["z"]=5.0564203262329,  ["y"]=1469.5303955078,  ["angle"]=229.56866455078,  ["name"]="The USS Nummutz",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2756.4782714844,  ["timestamp"]=1769083533,  ["z"]=54.346824645996,  ["y"]=781.67193603516,  ["angle"]=84.334526062012,  ["name"]="Tuff Nut Donuts",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1376.5023193359,  ["timestamp"]=1769083577,  ["z"]=3.0703125,  ["y"]=664.90191650391,  ["angle"]=93.661506652832,  ["name"]="Under The Bridge",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2247.5153808594,  ["timestamp"]=1769083627,  ["z"]=35.171875,  ["y"]=136.04832458496,  ["angle"]=254.62228393555,  ["name"]="Zero RC Shop",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1962.9556884766,  ["timestamp"]=1769083693,  ["z"]=46.5625,  ["y"]=711.92175292969,  ["angle"]=219.89158630371,  ["name"]="Zombotech",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2131.1303710938,  ["timestamp"]=1769083773,  ["z"]=10.8203125,  ["y"]=2363.0466308594,  ["angle"]=16.609369277954,  ["name"]="Emerald Isle",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1602.3269042969,  ["timestamp"]=1769083856,  ["z"]=10.8203125,  ["y"]=2648.7412109375,  ["angle"]=268.06951904297,  ["name"]="C.R.A.S.H",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2191.8737792969,  ["timestamp"]=1769083885,  ["z"]=12.194765090942,  ["y"]=1682.6655273438,  ["angle"]=21.334812164307,  ["name"]="Casino Robbed By CJ",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2447.986328125,  ["timestamp"]=1769083913,  ["z"]=10.601404190063,  ["y"]=1945.5234375,  ["angle"]=3.3028717041016,  ["name"]="Casino still in construction",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1819.9094238281,  ["timestamp"]=1769083958,  ["z"]=28.922180175781,  ["y"]=2142.5,  ["angle"]=38.699504852295,  ["name"]="Come First Every Time",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2526.3884277344,  ["timestamp"]=1769084026,  ["z"]=10.671875,  ["y"]=2335.3508300781,  ["angle"]=277.94348144531,  ["name"]="Dick's Sounds",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2030.0764160156,  ["timestamp"]=1769084069,  ["z"]=10.8203125,  ["y"]=1007.7341918945,  ["angle"]=88.371055603027,  ["name"]="Dragon lovers' casino",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1658.1126708984,  ["timestamp"]=1769084124,  ["z"]=17.291418075562,  ["y"]=2206.322265625,  ["angle"]=186.18161010742,  ["name"]="Four Big Wheels",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1693.5219726563,  ["timestamp"]=1769084140,  ["z"]=10.8203125,  ["y"]=1864.7102050781,  ["angle"]=165.31860351563,  ["name"]="Shody Used Autos",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2633.57421875,  ["timestamp"]=1769084177,  ["z"]=17.8203125,  ["y"]=2321.2133789063,  ["angle"]=300.24401855469,  ["name"]="Guitar Shaped Pool",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2747.1911621094,  ["inVehicle"]=false,  ["name"]="The Golden Palms",  ["y"]=-1206.0084228516,  ["angle"]=80.22802734375,  ["z"]=67.201759338379,  ["timestamp"]=1769084599}, {  ["interior"]=0,  ["x"]=2385.7028808594,  ["timestamp"]=1769084911,  ["z"]=10.267756462097,  ["y"]=1478.1759033203,  ["angle"]=267.21618652344,  ["name"]="Unused Pay N Spray",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2439.7980957031,  ["timestamp"]=1769084974,  ["z"]=10.246095657349,  ["y"]=2056.5769042969,  ["angle"]=259.25814819336,  ["name"]="The Craw Bar",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2625.0971679688,  ["inVehicle"]=false,  ["name"]="Herro, Welcome to China",  ["y"]=1824.8455810547,  ["angle"]=267.17926025391,  ["z"]=11.0234375,  ["timestamp"]=1769158649}, {  ["interior"]=0,  ["x"]=1381.6311035156,  ["inVehicle"]=false,  ["name"]="Home of the Bandits",  ["y"]=2180.1079101563,  ["angle"]=344.05639648438,  ["z"]=11.0234375,  ["timestamp"]=1769158699}, {  ["interior"]=0,  ["x"]=1997.5494384766,  ["inVehicle"]=false,  ["name"]="LV Bomb Shop",  ["y"]=2297.3017578125,  ["angle"]=356.34646606445,  ["z"]=10.8203125,  ["timestamp"]=1769158790}, {  ["interior"]=0,  ["x"]=2421.8779296875,  ["inVehicle"]=false,  ["name"]="LV City planning department",  ["y"]=1118.4986572266,  ["angle"]=56.919368743896,  ["z"]=10.8203125,  ["timestamp"]=1769158855}, {  ["interior"]=0,  ["x"]=2462.3557128906,  ["inVehicle"]=false,  ["name"]="Military Fuel Depot",  ["y"]=2760.7761230469,  ["angle"]=297.01864624023,  ["z"]=10.8203125,  ["timestamp"]=1769158901}, {  ["interior"]=0,  ["x"]=2927.8405761719,  ["inVehicle"]=false,  ["name"]="Pipe goes under the water",  ["y"]=2120.6740722656,  ["angle"]=265.35601806641,  ["z"]=21.734523773193,  ["timestamp"]=1769158943}, {  ["interior"]=0,  ["x"]=1696.7009277344,  ["inVehicle"]=false,  ["name"]="Redsands West Steakhouse",  ["y"]=2198.2912597656,  ["angle"]=24.572721481323,  ["z"]=10.8203125,  ["timestamp"]=1769158996}, {  ["interior"]=0,  ["x"]=2086.1374511719,  ["inVehicle"]=false,  ["name"]="Royal Casino",  ["y"]=1521.2620849609,  ["angle"]=212.46226501465,  ["z"]=10.8203125,  ["timestamp"]=1769159025}, {  ["interior"]=0,  ["x"]=1919.6219482422,  ["inVehicle"]=false,  ["name"]="Souvenirs: Gifts, Hats & Bag",  ["y"]=2414.9353027344,  ["angle"]=40.526779174805,  ["z"]=10.8203125,  ["timestamp"]=1769159053}, {  ["interior"]=0,  ["x"]=2289.7639160156,  ["inVehicle"]=false,  ["name"]="Taking the law into our own hands",  ["y"]=2422.9816894531,  ["angle"]=0.83476275205612,  ["z"]=10.8203125,  ["timestamp"]=1769159090}, {  ["interior"]=0,  ["x"]=975.78491210938,  ["inVehicle"]=false,  ["name"]="The meat factory",  ["y"]=2154.4729003906,  ["angle"]=55.446643829346,  ["z"]=10.8203125,  ["timestamp"]=1769159142}, {  ["interior"]=0,  ["x"]=2014.0192871094,  ["inVehicle"]=false,  ["name"]="The Pirate bay home, real pirate ship",  ["y"]=1545.1635742188,  ["angle"]=92.01823425293,  ["z"]=11.25602722168,  ["timestamp"]=1769159167}, {  ["interior"]=0,  ["x"]=2095.7312011719,  ["inVehicle"]=false,  ["name"]="The Strip sex shop",  ["y"]=2076.9130859375,  ["angle"]=98.768013000488,  ["z"]=10.8203125,  ["timestamp"]=1769159198}, {  ["interior"]=0,  ["x"]=2324.9838867188,  ["inVehicle"]=false,  ["name"]="Top of the pyramid",  ["y"]=1286.7147216797,  ["angle"]=181.72897338867,  ["z"]=93.02214050293,  ["timestamp"]=1769159223}, {  ["interior"]=0,  ["x"]=2194.4194335938,  ["inVehicle"]=false,  ["name"]="Underneath the Giant Sphinx",  ["y"]=1286.2006835938,  ["angle"]=97.049674987793,  ["z"]=10.8203125,  ["timestamp"]=1769159273}, {  ["interior"]=0,  ["x"]=2363.8269042969,  ["inVehicle"]=false,  ["name"]="Venturas Steaks",  ["y"]=2011.6887207031,  ["angle"]=283.27349853516,  ["z"]=10.828125,  ["timestamp"]=1769159308}, {  ["interior"]=0,  ["x"]=1099.7484130859,  ["inVehicle"]=false,  ["name"]="Welcome to dirtring!",  ["y"]=1611.5853271484,  ["angle"]=179.9404296875,  ["z"]=12.546875,  ["timestamp"]=1769159358}, {  ["interior"]=0,  ["x"]=2006.8582763672,  ["inVehicle"]=false,  ["name"]="Big Skull",  ["y"]=1621.2132568359,  ["angle"]=57.925430297852,  ["z"]=11.6015625,  ["timestamp"]=1769159482}, {  ["interior"]=0,  ["x"]=-1640.6363525391,  ["inVehicle"]=false,  ["name"]="A Shack in the woods, flint county",  ["y"]=-2243.1716308594,  ["angle"]=355.63427734375,  ["z"]=31.4765625,  ["timestamp"]=1769159632}, {  ["interior"]=0,  ["x"]=-722.11224365234,  ["timestamp"]=1769159954,  ["z"]=40.407638549805,  ["y"]=1537.412109375,  ["angle"]=87.955070495605,  ["name"]="Alamo",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2293.0185546875,  ["timestamp"]=1769159998,  ["z"]=26.189682006836,  ["y"]=-2440.6481933594,  ["angle"]=178.38401794434,  ["name"]="Angel Pine hoboshack",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1851.4366455078,  ["timestamp"]=1769160031,  ["z"]=40.8671875,  ["y"]=-1700.7448730469,  ["angle"]=212.91296386719,  ["name"]="Angel Pine Junkyard",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2054.4521484375,  ["timestamp"]=1769160081,  ["z"]=30.631776809692,  ["y"]=-2370.1945800781,  ["angle"]=186.5358581543,  ["name"]="Angel Pine Sawmill",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=214.19766235352,  ["timestamp"]=1769160111,  ["z"]=13.140625,  ["y"]=1873.9708251953,  ["angle"]=96.898506164551,  ["name"]="Area 69",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2496.1098632813,  ["timestamp"]=1769160188,  ["z"]=14.118227958679,  ["y"]=2357.5568847656,  ["angle"]=3.3016493320465,  ["name"]="Because we care, Phat Clothing",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=622.04724121094,  ["timestamp"]=1769160245,  ["z"]=16.1875,  ["y"]=-527.53973388672,  ["angle"]=12.383177757263,  ["name"]="Big Mike's Truck. Performance. Auto",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1277.798828125,  ["timestamp"]=1769160340,  ["z"]=19.5546875,  ["y"]=292.55932617188,  ["angle"]=68.441009521484,  ["name"]="Biowaste Well",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2341.5415039063,  ["timestamp"]=1769160439,  ["z"]=26.3359375,  ["y"]=-67.488380432129,  ["angle"]=93.703819274902,  ["name"]="Bub's Hardware",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1316.7590332031,  ["timestamp"]=1769160486,  ["z"]=19.408935546875,  ["y"]=364.27194213867,  ["angle"]=307.48797607422,  ["name"]="Burned House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-184.40187072754,  ["timestamp"]=1769160571,  ["z"]=19.591096878052,  ["y"]=1093.064453125,  ["angle"]=223.5450592041,  ["name"]="Cactus Bar",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-437.07528686523,  ["timestamp"]=1769160618,  ["z"]=20.844211578369,  ["y"]=1433.2972412109,  ["angle"]=198.08898925781,  ["name"]="Cave",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-785.29034423828,  ["timestamp"]=1769160732,  ["z"]=27.1171875,  ["y"]=1616.6696777344,  ["angle"]=35.807891845703,  ["name"]="Dam Camper Park",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1357.7220458984,  ["timestamp"]=1769160775,  ["z"]=56.498893737793,  ["y"]=2053.9877929688,  ["angle"]=2.1816415786743,  ["name"]="Desert Bait Shop",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-86.386856079102,  ["timestamp"]=1769160818,  ["z"]=19.589130401611,  ["y"]=1194.8848876953,  ["angle"]=141.77046203613,  ["name"]="Desert Bowling",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-802.74517822266,  ["timestamp"]=1769160855,  ["z"]=27.1171875,  ["y"]=1558.1671142578,  ["angle"]=269.45513916016,  ["name"]="Desert Castle",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-134.16638183594,  ["timestamp"]=1769160879,  ["z"]=33.340564727783,  ["y"]=2247.1516113281,  ["angle"]=335.23492431641,  ["name"]="Deserted Bodybags",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-38.440830230713,  ["timestamp"]=1769160909,  ["z"]=24.134738922119,  ["y"]=2341.279296875,  ["angle"]=346.28024291992,  ["name"]="Deserted Snake Farm",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=635.078125,  ["timestamp"]=1769160995,  ["z"]=16.3359375,  ["y"]=-574.98443603516,  ["angle"]=79.262428283691,  ["name"]="Dillimore PD",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=110.10524749756,  ["timestamp"]=1769161025,  ["z"]=13.609375,  ["y"]=1101.6682128906,  ["angle"]=1.0876504182816,  ["name"]="Drive-in Thearte",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1465.9093017578,  ["timestamp"]=1769161057,  ["z"]=76.837768554688,  ["y"]=2637.0913085938,  ["angle"]=314.19857788086,  ["name"]="El Quebrados water supply",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2340.7280273438,  ["timestamp"]=1769161126,  ["z"]=128.80299377441,  ["y"]=-653.75836181641,  ["angle"]=280.33535766602,  ["name"]="Forgotten Building in North Rock",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-337.06307983398,  ["timestamp"]=1769161160,  ["z"]=42.5078125,  ["y"]=1855.5653076172,  ["angle"]=17.725391387939,  ["name"]="Fountain of Youth",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-851.78637695313,  ["timestamp"]=1769161202,  ["z"]=22.612691879272,  ["y"]=1539.2396240234,  ["angle"]=128.05375671387,  ["name"]="Giant Desert Cow",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-229.24090576172,  ["timestamp"]=1769161227,  ["z"]=62.621246337891,  ["y"]=2663.8562011719,  ["angle"]=111.47800445557,  ["name"]="Giant Desert Chicken",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-333.41918945313,  ["timestamp"]=1769161263,  ["z"]=75.602409362793,  ["y"]=1607.7452392578,  ["angle"]=100.85608673096,  ["name"]="Greate Signal Up here!",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-378.00186157227,  ["timestamp"]=1769161330,  ["z"]=25.7265625,  ["y"]=-1441.5598144531,  ["angle"]=68.062309265137,  ["name"]="Helena Wankstein's Home",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-593.13623046875,  ["timestamp"]=1769161368,  ["z"]=60.186485290527,  ["y"]=2023.3704833984,  ["angle"]=170.38670349121,  ["name"]="Hoover dam",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-329.74963378906,  ["timestamp"]=1769161419,  ["z"]=45.32837677002,  ["y"]=1862.11328125,  ["angle"]=155.94053649902,  ["name"]="Hot water geyser",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=592.38214111328,  ["timestamp"]=1769161441,  ["z"]=-42.497318267822,  ["y"]=877.57867431641,  ["angle"]=101.11828613281,  ["name"]="Huge mine",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=220.32369995117,  ["timestamp"]=1769161530,  ["z"]=7.5255169868469,  ["y"]=1822.79296875,  ["angle"]=87.857093811035,  ["name"]="I can see the whole world from here",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=279.95989990234,  ["timestamp"]=1769161569,  ["z"]=10.421962738037,  ["y"]=1413.7338867188,  ["angle"]=104.00399780273,  ["name"]="If I owned all this oil",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-847.67742919922,  ["timestamp"]=1769161659,  ["z"]=154.73385620117,  ["y"]=2308.7143554688,  ["angle"]=87.892074584961,  ["name"]="Longest ramp in GTA",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2157.1420898438,  ["timestamp"]=1769161698,  ["z"]=30.625,  ["y"]=-2415.9909667969,  ["angle"]=119.3374710083,  ["name"]="Loving a Loan",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1275.1324462891,  ["timestamp"]=1769161851,  ["z"]=19.40633392334,  ["y"]=253.3699798584,  ["angle"]=158.67658996582,  ["name"]="Miller & Son",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1995.1848144531,  ["timestamp"]=1769161896,  ["z"]=84.749008178711,  ["y"]=-1544.71875,  ["angle"]=171.19714355469,  ["name"]="Mountian Hole",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=699.43371582031,  ["timestamp"]=1769161937,  ["z"]=16.3359375,  ["y"]=-524.98620605469,  ["angle"]=336.18084716797,  ["name"]="Mr Grants Bike Shed",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-2813.6232910156,  ["timestamp"]=1769162010,  ["z"]=140.84375,  ["y"]=-1523.0137939453,  ["angle"]=147.96403503418,  ["name"]="Mt. Chilliad hill-house",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2109.845703125,  ["timestamp"]=1769162039,  ["z"]=2.0063586235046,  ["y"]=-99.035308837891,  ["angle"]=125.4645690918,  ["name"]="Nice Wheelchair",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-429.47308349609,  ["timestamp"]=1769162316,  ["z"]=124.3046875,  ["y"]=2502.0356445313,  ["angle"]=339.95532226563,  ["name"]="on top of the cock-rock",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=257.56774902344,  ["timestamp"]=1769162369,  ["z"]=1.578125,  ["y"]=-66.508781433105,  ["angle"]=67.334365844727,  ["name"]="Phat Liquor",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=258.54034423828,  ["timestamp"]=1769162956,  ["z"]=9.2511940002441,  ["y"]=2898.0817871094,  ["angle"]=249.90887451172,  ["name"]="Pink (Ocean View) House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=869.69183349609,  ["timestamp"]=1769163168,  ["z"]=63.1953125,  ["y"]=-36.712886810303,  ["angle"]=74.209815979004,  ["name"]="Rusty, Old, Broken Walton",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=853.65991210938,  ["timestamp"]=1769163603,  ["z"]=18.40482711792,  ["y"]=-597.31109619141,  ["angle"]=199.84941101074,  ["name"]="Solarin Industries",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1337.1077880859,  ["timestamp"]=1769163648,  ["z"]=48.785339355469,  ["y"]=-2933.9077148438,  ["angle"]=246.6070098877,  ["name"]="Southmost point in SA",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-851.85845947266,  ["timestamp"]=1769163674,  ["z"]=45.812496185303,  ["y"]=2739.205078125,  ["angle"]=311.93649291992,  ["name"]="Tee Pee Motel",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=691.29656982422,  ["timestamp"]=1769163702,  ["z"]=5.5390625,  ["y"]=1943.21875,  ["angle"]=344.74472045898,  ["name"]="The Big Spread Ranch",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-50.394664764404,  ["timestamp"]=1769163747,  ["z"]=5.4296875,  ["y"]=-279.271484375,  ["angle"]=4.4188561439514,  ["name"]="The Fleischberg Factory",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1297.7447509766,  ["timestamp"]=1769163996,  ["z"]=87.042236328125,  ["y"]=2491.3513183594,  ["angle"]=41.762104034424,  ["name"]="Ghostly Town",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-750.59558105469,  ["timestamp"]=1769164270,  ["z"]=23.366907119751,  ["y"]=-2113.6616210938,  ["angle"]=3.697342634201,  ["name"]="Tree House",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-920.45318603516,  ["timestamp"]=1769164301,  ["z"]=129.0207824707,  ["y"]=1905.4306640625,  ["angle"]=243.05990600586,  ["name"]="Two Leaning pylons",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-81.323837280273,  ["timestamp"]=1769164337,  ["z"]=10.274950027466,  ["y"]=1373.5838623047,  ["angle"]=72.012855529785,  ["name"]="UFO bar",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=-1082.6029052734,  ["timestamp"]=1769164454,  ["z"]=76.3671875,  ["y"]=-1635.2940673828,  ["angle"]=103.6016998291,  ["name"]="Welcome to The Truth's drugfarm",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1183.912109375,  ["timestamp"]=1769164740,  ["z"]=23.87487411499,  ["y"]=-1155.5991210938,  ["angle"]=162.64584350586,  ["name"]="Blastin Fools Records",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2075.0444335938,  ["timestamp"]=1769164794,  ["z"]=13.546875,  ["y"]=-1887.1331787109,  ["angle"]=111.08929443359,  ["name"]="Dragon",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=934.30792236328,  ["timestamp"]=1769164829,  ["z"]=24.691259384155,  ["y"]=-1058.2331542969,  ["angle"]=325.04840087891,  ["name"]="Ghost Graffiti",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2526.0703125,  ["timestamp"]=1769164869,  ["z"]=15.15398311615,  ["y"]=-1668.8825683594,  ["angle"]=282.08831787109,  ["name"]="Grove Basketball",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1119.1501464844,  ["timestamp"]=1769164898,  ["z"]=23.65625,  ["y"]=-1137.5784912109,  ["angle"]=49.241382598877,  ["name"]="Half Cocked",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1728.3076171875,  ["timestamp"]=1769165099,  ["z"]=30.8984375,  ["y"]=-1309.9593505859,  ["angle"]=106.8669052124,  ["name"]="Homies Sharp",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=2315.1342773438,  ["inVehicle"]=true,  ["name"]="Bank without a vault",  ["y"]=-6.5241613388062,  ["angle"]=31.984354019165,  ["z"]=26.317296981812,  ["timestamp"]=1769165324}, {  ["interior"]=0,  ["x"]=-804.40356445313,  ["inVehicle"]=true,  ["name"]="Horseshoes",  ["y"]=-2261.6291503906,  ["angle"]=141.0652923584,  ["z"]=39.067756652832,  ["timestamp"]=1769165576}, {  ["interior"]=0,  ["x"]=2211.78515625,  ["timestamp"]=1769305584,  ["z"]=10.390944480896,  ["y"]=2522.3806152344,  ["angle"]=54.306163787842,  ["name"]="Wedding Tackle",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=520.88665771484,  ["timestamp"]=1769305682,  ["z"]=27.240566253662,  ["y"]=-1302.2985839844,  ["angle"]=120.72334289551,  ["name"]="Grotti Dealership",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=1882.1351318359,  ["timestamp"]=1769305920,  ["z"]=14.053046226501,  ["y"]=-1315.8294677734,  ["angle"]=355.8896484375,  ["name"]="Unfinished buildin near the skatepark",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2429.33984375,  ["timestamp"]=1769306132,  ["z"]=34.887950897217,  ["y"]=-152.99459838867,  ["angle"]=41.816581726074,  ["name"]="We've Got Crabs!",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-1057.7281494141,  ["timestamp"]=1769306602,  ["z"]=128.7300567627,  ["y"]=-1195.3757324219,  ["angle"]=151.6146697998,  ["name"]="Cult Farm",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=614.259765625,  ["timestamp"]=1769306698,  ["z"]=17.981662750244,  ["y"]=-1229.0985107422,  ["angle"]=104.39298248291,  ["name"]="Credit And Commerce Bank",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2584.10546875,  ["timestamp"]=1769306811,  ["z"]=4.4223575592041,  ["y"]=309.27416992188,  ["angle"]=142.92510986328,  ["name"]="Garden Center",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1247.9174804688,  ["timestamp"]=1769306921,  ["z"]=19.1282787323,  ["y"]=336.36083984375,  ["angle"]=150.15995788574,  ["name"]="Crippen Memorial Hospital",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=851.91241455078,  ["timestamp"]=1769307052,  ["z"]=13.11980342865,  ["y"]=-1587.5837402344,  ["angle"]=2.2939703464508,  ["name"]="Toy Corner",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-1458.1098632813,  ["timestamp"]=1769307170,  ["z"]=6.7352213859558,  ["y"]=389.16152954102,  ["angle"]=199.16931152344,  ["name"]="Easter Basin Naval Base",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2675.8332519531,  ["timestamp"]=1769307922,  ["z"]=14.026267051697,  ["y"]=633.93823242188,  ["angle"]=22.408554077148,  ["name"]="SF Hospital",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=17.314361572266,  ["timestamp"]=1769307960,  ["z"]=39.995140075684,  ["y"]=-2641.4836425781,  ["angle"]=216.23434448242,  ["name"]="69 Store",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1803.2747802734,  ["timestamp"]=1769308050,  ["z"]=12.984740257263,  ["y"]=-1573.4860839844,  ["angle"]=101.73136901855,  ["name"]="Los Santos Prison",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1099.9664306641,  ["timestamp"]=1769308282,  ["z"]=114.02174377441,  ["y"]=-824.46881103516,  ["angle"]=28.082738876343,  ["name"]="UFO House",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2050.2614746094,  ["timestamp"]=1769308579,  ["z"]=32.376857757568,  ["y"]=250.45590209961,  ["angle"]=6.1491150856018,  ["name"]="Rest In Cement",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1670.9958496094,  ["timestamp"]=1769308819,  ["z"]=13.097045898438,  ["y"]=-1859.1059570313,  ["angle"]=88.845733642578,  ["name"]="Ugaladajara Jewelry Plaza",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2313.4790039063,  ["timestamp"]=1769308908,  ["z"]=34.884857177734,  ["y"]=14.669025421143,  ["angle"]=328.86663818359,  ["name"]="Pastageddon",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1039.5402832031,  ["inVehicle"]=true,  ["name"]="Milkshake",  ["y"]=-1300.1748046875,  ["angle"]=224.56051635742,  ["z"]=20.935810089111,  ["timestamp"]=1769312430}, {  ["interior"]=0,  ["x"]=2443.5034179688,  ["inVehicle"]=true,  ["name"]="Rodriguez Iron Works",  ["y"]=-1425.9267578125,  ["angle"]=2.0002820491791,  ["z"]=23.571937561035,  ["timestamp"]=1769312781}, {  ["interior"]=0,  ["x"]=1699.1251220703,  ["inVehicle"]=true,  ["name"]="Atrium",  ["y"]=-1667.8635253906,  ["angle"]=279.4541015625,  ["z"]=19.76390838623,  ["timestamp"]=1769313132}, {  ["interior"]=0,  ["x"]=2301.0219726563,  ["inVehicle"]=true,  ["name"]="Little Lady",  ["y"]=14.556113243103,  ["angle"]=208.85003662109,  ["z"]=26.04870223999,  ["timestamp"]=1769313409}, {  ["interior"]=0,  ["x"]=1543.7551269531,  ["inVehicle"]=true,  ["name"]="Big Bananas",  ["y"]=1126.0639648438,  ["angle"]=47.917060852051,  ["z"]=10.382527351379,  ["timestamp"]=1769313602}, {  ["interior"]=0,  ["x"]=1492.1552734375,  ["inVehicle"]=true,  ["name"]="Plug it in and enjoy",  ["y"]=-945.23413085938,  ["angle"]=11.42993927002,  ["z"]=50.847476959229,  ["timestamp"]=1769313781}, {  ["interior"]=0,  ["x"]=-1800.7766113281,  ["inVehicle"]=true,  ["name"]="Michelle's Auto Repair",  ["y"]=1196.1583251953,  ["angle"]=123.03667449951,  ["z"]=24.591375350952,  ["timestamp"]=1769315168}, {  ["interior"]=0,  ["x"]=2336.9768066406,  ["inVehicle"]=true,  ["name"]="Jazz Mags",  ["y"]=30.910707473755,  ["angle"]=5.8237338066101,  ["z"]=26.038778305054,  ["timestamp"]=1769315606}, {  ["interior"]=0,  ["x"]=2158.9833984375,  ["inVehicle"]=true,  ["name"]="Sity Burgers",  ["y"]=-1744.4909667969,  ["angle"]=42.799716949463,  ["z"]=13.119799613953,  ["timestamp"]=1769315708}, {  ["interior"]=0,  ["x"]=1560.3751220703,  ["inVehicle"]=true,  ["name"]="Broffles Waffles",  ["y"]=1011.0053710938,  ["angle"]=1.5430289506912,  ["z"]=10.375789642334,  ["timestamp"]=1769315863}, {  ["interior"]=0,  ["x"]=2768.0112304688,  ["inVehicle"]=true,  ["name"]="Under Frederick Bridge",  ["y"]=598.68676757813,  ["angle"]=82.274803161621,  ["z"]=4.9725656509399,  ["timestamp"]=1769315974}, {  ["interior"]=0,  ["x"]=2449.2485351563,  ["inVehicle"]=true,  ["name"]="Emmet",  ["y"]=-1969.1079101563,  ["angle"]=39.883255004883,  ["z"]=13.471845626831,  ["timestamp"]=1769316042}, {  ["interior"]=0,  ["x"]=494.99990844727,  ["inVehicle"]=true,  ["name"]="Rodeo Style since 1888",  ["y"]=-1569.6473388672,  ["angle"]=345.88079833984,  ["z"]=17.221809387207,  ["timestamp"]=1769316151}, {  ["interior"]=0,  ["x"]=1070.1163330078,  ["inVehicle"]=true,  ["name"]="L.S Eyeworks",  ["y"]=-1305.1540527344,  ["angle"]=270.98715209961,  ["z"]=13.082368850708,  ["timestamp"]=1769316272}, {  ["interior"]=0,  ["x"]=665.00555419922,  ["inVehicle"]=true,  ["name"]="Santa Maria Gym",  ["y"]=-1866.7493896484,  ["angle"]=30.977136611938,  ["z"]=5.0217185020447,  ["timestamp"]=1769316389}, {  ["interior"]=0,  ["x"]=1316.3618164063,  ["inVehicle"]=true,  ["name"]="Reservoir Dregs",  ["y"]=-1712.6696777344,  ["angle"]=338.71954345703,  ["z"]=12.958008766174,  ["timestamp"]=1769316511}, {  ["interior"]=0,  ["x"]=-1548.3057861328,  ["inVehicle"]=false,  ["name"]="Underwater Tunnel",  ["y"]=1343.5333251953,  ["angle"]=104.81069946289,  ["z"]=-8.0484094619751,  ["timestamp"]=1769316587}, {  ["interior"]=0,  ["x"]=1654.8602294922,  ["inVehicle"]=true,  ["name"]="Turning Trailers into Homes",  ["y"]=1774.4455566406,  ["angle"]=184.91400146484,  ["z"]=10.392961502075,  ["timestamp"]=1769316747}, {  ["interior"]=0,  ["x"]=1303.3811035156,  ["inVehicle"]=true,  ["name"]="Nice Buns",  ["y"]=361.67642211914,  ["angle"]=136.9508972168,  ["z"]=19.272565841675,  ["timestamp"]=1769316852}, {  ["interior"]=0,  ["x"]=1118.2255859375,  ["inVehicle"]=true,  ["name"]="Observatory",  ["y"]=-2038.7333984375,  ["angle"]=120.45261383057,  ["z"]=77.78539276123,  ["timestamp"]=1769317349}, {  ["interior"]=0,  ["x"]=2090.9274902344,  ["inVehicle"]=true,  ["name"]="Tony's Liquor",  ["y"]=-1904.1739501953,  ["angle"]=316.95465087891,  ["z"]=13.09047794342,  ["timestamp"]=1769317477}, {  ["interior"]=0,  ["x"]=2035.759765625,  ["inVehicle"]=true,  ["name"]="Millie Perkins House",  ["y"]=2729.0498046875,  ["angle"]=220.61520385742,  ["z"]=10.391459465027,  ["timestamp"]=1769317651}, {  ["interior"]=0,  ["x"]=-1904.1473388672,  ["timestamp"]=1769326773,  ["z"]=34.57555770874,  ["y"]=818.40179443359,  ["angle"]=35.590850830078,  ["name"]="Midair Burger",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2166.4086914063,  ["timestamp"]=1769327148,  ["z"]=32.262229919434,  ["y"]=2162.8471679688,  ["angle"]=216.6870880127,  ["name"]="Avery Carrington",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2542.9934082031,  ["timestamp"]=1769327206,  ["z"]=36.996543884277,  ["y"]=1227.6939697266,  ["angle"]=87.431663513184,  ["name"]="A piece of cable",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2442.0590820313,  ["inVehicle"]=true,  ["name"]="Supa Save",  ["y"]=751.58416748047,  ["angle"]=215.28643798828,  ["z"]=42.941223144531,  ["timestamp"]=1769327976}, {  ["interior"]=0,  ["x"]=-2429.9104003906,  ["inVehicle"]=true,  ["name"]="Joint Festival",  ["y"]=39.7585105896,  ["angle"]=270.4563293457,  ["z"]=34.569660186768,  ["timestamp"]=1769328237}, {  ["interior"]=0,  ["x"]=-2551.421875,  ["inVehicle"]=true,  ["name"]="Gaydar Station",  ["y"]=193.72634887695,  ["angle"]=130.6028137207,  ["z"]=5.7552847862244,  ["timestamp"]=1769328396}, {  ["interior"]=0,  ["x"]=2518.4421386719,  ["inVehicle"]=true,  ["name"]="Dick's Sound",  ["y"]=2334.1345214844,  ["angle"]=95.509834289551,  ["z"]=10.382420539856,  ["timestamp"]=1769328512}, {  ["interior"]=0,  ["x"]=1751.61328125,  ["inVehicle"]=true,  ["name"]="We'll keep you in the GREEN!",  ["y"]=2231.6865234375,  ["angle"]=317.16619873047,  ["z"]=10.394904136658,  ["timestamp"]=1769328605}, {  ["interior"]=0,  ["x"]=835.46044921875,  ["inVehicle"]=true,  ["name"]="Verona Beach Pier",  ["y"]=-2065.4262695313,  ["angle"]=175.19860839844,  ["z"]=12.435328483582,  ["timestamp"]=1769328689}, {  ["interior"]=0,  ["x"]=-1570.359375,  ["inVehicle"]=true,  ["name"]="Wanted Exports",  ["y"]=97.89527130127,  ["angle"]=67.970924377441,  ["z"]=3.1224811077118,  ["timestamp"]=1769328791}, {  ["interior"]=0,  ["x"]=805.57818603516,  ["inVehicle"]=true,  ["name"]="Power Video Rentals",  ["y"]=-1061.3526611328,  ["angle"]=274.98776245117,  ["z"]=24.435707092285,  ["timestamp"]=1769328985}, {  ["interior"]=0,  ["x"]=-731.39019775391,  ["inVehicle"]=true,  ["name"]="Village Ruins",  ["y"]=1546.5270996094,  ["angle"]=53.066886901855,  ["z"]=38.551898956299,  ["timestamp"]=1769329194}, {  ["interior"]=0,  ["x"]=-2751.4506835938,  ["inVehicle"]=true,  ["name"]="Palm Trees in SF",  ["y"]=-312.63989257813,  ["angle"]=36.358322143555,  ["z"]=6.6259665489197,  ["timestamp"]=1769329366}, {  ["interior"]=0,  ["x"]=303.82705688477,  ["inVehicle"]=true,  ["name"]="Avery Construction",  ["y"]=-221.20710754395,  ["angle"]=151.765625,  ["z"]=1.1531180143356,  ["timestamp"]=1769329831}, {  ["interior"]=0,  ["x"]=-937.15661621094,  ["inVehicle"]=true,  ["name"]="Darkest Tunnel",  ["y"]=-1496.4125976563,  ["angle"]=351.25885009766,  ["z"]=91.223220825195,  ["timestamp"]=1769330316}, {  ["interior"]=0,  ["x"]=-1935.9024658203,  ["inVehicle"]=true,  ["name"]="Downtown Square",  ["y"]=883.26190185547,  ["angle"]=154.66058349609,  ["z"]=38.086429595947,  ["timestamp"]=1769330409}, {  ["interior"]=0,  ["x"]=-472.5397644043,  ["inVehicle"]=true,  ["name"]="Bloody Shacks",  ["y"]=-180.59552001953,  ["angle"]=21.152742385864,  ["z"]=77.772346496582,  ["timestamp"]=1769330697}, {  ["interior"]=0,  ["x"]=0.090279169380665,  ["inVehicle"]=true,  ["name"]="Centerpoint",  ["y"]=-1.3481508493423,  ["angle"]=341.77069091797,  ["z"]=2.6902813911438,  ["timestamp"]=1769330973}, {  ["interior"]=0,  ["x"]=2079.0881347656,  ["inVehicle"]=true,  ["name"]="Diamond SPecialists",  ["y"]=-1199.6234130859,  ["angle"]=277.68267822266,  ["z"]=23.470996856689,  ["timestamp"]=1769331211}, {  ["interior"]=0,  ["x"]=-2080.6945800781,  ["inVehicle"]=false,  ["name"]="Wrecking Ball",  ["y"]=296.48025512695,  ["angle"]=247.26551818848,  ["z"]=69.767906188965,  ["timestamp"]=1769331319}, {  ["interior"]=0,  ["x"]=2660.1027832031,  ["inVehicle"]=false,  ["name"]="Power Station in LS",  ["y"]=-1449.3482666016,  ["angle"]=208.60241699219,  ["z"]=79.38053894043,  ["timestamp"]=1769331597}, {  ["interior"]=0,  ["x"]=2044.2766113281,  ["inVehicle"]=true,  ["name"]="The Bahamas",  ["y"]=-1278.4772949219,  ["angle"]=271.60784912109,  ["z"]=36.80509185791,  ["timestamp"]=1769331702}, {  ["interior"]=0,  ["x"]=1022.8177490234,  ["inVehicle"]=true,  ["name"]="Chinese Theater",  ["y"]=-1122.3291015625,  ["angle"]=6.8202185630798,  ["z"]=23.419269561768,  ["timestamp"]=1769332490}, {  ["interior"]=0,  ["x"]=2536.0500488281,  ["inVehicle"]=true,  ["name"]="S.W.A.T Break In",  ["y"]=-1292.7567138672,  ["angle"]=108.30570220947,  ["z"]=34.495792388916,  ["timestamp"]=1769332668}, {  ["interior"]=0,  ["x"]=1936.4261474609,  ["inVehicle"]=true,  ["name"]="Demolition in progress",  ["y"]=2353.5812988281,  ["angle"]=231.21792602539,  ["z"]=10.381269454956,  ["timestamp"]=1769332893}, {  ["interior"]=0,  ["x"]=757.43463134766,  ["inVehicle"]=true,  ["name"]="Four Tennis Court",  ["y"]=-1259.6036376953,  ["angle"]=65.099174499512,  ["z"]=13.136520385742,  ["timestamp"]=1769333161}, {  ["interior"]=0,  ["x"]=2483.0539550781,  ["inVehicle"]=true,  ["name"]="Sushi Man",  ["y"]=-1955.7570800781,  ["angle"]=117.8212890625,  ["z"]=12.964849472046,  ["timestamp"]=1769333420}, {  ["interior"]=0,  ["x"]=-2592.5363769531,  ["inVehicle"]=true,  ["name"]="RIP Opposition",  ["y"]=9.0257844924927,  ["angle"]=268.22708129883,  ["z"]=3.8837418556213,  ["timestamp"]=1769333561}, {  ["interior"]=0,  ["x"]=1258.8862304688,  ["inVehicle"]=true,  ["name"]="Starballs",  ["y"]=-1271.4282226563,  ["angle"]=314.99951171875,  ["z"]=13.131150245667,  ["timestamp"]=1769333633}, {  ["interior"]=0,  ["x"]=1951.8955078125,  ["inVehicle"]=true,  ["name"]="Mexian Food & Salvadorean Food",  ["y"]=-1985.1563720703,  ["angle"]=43.192218780518,  ["z"]=13.097611427307,  ["timestamp"]=1769333683}, {  ["interior"]=0,  ["x"]=-72.586227416992,  ["inVehicle"]=true,  ["name"]="The ol' Camper Park",  ["y"]=-1557.6944580078,  ["angle"]=233.20991516113,  ["z"]=2.1667265892029,  ["timestamp"]=1769333835}, {  ["interior"]=0,  ["x"]=-1738.4545898438,  ["inVehicle"]=true,  ["name"]="Plane Sign",  ["y"]=-577.49542236328,  ["angle"]=176.74778747559,  ["z"]=33.305690765381,  ["timestamp"]=1769333934}, {  ["interior"]=0,  ["x"]=477.73635864258,  ["inVehicle"]=true,  ["name"]="24 Carat Dogg",  ["y"]=-1275.9906005859,  ["angle"]=143.86787414551,  ["z"]=29.67875289917,  ["timestamp"]=1769334079}, {  ["interior"]=0,  ["x"]=2463.44140625,  ["inVehicle"]=true,  ["name"]="Carniceria",  ["y"]=-1943.5517578125,  ["angle"]=145.48377990723,  ["z"]=13.184126853943,  ["timestamp"]=1769335119}, {  ["interior"]=0,  ["x"]=-2021.2709960938,  ["inVehicle"]=true,  ["name"]="SF Fire Station",  ["y"]=82.988471984863,  ["angle"]=162.29093933105,  ["z"]=27.560401916504,  ["timestamp"]=1769335261}, {  ["interior"]=0,  ["x"]=2421.2395019531,  ["inVehicle"]=true,  ["name"]="Totally Nude",  ["y"]=-1222.1811523438,  ["angle"]=341.17489624023,  ["z"]=24.913347244263,  ["timestamp"]=1769335541}, {  ["interior"]=0,  ["x"]=1307.0264892578,  ["timestamp"]=1769339831,  ["z"]=23.390077590942,  ["y"]=-1156.9982910156,  ["angle"]=95.005744934082,  ["name"]="Sodom Sex Toys",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2091.9250488281,  ["timestamp"]=1769339926,  ["z"]=25.489042282104,  ["y"]=2313.6228027344,  ["angle"]=349.07406616211,  ["name"]="Lighthouse Ruins",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2174.5087890625,  ["timestamp"]=1769340332,  ["z"]=30.047252655029,  ["y"]=-2439.0251464844,  ["angle"]=136.09141540527,  ["name"]="Trashed Vice City Maps",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2848.8217773438,  ["timestamp"]=1769340529,  ["z"]=10.940396308899,  ["y"]=1291.2849121094,  ["angle"]=293.57626342773,  ["name"]="Linden Station",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2178.4643554688,  ["timestamp"]=1769340577,  ["z"]=30.182069778442,  ["y"]=-2399.6220703125,  ["angle"]=140.36346435547,  ["name"]="Powertool Paradise",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1996.4683837891,  ["timestamp"]=1769340664,  ["z"]=23.435855865479,  ["y"]=-1279.9136962891,  ["angle"]=178.9013671875,  ["name"]="Chef Mings",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2520.5498046875,  ["timestamp"]=1769340812,  ["z"]=28.091310501099,  ["y"]=-1376.7130126953,  ["angle"]=340.26620483398,  ["name"]="Jellystone International",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-1697.1922607422,  ["timestamp"]=1769340970,  ["z"]=44.764148712158,  ["y"]=1035.5827636719,  ["angle"]=278.80700683594,  ["name"]="Unused Bombshop in SF",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=784.60638427734,  ["timestamp"]=1769341354,  ["z"]=24.593494415283,  ["y"]=-1030.2495117188,  ["angle"]=160.88586425781,  ["name"]="Discharger Evacuator III",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-1026.4016113281,  ["timestamp"]=1769341491,  ["z"]=135.50491333008,  ["y"]=-705.72064208984,  ["angle"]=38.454261779785,  ["name"]="Large chemical plant",  ["inVehicle"]=false}, {  ["interior"]=0,  ["x"]=489.21987915039,  ["timestamp"]=1769341541,  ["z"]=33.014469146729,  ["y"]=-1402.6066894531,  ["angle"]=93.805122375488,  ["name"]="Lust for Men",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1351.1232910156,  ["inVehicle"]=true,  ["name"]="Bio Engineering",  ["y"]=348.49423217773,  ["angle"]=299.16864013672,  ["z"]=19.943872451782,  ["timestamp"]=1769341995}, {  ["interior"]=0,  ["x"]=203.05599975586,  ["inVehicle"]=true,  ["name"]="Abandoned Truck Terminal",  ["y"]=-228.20820617676,  ["angle"]=51.4560546875,  ["z"]=1.339760184288,  ["timestamp"]=1769342160}, {  ["interior"]=0,  ["x"]=823.89685058594,  ["inVehicle"]=true,  ["name"]="Market Station",  ["y"]=-1361.9437255859,  ["angle"]=166.26472473145,  ["z"]=-0.95239984989166,  ["timestamp"]=1769342932}, {  ["interior"]=0,  ["x"]=913.48614501953,  ["inVehicle"]=true,  ["name"]="Meet me a the film Studio",  ["y"]=-1232.9558105469,  ["angle"]=130.29400634766,  ["z"]=16.672527313232,  ["timestamp"]=1769343073}, {  ["interior"]=0,  ["x"]=2037.2301025391,  ["inVehicle"]=true,  ["name"]="Pet Grooming",  ["y"]=-1084.8459472656,  ["angle"]=253.31750488281,  ["z"]=24.172374725342,  ["timestamp"]=1769343363}, {  ["interior"]=0,  ["x"]=1070.7906494141,  ["timestamp"]=1769354510,  ["z"]=16.456733703613,  ["y"]=-1221.5383300781,  ["angle"]=203.4757232666,  ["name"]="LS Fashions",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=332.77481079102,  ["timestamp"]=1769354587,  ["z"]=35.424083709717,  ["y"]=-1518.53515625,  ["angle"]=198.98036193848,  ["name"]="Rodeo Hotel",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1308.265625,  ["timestamp"]=1769355707,  ["z"]=36.186599731445,  ["y"]=254.28057861328,  ["angle"]=260.46768188477,  ["name"]="Spinnin Sprunk",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1463.6702880859,  ["timestamp"]=1769355878,  ["z"]=23.417110443115,  ["y"]=-1022.4622192383,  ["angle"]=219.89227294922,  ["name"]="LS Opera",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-95.86092376709,  ["timestamp"]=1769356035,  ["z"]=19.315353393555,  ["y"]=1085.2385253906,  ["angle"]=125.16528320313,  ["name"]="HI K69",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2861.5263671875,  ["timestamp"]=1769356665,  ["z"]=11.297701835632,  ["y"]=-1408.1320800781,  ["angle"]=122.68468475342,  ["name"]="Santos Investment",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-108.04974365234,  ["timestamp"]=1769357311,  ["z"]=19.308877944946,  ["y"]=1208.1671142578,  ["angle"]=294.74694824219,  ["name"]="U Get Inn Mote;",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2608.0534667969,  ["inVehicle"]=true,  ["name"]="The Wizard Of Ass",  ["y"]=163.78321838379,  ["angle"]=270.25347900391,  ["z"]=3.895339012146,  ["timestamp"]=1769427919}, {  ["interior"]=0,  ["x"]=1685.4953613281,  ["inVehicle"]=true,  ["name"]="Gangsta Bail Bonds",  ["y"]=-1584.279296875,  ["angle"]=9.8528270721436,  ["z"]=13.121403694153,  ["timestamp"]=1769428003}, {  ["interior"]=0,  ["x"]=1466.7203369141,  ["inVehicle"]=true,  ["name"]="CHUCKUP",  ["y"]=1039.5140380859,  ["angle"]=90.566993713379,  ["z"]=9.6303539276123,  ["timestamp"]=1769428318}, {  ["interior"]=0,  ["x"]=1046.0278320313,  ["inVehicle"]=true,  ["name"]="College",  ["y"]=1013.7835083008,  ["angle"]=90.536460876465,  ["z"]=10.560394287109,  ["timestamp"]=1769428413}, {  ["interior"]=0,  ["x"]=-67.687034606934,  ["inVehicle"]=true,  ["name"]="We'll dump your load",  ["y"]=-1123.65625,  ["angle"]=94.530349731445,  ["z"]=0.65050983428955,  ["timestamp"]=1769428887}, {  ["interior"]=0,  ["x"]=-2183.2707519531,  ["timestamp"]=1769435646,  ["z"]=35.293933868408,  ["y"]=-2438.35546875,  ["angle"]=201.84858703613,  ["name"]="Photo Opportunity",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1918.9107666016,  ["timestamp"]=1769436059,  ["z"]=10.381138801575,  ["y"]=2249.3215332031,  ["angle"]=177.13447570801,  ["name"]="Drive Thru Mental Clinic",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1496.1568603516,  ["inVehicle"]=true,  ["name"]="Yellow Bell Golf",  ["y"]=2772.98828125,  ["angle"]=11.810371398926,  ["z"]=10.387042045593,  ["timestamp"]=1769438137}, {  ["interior"]=0,  ["x"]=-2025.7375488281,  ["inVehicle"]=true,  ["name"]="Learning to drive is Hard",  ["y"]=-100.06693267822,  ["angle"]=186.08616638184,  ["z"]=34.725444793701,  ["timestamp"]=1769438179}, {  ["interior"]=0,  ["x"]=-2185.6081542969,  ["inVehicle"]=true,  ["name"]="Learn to be a captain!",  ["y"]=2410.9484863281,  ["angle"]=312.12292480469,  ["z"]=4.545129776001,  ["timestamp"]=1769438262}, {  ["interior"]=0,  ["x"]=2824.3112792969,  ["inVehicle"]=true,  ["name"]="Ship docked in LS",  ["y"]=-2388.0275878906,  ["angle"]=58.010215759277,  ["z"]=11.640369415283,  ["timestamp"]=1769438365}, {  ["interior"]=0,  ["x"]=418.74130249023,  ["inVehicle"]=true,  ["name"]="Candy Suxxx",  ["y"]=-1314.2048339844,  ["angle"]=24.492443084717,  ["z"]=31.925401687622,  ["timestamp"]=1769438432}, {  ["interior"]=0,  ["x"]=-658.20703125,  ["inVehicle"]=true,  ["name"]="Small dock near a ranch",  ["y"]=881.11334228516,  ["angle"]=213.53031921387,  ["z"]=1.5778888463974,  ["timestamp"]=1769438590}, {  ["interior"]=0,  ["x"]=-2406.2561035156,  ["inVehicle"]=true,  ["name"]="Vank Hoff in the park",  ["y"]=325.98413085938,  ["angle"]=35.508346557617,  ["z"]=34.748508453369,  ["timestamp"]=1769438639}, {  ["interior"]=0,  ["x"]=1174.1199951172,  ["inVehicle"]=true,  ["name"]="Turning Trick, ADvanced Motoring LV",  ["y"]=1349.5961914063,  ["angle"]=213.00239562988,  ["z"]=10.495004653931,  ["timestamp"]=1769438734}, {  ["interior"]=0,  ["x"]=2171.0786132813,  ["inVehicle"]=true,  ["name"]="LS: Breakable SPRUNK sign",  ["y"]=-1515.9384765625,  ["angle"]=205.29437255859,  ["z"]=23.278745651245,  ["timestamp"]=1769438771}, {  ["interior"]=0,  ["x"]=661.31079101563,  ["inVehicle"]=true,  ["name"]="We have gas",  ["y"]=-568.875,  ["angle"]=358.69836425781,  ["z"]=15.909034729004,  ["timestamp"]=1769438814}, {  ["interior"]=0,  ["x"]=-856.96881103516,  ["inVehicle"]=true,  ["name"]="The Smokin Beef Grill",  ["y"]=1535.7578125,  ["angle"]=108.88943481445,  ["z"]=22.158323287964,  ["timestamp"]=1769438931}, {  ["interior"]=0,  ["x"]=-1250.8426513672,  ["inVehicle"]=true,  ["name"]="I bet my Hdra can land on that Ship",  ["y"]=502.25866699219,  ["angle"]=83.785369873047,  ["z"]=17.803932189941,  ["timestamp"]=1769439062}, {  ["interior"]=0,  ["x"]=1717.9930419922,  ["timestamp"]=1769439196,  ["z"]=10.394883155823,  ["y"]=2062.6323242188,  ["angle"]=58.797439575195,  ["name"]="Hazarous Materials Response Team",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=792.16674804688,  ["timestamp"]=1769439241,  ["z"]=12.953588485718,  ["y"]=-1624.5417480469,  ["angle"]=38.845676422119,  ["name"]="A Burger for OG loc",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=10.765969276428,  ["timestamp"]=1769439321,  ["z"]=12.323081970215,  ["y"]=1518.6602783203,  ["angle"]=170.84722900391,  ["name"]="Dried Lake",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2808.2243652344,  ["timestamp"]=1769439410,  ["z"]=24.945724487305,  ["y"]=-1176.7420654297,  ["angle"]=348.95565795898,  ["name"]="A cannon in a house, LS",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2308.0187988281,  ["inVehicle"]=true,  ["name"]="Homerun!",  ["y"]=207.75874328613,  ["angle"]=356.38153076172,  ["z"]=34.886081695557,  ["timestamp"]=1769611540}, {  ["interior"]=0,  ["x"]=2613.8020019531,  ["timestamp"]=1769612062,  ["z"]=10.38970375061,  ["y"]=1271.5616455078,  ["angle"]=68.263343811035,  ["name"]="Fake Stairs",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2370.5698242188,  ["timestamp"]=1769612131,  ["z"]=10.394102096558,  ["y"]=1720.5120849609,  ["angle"]=104.03266143799,  ["name"]="Lipstick",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=527.09857177734,  ["timestamp"]=1769612255,  ["z"]=13.842967987061,  ["y"]=-1760.6658935547,  ["angle"]=11.464171409607,  ["name"]="Substandard",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-1904.1575927734,  ["timestamp"]=1769612621,  ["z"]=24.15545463562,  ["y"]=-608.32830810547,  ["angle"]=131.67906188965,  ["name"]="Jizzy's  girl is kidnapped",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1611.8236083984,  ["timestamp"]=1769612775,  ["z"]=13.109251976013,  ["y"]=-1890.0041503906,  ["angle"]=351.81005859375,  ["name"]="Green Sabre",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=-2463.0009765625,  ["timestamp"]=1769612838,  ["z"]=34.738109588623,  ["y"]=132.35749816895,  ["angle"]=115.63587188721,  ["name"]="The Biffin Bridge Hotel",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1007.3031616211,  ["timestamp"]=1769612953,  ["z"]=12.898692131042,  ["y"]=-1386.8211669922,  ["angle"]=44.554218292236,  ["name"]="Vinewood Wigs",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=1295.7655029297,  ["timestamp"]=1769612998,  ["z"]=32.266025543213,  ["y"]=-985.11975097656,  ["angle"]=117.92501068115,  ["name"]="Hidden Tunnel LS",  ["inVehicle"]=true}, {  ["interior"]=0,  ["x"]=2352.7272949219,  ["inVehicle"]=true,  ["name"]="Burn Baby Burn",  ["y"]=-1169.8610839844,  ["angle"]=182.57348632813,  ["z"]=27.590076446533,  ["timestamp"]=1769726504}, {  ["interior"]=0,  ["x"]=1069.7723388672,  ["inVehicle"]=true,  ["name"]="Zapateria SORID",  ["y"]=-1879.1884765625,  ["angle"]=286.95361328125,  ["z"]=13.11150932312,  ["timestamp"]=1769726587}, {  ["interior"]=0,  ["x"]=-1748.9932861328,  ["inVehicle"]=true,  ["name"]="Big pointy building in SF downtown",  ["y"]=870.08435058594,  ["angle"]=324.05938720703,  ["z"]=24.659265518188,  ["timestamp"]=1769726644}, {  ["interior"]=0,  ["x"]=1174.2735595703,  ["inVehicle"]=true,  ["name"]="All Saint General Hospital",  ["y"]=-1323.6860351563,  ["angle"]=225.14479064941,  ["z"]=14.487200737,  ["timestamp"]=1769726719}, {  ["interior"]=0,  ["x"]=2238.5153808594,  ["inVehicle"]=true,  ["name"]="Ah shit, here we go again.",  ["y"]=-1261.9337158203,  ["angle"]=265.2255859375,  ["z"]=23.502899169922,  ["timestamp"]=1769726762}, {  ["interior"]=0,  ["x"]=-2665.9641113281,  ["inVehicle"]=true,  ["name"]="No easter eggs up here",  ["y"]=1595.0222167969,  ["angle"]=267.9716796875,  ["z"]=216.80310058594,  ["timestamp"]=1769726882}, {  ["interior"]=0,  ["x"]=1554.5969238281,  ["inVehicle"]=true,  ["name"]="LSPD",  ["y"]=-1675.3184814453,  ["angle"]=276.37298583984,  ["z"]=15.762337684631,  ["timestamp"]=1769726960}, {  ["interior"]=0,  ["x"]=-325.59094238281,  ["inVehicle"]=true,  ["name"]="Shooting range",  ["y"]=820.29400634766,  ["angle"]=100.37131500244,  ["z"]=13.896417617798,  ["timestamp"]=1769727213}, {  ["interior"]=0,  ["x"]=-2655.9709472656,  ["z"]=4.3359375,  ["timestamp"]=1769771718,  ["y"]=402.51596069336,  ["angle"]=305.03546142578,  ["name"]="Cop Art",  ["inVehicle"]=false}}
 
 HUMAN READABLE LIST:
 1. Bayside Marina
@@ -21,1098 +21,1493 @@ HUMAN READABLE LIST:
    Angle: 253.31 | Interior: 0
    Saved: 2026-01-22 18:42
 
-4. Yellow Bell Golf
-   Coordinates: 1498.64, 2763.22, 10.29
-   Angle: 332.49 | Interior: 0
-   Saved: 2026-01-22 18:43
-
-5. Hippy Shopper
+4. Hippy Shopper
    Coordinates: -2595.21, 65.94, 3.90
    Angle: 219.49 | Interior: 0
    Saved: 2026-01-22 18:47
 
-6. Actual Piece Of Cable
+5. Actual Piece Of Cable
    Coordinates: -2536.21, 1227.59, 37.42
    Angle: 90.79 | Interior: 0
    Saved: 2026-01-22 18:48
 
-7. 8 Track Racing Dome
+6. 8 Track Racing Dome
    Coordinates: 2684.92, -1685.35, 9.43
    Angle: 211.09 | Interior: 0
    Saved: 2026-01-22 18:57
 
-8. A Burger for OG Loc
-   Coordinates: 807.25, -1640.12, 13.55
-   Angle: 9.34 | Interior: 0
-   Saved: 2026-01-22 18:58
-
-9. A Canon in a House ( LS )
-   Coordinates: 2806.95, -1184.59, 25.39
-   Angle: 353.51 | Interior: 0
-   Saved: 2026-01-22 18:59
-
-10. A lake In a Park
+7. A lake In a Park
    Coordinates: 1974.57, -1222.00, 20.02
    Angle: 5.90 | Interior: 0
    Saved: 2026-01-22 19:00
 
-11. Alhambra
+8. Alhambra
    Coordinates: 1828.30, -1684.41, 13.55
    Angle: 289.69 | Interior: 0
    Saved: 2026-01-22 19:00
 
-12. All Saints General Hospital
-   Coordinates: 1184.52, -1324.99, 13.57
-   Angle: 269.35 | Interior: 0
-   Saved: 2026-01-22 19:03
-
-13. Breakable Bridge
+9. Breakable Bridge
    Coordinates: 2437.79, -1657.10, 26.40
    Angle: 355.10 | Interior: 0
    Saved: 2026-01-22 19:03
 
-14. Burn Baby Burn
-   Coordinates: 2351.90, -1161.78, 27.41
-   Angle: 186.60 | Interior: 0
-   Saved: 2026-01-22 19:04
-
-15. Candy Suxx
-   Coordinates: 414.07, -1351.95, 14.78
-   Angle: 6.13 | Interior: 0
-   Saved: 2026-01-22 19:05
-
-16. Cj is Home
+10. Cj is Home
    Coordinates: 2494.98, -1685.74, 13.51
    Angle: 194.44 | Interior: 0
    Saved: 2026-01-22 19:06
 
-17. CJ's First Coffee
+11. CJ's First Coffee
    Coordinates: 2401.19, -1722.92, 13.60
    Angle: 351.52 | Interior: 0
    Saved: 2026-01-22 19:06
 
-18. Cj's First Spawn
+12. Cj's First Spawn
    Coordinates: 2249.92, -1261.42, 23.96
    Angle: 80.38 | Interior: 0
    Saved: 2026-01-22 19:07
 
-19. CJ's First Tagging
+13. CJ's First Tagging
    Coordinates: 2095.02, -1648.53, 13.69
    Angle: 268.86 | Interior: 0
    Saved: 2026-01-22 19:07
 
-20. Cloverleaf Junction
+14. Cloverleaf Junction
    Coordinates: 1661.27, -1013.87, 23.90
    Angle: 45.87 | Interior: 0
    Saved: 2026-01-22 19:08
 
-21. Drive Thru Cluckin' Bell
+15. Drive Thru Cluckin' Bell
    Coordinates: 2371.02, -1919.43, 13.38
    Angle: 310.32 | Interior: 0
    Saved: 2026-01-22 19:09
 
-22. First Hairdresser
+16. First Hairdresser
    Coordinates: 2076.38, -1792.25, 13.55
    Angle: 108.51 | Interior: 0
    Saved: 2026-01-22 19:10
 
-23. First Meal
+17. First Meal
    Coordinates: 2095.52, -1804.10, 13.55
    Angle: 257.38 | Interior: 0
    Saved: 2026-01-22 19:10
 
-24. Graveyard
+18. Graveyard
    Coordinates: 825.34, -1103.70, 25.79
    Angle: 65.93 | Interior: 0
    Saved: 2026-01-22 19:11
 
-25. Ideal Homies Store
+19. Ideal Homies Store
    Coordinates: 2339.24, -1403.76, 23.81
    Angle: 253.50 | Interior: 0
    Saved: 2026-01-22 19:11
 
-26. Inside The Giant Donut
+20. Inside The Giant Donut
    Coordinates: 1036.97, -1358.27, 18.51
    Angle: 349.28 | Interior: 0
    Saved: 2026-01-22 19:12
 
-27. Interglobal Television
+21. Interglobal Television
    Coordinates: 639.20, -1356.51, 13.40
    Angle: 268.65 | Interior: 0
    Saved: 2026-01-22 19:12
 
-28. Yoyojo's records
+22. Yoyojo's records
    Coordinates: 1064.52, -1352.99, 13.38
    Angle: 88.77 | Interior: 0
    Saved: 2026-01-22 19:13
 
-29. Vinyl Countdown
+23. Vinyl Countdown
    Coordinates: 817.12, -1392.49, 13.38
    Angle: 11.67 | Interior: 0
    Saved: 2026-01-22 19:13
 
-30. Gravy Train
+24. Gravy Train
    Coordinates: 1050.09, -1370.99, 13.39
    Angle: 276.40 | Interior: 0
    Saved: 2026-01-22 19:14
 
-31. Spacey
+25. Spacey
    Coordinates: 1093.63, -1277.81, 13.46
    Angle: 2.02 | Interior: 0
    Saved: 2026-01-22 19:14
 
-32. Le Sex Shoppe
+26. Le Sex Shoppe
    Coordinates: 1138.28, -1139.24, 23.66
    Angle: 347.39 | Interior: 0
    Saved: 2026-01-22 19:15
 
-33. Jefferson Motel
+27. Jefferson Motel
    Coordinates: 2226.69, -1150.32, 25.83
    Angle: 204.00 | Interior: 0
    Saved: 2026-01-22 19:16
 
-34. LightHouse
+28. LightHouse
    Coordinates: 153.27, -1940.44, 3.77
    Angle: 17.61 | Interior: 0
    Saved: 2026-01-22 19:16
 
-35. Los Santos Carousel
+29. Los Santos Carousel
    Coordinates: 376.98, -2024.58, 7.83
    Angle: 239.59 | Interior: 0
    Saved: 2026-01-22 19:17
 
-36. LS' Biggest Ammu-Nation
+30. LS' Biggest Ammu-Nation
    Coordinates: 1360.85, -1278.47, 13.38
    Angle: 263.03 | Interior: 0
    Saved: 2026-01-22 19:17
 
-37. LS Bomb Shop
+31. LS Bomb Shop
    Coordinates: 1835.19, -1856.21, 13.39
    Angle: 96.16 | Interior: 0
    Saved: 2026-01-22 19:18
 
-38. In Los Santos Airport
+32. In Los Santos Airport
    Coordinates: 1641.32, -2544.09, 14.99
    Angle: 92.81 | Interior: 0
    Saved: 2026-01-22 19:19
 
-39. LS Train Yard
+33. LS Train Yard
    Coordinates: 2234.14, -2275.02, 14.76
    Angle: 180.85 | Interior: 0
    Saved: 2026-01-22 19:20
 
-40. LS Junkyard
+34. LS Junkyard
    Coordinates: 2195.46, -1976.53, 13.55
    Angle: 151.24 | Interior: 0
    Saved: 2026-01-22 19:20
 
-41. LS Breakable SPRUNK Sign
-   Coordinates: 2168.49, -1507.57, 23.92
-   Angle: 236.32 | Interior: 0
-   Saved: 2026-01-22 19:21
-
-42. LSPD
-   Coordinates: 1545.31, -1675.74, 13.56
-   Angle: 275.35 | Interior: 0
-   Saved: 2026-01-22 19:21
-
-43. Madd Dogg ain't Home
+35. Madd Dogg ain't Home
    Coordinates: 1298.43, -806.48, 84.14
    Angle: 0.77 | Interior: 0
    Saved: 2026-01-22 19:22
 
-44. The Book Emporium
+36. The Book Emporium
    Coordinates: 829.60, -1601.30, 13.38
    Angle: 323.26 | Interior: 0
    Saved: 2026-01-22 19:23
 
-45. Big S Liqour&deli
+37. Big S Liqour&deli
    Coordinates: 874.04, -1556.09, 20.95
    Angle: 60.92 | Interior: 0
    Saved: 2026-01-22 19:23
 
-46. Movie Star Tour
+38. Movie Star Tour
    Coordinates: 963.84, -1151.41, 23.83
    Angle: 4.15 | Interior: 0
    Saved: 2026-01-22 19:24
 
-47. Papercut, let us fill your office
+39. Papercut, let us fill your office
    Coordinates: 1076.27, -1705.19, 13.55
    Angle: 330.73 | Interior: 0
    Saved: 2026-01-22 19:25
 
-48. Quite Humourous Comedy Club
+40. Quite Humourous Comedy Club
    Coordinates: 1067.34, -950.17, 42.79
    Angle: 39.45 | Interior: 0
    Saved: 2026-01-22 19:26
 
-49. Trailerpark at sea
+41. Trailerpark at sea
    Coordinates: -61.02, -1587.30, 2.61
    Angle: 53.08 | Interior: 0
    Saved: 2026-01-22 19:27
 
-50. SFSE Birthday House
+42. SFSE Birthday House
    Coordinates: 580.32, -1848.71, 5.18
    Angle: 187.21 | Interior: 0
    Saved: 2026-01-22 19:27
 
-51. Son Of a Beach
+43. Son Of a Beach
    Coordinates: 442.57, -1749.39, 8.70
    Angle: 91.61 | Interior: 0
    Saved: 2026-01-22 19:28
 
-52. Ten Green Bottles
+44. Ten Green Bottles
    Coordinates: 2316.73, -1654.12, 14.07
    Angle: 12.70 | Interior: 0
    Saved: 2026-01-22 19:28
 
-53. Sweet Johnson's House
+45. Sweet Johnson's House
    Coordinates: 2511.23, -1676.93, 13.55
    Angle: 277.71 | Interior: 0
    Saved: 2026-01-22 19:29
 
-54. Big Pointy Building in SF Downtown
-   Coordinates: -1759.51, 856.17, 24.73
-   Angle: 339.60 | Interior: 0
-   Saved: 2026-01-22 19:30
-
-55. City Hall
+46. City Hall
    Coordinates: -2753.08, 375.69, 4.14
    Angle: 96.06 | Interior: 0
    Saved: 2026-01-22 19:31
 
-56. Cobra Martial Arts
+47. Cobra Martial Arts
    Coordinates: -2264.60, -156.39, 35.17
    Angle: 58.34 | Interior: 0
    Saved: 2026-01-22 19:32
 
-57. Development Opportunity
+48. Development Opportunity
    Coordinates: -2320.45, -100.09, 35.32
    Angle: 48.45 | Interior: 0
    Saved: 2026-01-22 19:33
 
-58. Five Identical Buildings
+49. Five Identical Buildings
    Coordinates: -2081.74, -850.46, 66.88
    Angle: 177.18 | Interior: 0
    Saved: 2026-01-22 19:34
 
-59. Harry Plums Wholesale Fruit
+50. Harry Plums Wholesale Fruit
    Coordinates: -1803.58, -220.41, 17.63
    Angle: 70.17 | Interior: 0
    Saved: 2026-01-22 19:36
 
-60. Homerun
-   Coordinates: -2306.91, 198.81, 35.31
-   Angle: 16.15 | Interior: 0
-   Saved: 2026-01-22 19:37
-
-61. I bet my Hydra can land on that Ship
-   Coordinates: -1274.27, 503.75, 18.23
-   Angle: 267.05 | Interior: 0
-   Saved: 2026-01-22 19:38
-
-62. Midtown Madness
+51. Midtown Madness
    Coordinates: -2084.62, 929.69, 68.70
    Angle: 272.33 | Interior: 0
    Saved: 2026-01-22 19:44
 
-63. Jizzy's girl is kidnapped
-   Coordinates: -1897.38, -597.95, 24.59
-   Angle: 179.97 | Interior: 0
-   Saved: 2026-01-22 19:44
-
-64. Learning is Hard
-   Coordinates: -2026.10, -97.04, 35.16
-   Angle: 177.32 | Interior: 0
-   Saved: 2026-01-22 19:45
-
-65. Lets play some golf
+52. Lets play some golf
    Coordinates: -2661.49, -276.17, 7.55
    Angle: 179.22 | Interior: 0
    Saved: 2026-01-22 19:47
 
-66. Lets say a prayer
+53. Lets say a prayer
    Coordinates: -1972.69, 1116.10, 53.70
    Angle: 350.23 | Interior: 0
    Saved: 2026-01-22 19:47
 
-67. Lets visit the coke factory
+54. Lets visit the coke factory
    Coordinates: -2165.00, -261.63, 36.52
    Angle: 105.51 | Interior: 0
    Saved: 2026-01-22 19:48
 
-68. Missionary Hill TV Station
+55. Missionary Hill TV Station
    Coordinates: -2516.87, -619.51, 132.57
    Angle: 170.92 | Interior: 0
    Saved: 2026-01-22 19:49
 
-69. Mullholiday and Dulaly
+56. Mullholiday and Dulaly
    Coordinates: -1943.42, 962.61, 54.42
    Angle: 221.54 | Interior: 0
    Saved: 2026-01-22 19:50
 
-70. No Easter eggs up here
-   Coordinates: -2695.44, 1595.21, 217.27
-   Angle: 268.24 | Interior: 0
-   Saved: 2026-01-22 19:50
-
-71. Oil Refinery
+57. Oil Refinery
    Coordinates: -1014.26, -704.00, 136.32
    Angle: 96.63 | Interior: 0
    Saved: 2026-01-22 19:52
 
-72. Pier 69
+58. Pier 69
    Coordinates: -1671.72, 1369.92, 7.17
    Angle: 137.90 | Interior: 0
    Saved: 2026-01-22 19:52
 
-73. San Andreas Federal Mint
+59. San Andreas Federal Mint
    Coordinates: -2441.20, 500.67, 30.10
    Angle: 77.29 | Interior: 0
    Saved: 2026-01-22 20:00
 
-74. SF Vehicle Dealership
+60. SF Vehicle Dealership
    Coordinates: -1989.63, 273.77, 35.17
    Angle: 238.48 | Interior: 0
    Saved: 2026-01-22 20:00
 
-75. The Biffin Bridge Hotel
-   Coordinates: -2453.22, 136.50, 34.97
-   Angle: 127.97 | Interior: 0
-   Saved: 2026-01-22 20:01
-
-76. The Corvin Stadium
+61. The Corvin Stadium
    Coordinates: -2135.37, -426.55, 35.34
    Angle: 72.26 | Interior: 0
    Saved: 2026-01-22 20:01
 
-77. The finest pizza in San Fierro
+62. The finest pizza in San Fierro
    Coordinates: -1804.03, 939.70, 24.89
    Angle: 40.59 | Interior: 0
    Saved: 2026-01-22 20:02
 
-78. The Highest Building In San Fierro
+63. The Highest Building In San Fierro
    Coordinates: -1807.63, 526.51, 234.89
    Angle: 16.42 | Interior: 0
    Saved: 2026-01-22 20:04
 
-79. The Ship Cabin
+64. The Ship Cabin
    Coordinates: -2476.84, 1545.95, 33.23
    Angle: 334.13 | Interior: 0
    Saved: 2026-01-22 20:04
 
-80. The USS Nummutz
+65. The USS Nummutz
    Coordinates: -1892.80, 1469.53, 5.06
    Angle: 229.57 | Interior: 0
    Saved: 2026-01-22 20:05
 
-81. Tuff Nut Donuts
+66. Tuff Nut Donuts
    Coordinates: -2756.48, 781.67, 54.35
    Angle: 84.33 | Interior: 0
    Saved: 2026-01-22 20:05
 
-82. Under The Bridge
+67. Under The Bridge
    Coordinates: -1376.50, 664.90, 3.07
    Angle: 93.66 | Interior: 0
    Saved: 2026-01-22 20:06
 
-83. Vank Hoff In the Park
-   Coordinates: -2394.07, 316.00, 35.17
-   Angle: 54.27 | Interior: 0
-   Saved: 2026-01-22 20:06
-
-84. Zero RC Shop
+68. Zero RC Shop
    Coordinates: -2247.52, 136.05, 35.17
    Angle: 254.62 | Interior: 0
    Saved: 2026-01-22 20:07
 
-85. Zombotech
+69. Zombotech
    Coordinates: -1962.96, 711.92, 46.56
    Angle: 219.89 | Interior: 0
    Saved: 2026-01-22 20:08
 
-86. Emerald Isle
+70. Emerald Isle
    Coordinates: 2131.13, 2363.05, 10.82
    Angle: 16.61 | Interior: 0
    Saved: 2026-01-22 20:09
 
-87. C.R.A.S.H
+71. C.R.A.S.H
    Coordinates: 1602.33, 2648.74, 10.82
    Angle: 268.07 | Interior: 0
    Saved: 2026-01-22 20:10
 
-88. Casino Robbed By CJ
+72. Casino Robbed By CJ
    Coordinates: 2191.87, 1682.67, 12.19
    Angle: 21.33 | Interior: 0
    Saved: 2026-01-22 20:11
 
-89. Casino still in construction
+73. Casino still in construction
    Coordinates: 2447.99, 1945.52, 10.60
    Angle: 3.30 | Interior: 0
    Saved: 2026-01-22 20:11
 
-90. Come First Every Time
+74. Come First Every Time
    Coordinates: 1819.91, 2142.50, 28.92
    Angle: 38.70 | Interior: 0
    Saved: 2026-01-22 20:12
 
-91. Dick's Sounds
+75. Dick's Sounds
    Coordinates: 2526.39, 2335.35, 10.67
    Angle: 277.94 | Interior: 0
    Saved: 2026-01-22 20:13
 
-92. Dragon lovers' casino
+76. Dragon lovers' casino
    Coordinates: 2030.08, 1007.73, 10.82
    Angle: 88.37 | Interior: 0
    Saved: 2026-01-22 20:14
 
-93. Four Big Wheels
+77. Four Big Wheels
    Coordinates: 1658.11, 2206.32, 17.29
    Angle: 186.18 | Interior: 0
    Saved: 2026-01-22 20:15
 
-94. Shody Used Autos
+78. Shody Used Autos
    Coordinates: 1693.52, 1864.71, 10.82
    Angle: 165.32 | Interior: 0
    Saved: 2026-01-22 20:15
 
-95. Guitar Shaped Pool
+79. Guitar Shaped Pool
    Coordinates: 2633.57, 2321.21, 17.82
    Angle: 300.24 | Interior: 0
    Saved: 2026-01-22 20:16
 
-96. The Golden Palms
+80. The Golden Palms
    Coordinates: 2747.19, -1206.01, 67.20
    Angle: 80.23 | Interior: 0
    Saved: 2026-01-22 20:23
 
-97. Turning Tricks Advanced (LV)
-   Coordinates: 1167.06, 1367.18, 10.39
-   Angle: 211.16 | Interior: 0
-   Saved: 2026-01-22 20:25
-
-98. Unused Pay N Spray
+81. Unused Pay N Spray
    Coordinates: 2385.70, 1478.18, 10.27
    Angle: 267.22 | Interior: 0
    Saved: 2026-01-22 20:28
 
-99. The Craw Bar
+82. The Craw Bar
    Coordinates: 2439.80, 2056.58, 10.25
    Angle: 259.26 | Interior: 0
    Saved: 2026-01-22 20:29
 
-100. Hazardous Materials Response Team
-   Coordinates: 1798.99, 2059.80, 10.98
-   Angle: 33.22 | Interior: 0
-   Saved: 2026-01-23 16:56
-
-101. Herro, Welcome to China
+83. Herro, Welcome to China
    Coordinates: 2625.10, 1824.85, 11.02
    Angle: 267.18 | Interior: 0
    Saved: 2026-01-23 16:57
 
-102. Home of the Bandits
+84. Home of the Bandits
    Coordinates: 1381.63, 2180.11, 11.02
    Angle: 344.06 | Interior: 0
    Saved: 2026-01-23 16:58
 
-103. LV Bomb Shop
+85. LV Bomb Shop
    Coordinates: 1997.55, 2297.30, 10.82
    Angle: 356.35 | Interior: 0
    Saved: 2026-01-23 16:59
 
-104. LV City planning department
+86. LV City planning department
    Coordinates: 2421.88, 1118.50, 10.82
    Angle: 56.92 | Interior: 0
    Saved: 2026-01-23 17:00
 
-105. Military Fuel Depot
+87. Military Fuel Depot
    Coordinates: 2462.36, 2760.78, 10.82
    Angle: 297.02 | Interior: 0
    Saved: 2026-01-23 17:01
 
-106. Pipe goes under the water
+88. Pipe goes under the water
    Coordinates: 2927.84, 2120.67, 21.73
    Angle: 265.36 | Interior: 0
    Saved: 2026-01-23 17:02
 
-107. Redsands West Steakhouse
+89. Redsands West Steakhouse
    Coordinates: 1696.70, 2198.29, 10.82
    Angle: 24.57 | Interior: 0
    Saved: 2026-01-23 17:03
 
-108. Royal Casino
+90. Royal Casino
    Coordinates: 2086.14, 1521.26, 10.82
    Angle: 212.46 | Interior: 0
    Saved: 2026-01-23 17:03
 
-109. Souvenirs: Gifts, Hats & Bag
+91. Souvenirs: Gifts, Hats & Bag
    Coordinates: 1919.62, 2414.94, 10.82
    Angle: 40.53 | Interior: 0
    Saved: 2026-01-23 17:04
 
-110. Taking the law into our own hands
+92. Taking the law into our own hands
    Coordinates: 2289.76, 2422.98, 10.82
    Angle: 0.83 | Interior: 0
    Saved: 2026-01-23 17:04
 
-111. The meat factory
+93. The meat factory
    Coordinates: 975.78, 2154.47, 10.82
    Angle: 55.45 | Interior: 0
    Saved: 2026-01-23 17:05
 
-112. The Pirate bay home, real pirate ship
+94. The Pirate bay home, real pirate ship
    Coordinates: 2014.02, 1545.16, 11.26
    Angle: 92.02 | Interior: 0
    Saved: 2026-01-23 17:06
 
-113. The Strip sex shop
+95. The Strip sex shop
    Coordinates: 2095.73, 2076.91, 10.82
    Angle: 98.77 | Interior: 0
    Saved: 2026-01-23 17:06
 
-114. Top of the pyramid
+96. Top of the pyramid
    Coordinates: 2324.98, 1286.71, 93.02
    Angle: 181.73 | Interior: 0
    Saved: 2026-01-23 17:07
 
-115. Underneath the Giant Sphinx
+97. Underneath the Giant Sphinx
    Coordinates: 2194.42, 1286.20, 10.82
    Angle: 97.05 | Interior: 0
    Saved: 2026-01-23 17:07
 
-116. Venturas Steaks
+98. Venturas Steaks
    Coordinates: 2363.83, 2011.69, 10.83
    Angle: 283.27 | Interior: 0
    Saved: 2026-01-23 17:08
 
-117. Welcome to dirtring!
+99. Welcome to dirtring!
    Coordinates: 1099.75, 1611.59, 12.55
    Angle: 179.94 | Interior: 0
    Saved: 2026-01-23 17:09
 
-118. Big Skull
+100. Big Skull
    Coordinates: 2006.86, 1621.21, 11.60
    Angle: 57.93 | Interior: 0
    Saved: 2026-01-23 17:11
 
-119. A Shack in the woods, flint county
+101. A Shack in the woods, flint county
    Coordinates: -1640.64, -2243.17, 31.48
    Angle: 355.63 | Interior: 0
    Saved: 2026-01-23 17:13
 
-120. Alamo
+102. Alamo
    Coordinates: -722.11, 1537.41, 40.41
    Angle: 87.96 | Interior: 0
    Saved: 2026-01-23 17:19
 
-121. Angel Pine hoboshack
+103. Angel Pine hoboshack
    Coordinates: -2293.02, -2440.65, 26.19
    Angle: 178.38 | Interior: 0
    Saved: 2026-01-23 17:19
 
-122. Angel Pine Junkyard
+104. Angel Pine Junkyard
    Coordinates: -1851.44, -1700.74, 40.87
    Angle: 212.91 | Interior: 0
    Saved: 2026-01-23 17:20
 
-123. Angel Pine Sawmill
+105. Angel Pine Sawmill
    Coordinates: -2054.45, -2370.19, 30.63
    Angle: 186.54 | Interior: 0
    Saved: 2026-01-23 17:21
 
-124. Area 69
+106. Area 69
    Coordinates: 214.20, 1873.97, 13.14
    Angle: 96.90 | Interior: 0
    Saved: 2026-01-23 17:21
 
-125. Because we care, Phat Clothing
+107. Because we care, Phat Clothing
    Coordinates: -2496.11, 2357.56, 14.12
    Angle: 3.30 | Interior: 0
    Saved: 2026-01-23 17:23
 
-126. Big Mike's Truck. Performance. Auto
+108. Big Mike's Truck. Performance. Auto
    Coordinates: 622.05, -527.54, 16.19
    Angle: 12.38 | Interior: 0
    Saved: 2026-01-23 17:24
 
-127. Biowaste Well
+109. Biowaste Well
    Coordinates: 1277.80, 292.56, 19.55
    Angle: 68.44 | Interior: 0
    Saved: 2026-01-23 17:25
 
-128. Bub's Hardware
+110. Bub's Hardware
    Coordinates: 2341.54, -67.49, 26.34
    Angle: 93.70 | Interior: 0
    Saved: 2026-01-23 17:27
 
-129. Burned House
+111. Burned House
    Coordinates: 1316.76, 364.27, 19.41
    Angle: 307.49 | Interior: 0
    Saved: 2026-01-23 17:28
 
-130. Cactus Bar
+112. Cactus Bar
    Coordinates: -184.40, 1093.06, 19.59
    Angle: 223.55 | Interior: 0
    Saved: 2026-01-23 17:29
 
-131. Cave
+113. Cave
    Coordinates: -437.08, 1433.30, 20.84
    Angle: 198.09 | Interior: 0
    Saved: 2026-01-23 17:30
 
-132. Dam Camper Park
+114. Dam Camper Park
    Coordinates: -785.29, 1616.67, 27.12
    Angle: 35.81 | Interior: 0
    Saved: 2026-01-23 17:32
 
-133. Desert Bait Shop
+115. Desert Bait Shop
    Coordinates: -1357.72, 2053.99, 56.50
    Angle: 2.18 | Interior: 0
    Saved: 2026-01-23 17:32
 
-134. Desert Bowling
+116. Desert Bowling
    Coordinates: -86.39, 1194.88, 19.59
    Angle: 141.77 | Interior: 0
    Saved: 2026-01-23 17:33
 
-135. Desert Castle
+117. Desert Castle
    Coordinates: -802.75, 1558.17, 27.12
    Angle: 269.46 | Interior: 0
    Saved: 2026-01-23 17:34
 
-136. Deserted Bodybags
+118. Deserted Bodybags
    Coordinates: -134.17, 2247.15, 33.34
    Angle: 335.23 | Interior: 0
    Saved: 2026-01-23 17:34
 
-137. Deserted Snake Farm
+119. Deserted Snake Farm
    Coordinates: -38.44, 2341.28, 24.13
    Angle: 346.28 | Interior: 0
    Saved: 2026-01-23 17:35
 
-138. Dillimore PD
+120. Dillimore PD
    Coordinates: 635.08, -574.98, 16.34
    Angle: 79.26 | Interior: 0
    Saved: 2026-01-23 17:36
 
-139. Drive-in Thearte
+121. Drive-in Thearte
    Coordinates: 110.11, 1101.67, 13.61
    Angle: 1.09 | Interior: 0
    Saved: 2026-01-23 17:37
 
-140. El Quebrados water supply
+122. El Quebrados water supply
    Coordinates: -1465.91, 2637.09, 76.84
    Angle: 314.20 | Interior: 0
    Saved: 2026-01-23 17:37
 
-141. Forgotten Building in North Rock
+123. Forgotten Building in North Rock
    Coordinates: 2340.73, -653.76, 128.80
    Angle: 280.34 | Interior: 0
    Saved: 2026-01-23 17:38
 
-142. Fountain of Youth
+124. Fountain of Youth
    Coordinates: -337.06, 1855.57, 42.51
    Angle: 17.73 | Interior: 0
    Saved: 2026-01-23 17:39
 
-143. Giant Desert Cow
+125. Giant Desert Cow
    Coordinates: -851.79, 1539.24, 22.61
    Angle: 128.05 | Interior: 0
    Saved: 2026-01-23 17:40
 
-144. Giant Desert Chicken
+126. Giant Desert Chicken
    Coordinates: -229.24, 2663.86, 62.62
    Angle: 111.48 | Interior: 0
    Saved: 2026-01-23 17:40
 
-145. Greate Signal Up here!
+127. Greate Signal Up here!
    Coordinates: -333.42, 1607.75, 75.60
    Angle: 100.86 | Interior: 0
    Saved: 2026-01-23 17:41
 
-146. Helena Wankstein's Home
+128. Helena Wankstein's Home
    Coordinates: -378.00, -1441.56, 25.73
    Angle: 68.06 | Interior: 0
    Saved: 2026-01-23 17:42
 
-147. Hoover dam
+129. Hoover dam
    Coordinates: -593.14, 2023.37, 60.19
    Angle: 170.39 | Interior: 0
    Saved: 2026-01-23 17:42
 
-148. Hot water geyser
+130. Hot water geyser
    Coordinates: -329.75, 1862.11, 45.33
    Angle: 155.94 | Interior: 0
    Saved: 2026-01-23 17:43
 
-149. Huge mine
+131. Huge mine
    Coordinates: 592.38, 877.58, -42.50
    Angle: 101.12 | Interior: 0
    Saved: 2026-01-23 17:44
 
-150. I can see the whole world from here
+132. I can see the whole world from here
    Coordinates: 220.32, 1822.79, 7.53
    Angle: 87.86 | Interior: 0
    Saved: 2026-01-23 17:45
 
-151. If I owned all this oil
+133. If I owned all this oil
    Coordinates: 279.96, 1413.73, 10.42
    Angle: 104.00 | Interior: 0
    Saved: 2026-01-23 17:46
 
-152. Learn to be a captain!
-   Coordinates: -2190.85, 2407.21, 4.97
-   Angle: 316.04 | Interior: 0
-   Saved: 2026-01-23 17:46
-
-153. Longest ramp in GTA
+134. Longest ramp in GTA
    Coordinates: -847.68, 2308.71, 154.73
    Angle: 87.89 | Interior: 0
    Saved: 2026-01-23 17:47
 
-154. Loving a Loan
+135. Loving a Loan
    Coordinates: -2157.14, -2415.99, 30.63
    Angle: 119.34 | Interior: 0
    Saved: 2026-01-23 17:48
 
-155. Miller & Son
+136. Miller & Son
    Coordinates: 1275.13, 253.37, 19.41
    Angle: 158.68 | Interior: 0
    Saved: 2026-01-23 17:50
 
-156. Mountian Hole
+137. Mountian Hole
    Coordinates: -1995.18, -1544.72, 84.75
    Angle: 171.20 | Interior: 0
    Saved: 2026-01-23 17:51
 
-157. Mr Grants Bike Shed
+138. Mr Grants Bike Shed
    Coordinates: 699.43, -524.99, 16.34
    Angle: 336.18 | Interior: 0
    Saved: 2026-01-23 17:52
 
-158. Mt. Chilliad hill-house
+139. Mt. Chilliad hill-house
    Coordinates: -2813.62, -1523.01, 140.84
    Angle: 147.96 | Interior: 0
    Saved: 2026-01-23 17:53
 
-159. Nice Wheelchair
+140. Nice Wheelchair
    Coordinates: 2109.85, -99.04, 2.01
    Angle: 125.46 | Interior: 0
    Saved: 2026-01-23 17:53
 
-160. on top of the cock-rock
+141. on top of the cock-rock
    Coordinates: -429.47, 2502.04, 124.30
    Angle: 339.96 | Interior: 0
    Saved: 2026-01-23 17:58
 
-161. Phat Liquor
+142. Phat Liquor
    Coordinates: 257.57, -66.51, 1.58
    Angle: 67.33 | Interior: 0
    Saved: 2026-01-23 17:59
 
-162. Pink (Ocean View) House
+143. Pink (Ocean View) House
    Coordinates: 258.54, 2898.08, 9.25
    Angle: 249.91 | Interior: 0
    Saved: 2026-01-23 18:09
 
-163. Rusty, Old, Broken Walton
+144. Rusty, Old, Broken Walton
    Coordinates: 869.69, -36.71, 63.20
    Angle: 74.21 | Interior: 0
    Saved: 2026-01-23 18:12
 
-164. Solarin Industries
+145. Solarin Industries
    Coordinates: 853.66, -597.31, 18.40
    Angle: 199.85 | Interior: 0
    Saved: 2026-01-23 18:20
 
-165. Southmost point in SA
+146. Southmost point in SA
    Coordinates: -1337.11, -2933.91, 48.79
    Angle: 246.61 | Interior: 0
    Saved: 2026-01-23 18:20
 
-166. Tee Pee Motel
+147. Tee Pee Motel
    Coordinates: -851.86, 2739.21, 45.81
    Angle: 311.94 | Interior: 0
    Saved: 2026-01-23 18:21
 
-167. The Big Spread Ranch
+148. The Big Spread Ranch
    Coordinates: 691.30, 1943.22, 5.54
    Angle: 344.74 | Interior: 0
    Saved: 2026-01-23 18:21
 
-168. The Fleischberg Factory
+149. The Fleischberg Factory
    Coordinates: -50.39, -279.27, 5.43
    Angle: 4.42 | Interior: 0
    Saved: 2026-01-23 18:22
 
-169. Ghostly Town
+150. Ghostly Town
    Coordinates: -1297.74, 2491.35, 87.04
    Angle: 41.76 | Interior: 0
    Saved: 2026-01-23 18:26
 
-170. Tree House
+151. Tree House
    Coordinates: -750.60, -2113.66, 23.37
    Angle: 3.70 | Interior: 0
    Saved: 2026-01-23 18:31
 
-171. Two Leaning pylons
+152. Two Leaning pylons
    Coordinates: -920.45, 1905.43, 129.02
    Angle: 243.06 | Interior: 0
    Saved: 2026-01-23 18:31
 
-172. UFO bar
+153. UFO bar
    Coordinates: -81.32, 1373.58, 10.27
    Angle: 72.01 | Interior: 0
    Saved: 2026-01-23 18:32
 
-173. We have Gas
-   Coordinates: 657.87, -562.49, 16.34
-   Angle: 202.35 | Interior: 0
-   Saved: 2026-01-23 18:32
-
-174. Welcome to The Truth's drugfarm
+154. Welcome to The Truth's drugfarm
    Coordinates: -1082.60, -1635.29, 76.37
    Angle: 103.60 | Interior: 0
    Saved: 2026-01-23 18:34
 
-175. Blastin Fools Records
+155. Blastin Fools Records
    Coordinates: 1183.91, -1155.60, 23.87
    Angle: 162.65 | Interior: 0
    Saved: 2026-01-23 18:39
 
-176. Dragon
+156. Dragon
    Coordinates: 2075.04, -1887.13, 13.55
    Angle: 111.09 | Interior: 0
    Saved: 2026-01-23 18:39
 
-177. Ghost Graffiti
+157. Ghost Graffiti
    Coordinates: 934.31, -1058.23, 24.69
    Angle: 325.05 | Interior: 0
    Saved: 2026-01-23 18:40
 
-178. Grove Basketball
+158. Grove Basketball
    Coordinates: 2526.07, -1668.88, 15.15
    Angle: 282.09 | Interior: 0
    Saved: 2026-01-23 18:41
 
-179. Half Cocked
+159. Half Cocked
    Coordinates: 1119.15, -1137.58, 23.66
    Angle: 49.24 | Interior: 0
    Saved: 2026-01-23 18:41
 
-180. Hidden Tunnel LS
-   Coordinates: 1287.68, -989.40, 32.70
-   Angle: 358.45 | Interior: 0
-   Saved: 2026-01-23 18:44
-
-181. Homies Sharp
+160. Homies Sharp
    Coordinates: 1728.31, -1309.96, 30.90
    Angle: 106.87 | Interior: 0
    Saved: 2026-01-23 18:44
 
-182. Bank without a vault
+161. Bank without a vault
    Coordinates: 2315.13, -6.52, 26.32
    Angle: 31.98 | Interior: 0
    Saved: 2026-01-23 18:48
 
-183. Horseshoes
+162. Horseshoes
    Coordinates: -804.40, -2261.63, 39.07
    Angle: 141.07 | Interior: 0
    Saved: 2026-01-23 18:52
 
-184. Wedding Tackle
+163. Wedding Tackle
    Coordinates: 2211.79, 2522.38, 10.39
    Angle: 54.31 | Interior: 0
    Saved: 2026-01-25 09:46
 
-185. Grotti Dealership
+164. Grotti Dealership
    Coordinates: 520.89, -1302.30, 27.24
    Angle: 120.72 | Interior: 0
    Saved: 2026-01-25 09:48
 
-186. Unfinished buildin near the skatepark
+165. Unfinished buildin near the skatepark
    Coordinates: 1882.14, -1315.83, 14.05
    Angle: 355.89 | Interior: 0
    Saved: 2026-01-25 09:52
 
-187. We've Got Crabs!
+166. We've Got Crabs!
    Coordinates: -2429.34, -152.99, 34.89
    Angle: 41.82 | Interior: 0
    Saved: 2026-01-25 09:55
 
-188. Cult Farm
+167. Cult Farm
    Coordinates: -1057.73, -1195.38, 128.73
    Angle: 151.61 | Interior: 0
    Saved: 2026-01-25 10:03
 
-189. Credit And Commerce Bank
+168. Credit And Commerce Bank
    Coordinates: 614.26, -1229.10, 17.98
    Angle: 104.39 | Interior: 0
    Saved: 2026-01-25 10:04
 
-190. Garden Center
+169. Garden Center
    Coordinates: -2584.11, 309.27, 4.42
    Angle: 142.93 | Interior: 0
    Saved: 2026-01-25 10:06
 
-191. Crippen Memorial Hospital
+170. Crippen Memorial Hospital
    Coordinates: 1247.92, 336.36, 19.13
    Angle: 150.16 | Interior: 0
    Saved: 2026-01-25 10:08
 
-192. Toy Corner
+171. Toy Corner
    Coordinates: 851.91, -1587.58, 13.12
    Angle: 2.29 | Interior: 0
    Saved: 2026-01-25 10:10
 
-193. Easter Basin Naval Base
+172. Easter Basin Naval Base
    Coordinates: -1458.11, 389.16, 6.74
    Angle: 199.17 | Interior: 0
    Saved: 2026-01-25 10:12
 
-194. SF Hospital
+173. SF Hospital
    Coordinates: -2675.83, 633.94, 14.03
    Angle: 22.41 | Interior: 0
    Saved: 2026-01-25 10:25
 
-195. 69 Store
+174. 69 Store
    Coordinates: 17.31, -2641.48, 40.00
    Angle: 216.23 | Interior: 0
    Saved: 2026-01-25 10:26
 
-196. Los Santos Prison
+175. Los Santos Prison
    Coordinates: 1803.27, -1573.49, 12.98
    Angle: 101.73 | Interior: 0
    Saved: 2026-01-25 10:27
 
-197. UFO House
+176. UFO House
    Coordinates: 1099.97, -824.47, 114.02
    Angle: 28.08 | Interior: 0
    Saved: 2026-01-25 10:31
 
-198. Rest In Cement
+177. Rest In Cement
    Coordinates: -2050.26, 250.46, 32.38
    Angle: 6.15 | Interior: 0
    Saved: 2026-01-25 10:36
 
-199. Ugaladajara Jewelry Plaza
+178. Ugaladajara Jewelry Plaza
    Coordinates: 1671.00, -1859.11, 13.10
    Angle: 88.85 | Interior: 0
    Saved: 2026-01-25 10:40
 
-200. Pastageddon
+179. Pastageddon
    Coordinates: -2313.48, 14.67, 34.88
    Angle: 328.87 | Interior: 0
    Saved: 2026-01-25 10:41
 
-201. Milkshake
+180. Milkshake
    Coordinates: 1039.54, -1300.17, 20.94
    Angle: 224.56 | Interior: 0
    Saved: 2026-01-25 11:40
 
-202. Rodriguez Iron Works
+181. Rodriguez Iron Works
    Coordinates: 2443.50, -1425.93, 23.57
    Angle: 2.00 | Interior: 0
    Saved: 2026-01-25 11:46
 
-203. Atrium
+182. Atrium
    Coordinates: 1699.13, -1667.86, 19.76
    Angle: 279.45 | Interior: 0
    Saved: 2026-01-25 11:52
 
-204. Little Lady
+183. Little Lady
    Coordinates: 2301.02, 14.56, 26.05
    Angle: 208.85 | Interior: 0
    Saved: 2026-01-25 11:56
 
-205. Big Bananas
+184. Big Bananas
    Coordinates: 1543.76, 1126.06, 10.38
    Angle: 47.92 | Interior: 0
    Saved: 2026-01-25 12:00
 
-206. Plug it in and enjoy
+185. Plug it in and enjoy
    Coordinates: 1492.16, -945.23, 50.85
    Angle: 11.43 | Interior: 0
    Saved: 2026-01-25 12:03
 
-207. Michelle's Auto Repair
+186. Michelle's Auto Repair
    Coordinates: -1800.78, 1196.16, 24.59
    Angle: 123.04 | Interior: 0
    Saved: 2026-01-25 12:26
 
-208. Jazz Mags
+187. Jazz Mags
    Coordinates: 2336.98, 30.91, 26.04
    Angle: 5.82 | Interior: 0
    Saved: 2026-01-25 12:33
 
-209. Sity Burgers
+188. Sity Burgers
    Coordinates: 2158.98, -1744.49, 13.12
    Angle: 42.80 | Interior: 0
    Saved: 2026-01-25 12:35
 
-210. Broffles Waffles
+189. Broffles Waffles
    Coordinates: 1560.38, 1011.01, 10.38
    Angle: 1.54 | Interior: 0
    Saved: 2026-01-25 12:37
 
-211. Under Frederick Bridge
+190. Under Frederick Bridge
    Coordinates: 2768.01, 598.69, 4.97
    Angle: 82.27 | Interior: 0
    Saved: 2026-01-25 12:39
 
-212. Emmet
+191. Emmet
    Coordinates: 2449.25, -1969.11, 13.47
    Angle: 39.88 | Interior: 0
    Saved: 2026-01-25 12:40
 
-213. Rodeo Style since 1888
+192. Rodeo Style since 1888
    Coordinates: 495.00, -1569.65, 17.22
    Angle: 345.88 | Interior: 0
    Saved: 2026-01-25 12:42
 
-214. L.S Eyeworks
+193. L.S Eyeworks
    Coordinates: 1070.12, -1305.15, 13.08
    Angle: 270.99 | Interior: 0
    Saved: 2026-01-25 12:44
 
-215. Santa Maria Gym
+194. Santa Maria Gym
    Coordinates: 665.01, -1866.75, 5.02
    Angle: 30.98 | Interior: 0
    Saved: 2026-01-25 12:46
 
-216. Reservoir Dregs
+195. Reservoir Dregs
    Coordinates: 1316.36, -1712.67, 12.96
    Angle: 338.72 | Interior: 0
    Saved: 2026-01-25 12:48
 
-217. Underwater Tunnel
+196. Underwater Tunnel
    Coordinates: -1548.31, 1343.53, -8.05
    Angle: 104.81 | Interior: 0
    Saved: 2026-01-25 12:49
 
-218. Turning Trailers into Homes
+197. Turning Trailers into Homes
    Coordinates: 1654.86, 1774.45, 10.39
    Angle: 184.91 | Interior: 0
    Saved: 2026-01-25 12:52
 
-219. Nice Buns
+198. Nice Buns
    Coordinates: 1303.38, 361.68, 19.27
    Angle: 136.95 | Interior: 0
    Saved: 2026-01-25 12:54
 
-220. Observatory
+199. Observatory
    Coordinates: 1118.23, -2038.73, 77.79
    Angle: 120.45 | Interior: 0
    Saved: 2026-01-25 13:02
 
-221. Tony's Liquor
+200. Tony's Liquor
    Coordinates: 2090.93, -1904.17, 13.09
    Angle: 316.95 | Interior: 0
    Saved: 2026-01-25 13:04
 
-222. Millie Perkins House
+201. Millie Perkins House
    Coordinates: 2035.76, 2729.05, 10.39
    Angle: 220.62 | Interior: 0
    Saved: 2026-01-25 13:07
+
+202. Midair Burger
+   Coordinates: -1904.15, 818.40, 34.58
+   Angle: 35.59 | Interior: 0
+   Saved: 2026-01-25 15:39
+
+203. Avery Carrington
+   Coordinates: 2166.41, 2162.85, 32.26
+   Angle: 216.69 | Interior: 0
+   Saved: 2026-01-25 15:45
+
+204. A piece of cable
+   Coordinates: -2542.99, 1227.69, 37.00
+   Angle: 87.43 | Interior: 0
+   Saved: 2026-01-25 15:46
+
+205. Supa Save
+   Coordinates: -2442.06, 751.58, 42.94
+   Angle: 215.29 | Interior: 0
+   Saved: 2026-01-25 15:59
+
+206. Joint Festival
+   Coordinates: -2429.91, 39.76, 34.57
+   Angle: 270.46 | Interior: 0
+   Saved: 2026-01-25 16:03
+
+207. Gaydar Station
+   Coordinates: -2551.42, 193.73, 5.76
+   Angle: 130.60 | Interior: 0
+   Saved: 2026-01-25 16:06
+
+208. Dick's Sound
+   Coordinates: 2518.44, 2334.13, 10.38
+   Angle: 95.51 | Interior: 0
+   Saved: 2026-01-25 16:08
+
+209. We'll keep you in the GREEN!
+   Coordinates: 1751.61, 2231.69, 10.39
+   Angle: 317.17 | Interior: 0
+   Saved: 2026-01-25 16:10
+
+210. Verona Beach Pier
+   Coordinates: 835.46, -2065.43, 12.44
+   Angle: 175.20 | Interior: 0
+   Saved: 2026-01-25 16:11
+
+211. Wanted Exports
+   Coordinates: -1570.36, 97.90, 3.12
+   Angle: 67.97 | Interior: 0
+   Saved: 2026-01-25 16:13
+
+212. Power Video Rentals
+   Coordinates: 805.58, -1061.35, 24.44
+   Angle: 274.99 | Interior: 0
+   Saved: 2026-01-25 16:16
+
+213. Village Ruins
+   Coordinates: -731.39, 1546.53, 38.55
+   Angle: 53.07 | Interior: 0
+   Saved: 2026-01-25 16:19
+
+214. Palm Trees in SF
+   Coordinates: -2751.45, -312.64, 6.63
+   Angle: 36.36 | Interior: 0
+   Saved: 2026-01-25 16:22
+
+215. Avery Construction
+   Coordinates: 303.83, -221.21, 1.15
+   Angle: 151.77 | Interior: 0
+   Saved: 2026-01-25 16:30
+
+216. Darkest Tunnel
+   Coordinates: -937.16, -1496.41, 91.22
+   Angle: 351.26 | Interior: 0
+   Saved: 2026-01-25 16:38
+
+217. Downtown Square
+   Coordinates: -1935.90, 883.26, 38.09
+   Angle: 154.66 | Interior: 0
+   Saved: 2026-01-25 16:40
+
+218. Bloody Shacks
+   Coordinates: -472.54, -180.60, 77.77
+   Angle: 21.15 | Interior: 0
+   Saved: 2026-01-25 16:44
+
+219. Centerpoint
+   Coordinates: 0.09, -1.35, 2.69
+   Angle: 341.77 | Interior: 0
+   Saved: 2026-01-25 16:49
+
+220. Diamond SPecialists
+   Coordinates: 2079.09, -1199.62, 23.47
+   Angle: 277.68 | Interior: 0
+   Saved: 2026-01-25 16:53
+
+221. Wrecking Ball
+   Coordinates: -2080.69, 296.48, 69.77
+   Angle: 247.27 | Interior: 0
+   Saved: 2026-01-25 16:55
+
+222. Power Station in LS
+   Coordinates: 2660.10, -1449.35, 79.38
+   Angle: 208.60 | Interior: 0
+   Saved: 2026-01-25 16:59
+
+223. The Bahamas
+   Coordinates: 2044.28, -1278.48, 36.81
+   Angle: 271.61 | Interior: 0
+   Saved: 2026-01-25 17:01
+
+224. Chinese Theater
+   Coordinates: 1022.82, -1122.33, 23.42
+   Angle: 6.82 | Interior: 0
+   Saved: 2026-01-25 17:14
+
+225. S.W.A.T Break In
+   Coordinates: 2536.05, -1292.76, 34.50
+   Angle: 108.31 | Interior: 0
+   Saved: 2026-01-25 17:17
+
+226. Demolition in progress
+   Coordinates: 1936.43, 2353.58, 10.38
+   Angle: 231.22 | Interior: 0
+   Saved: 2026-01-25 17:21
+
+227. Four Tennis Court
+   Coordinates: 757.43, -1259.60, 13.14
+   Angle: 65.10 | Interior: 0
+   Saved: 2026-01-25 17:26
+
+228. Sushi Man
+   Coordinates: 2483.05, -1955.76, 12.96
+   Angle: 117.82 | Interior: 0
+   Saved: 2026-01-25 17:30
+
+229. RIP Opposition
+   Coordinates: -2592.54, 9.03, 3.88
+   Angle: 268.23 | Interior: 0
+   Saved: 2026-01-25 17:32
+
+230. Starballs
+   Coordinates: 1258.89, -1271.43, 13.13
+   Angle: 315.00 | Interior: 0
+   Saved: 2026-01-25 17:33
+
+231. Mexian Food & Salvadorean Food
+   Coordinates: 1951.90, -1985.16, 13.10
+   Angle: 43.19 | Interior: 0
+   Saved: 2026-01-25 17:34
+
+232. The ol' Camper Park
+   Coordinates: -72.59, -1557.69, 2.17
+   Angle: 233.21 | Interior: 0
+   Saved: 2026-01-25 17:37
+
+233. Plane Sign
+   Coordinates: -1738.45, -577.50, 33.31
+   Angle: 176.75 | Interior: 0
+   Saved: 2026-01-25 17:38
+
+234. 24 Carat Dogg
+   Coordinates: 477.74, -1275.99, 29.68
+   Angle: 143.87 | Interior: 0
+   Saved: 2026-01-25 17:41
+
+235. Carniceria
+   Coordinates: 2463.44, -1943.55, 13.18
+   Angle: 145.48 | Interior: 0
+   Saved: 2026-01-25 17:58
+
+236. SF Fire Station
+   Coordinates: -2021.27, 82.99, 27.56
+   Angle: 162.29 | Interior: 0
+   Saved: 2026-01-25 18:01
+
+237. Totally Nude
+   Coordinates: 2421.24, -1222.18, 24.91
+   Angle: 341.17 | Interior: 0
+   Saved: 2026-01-25 18:05
+
+238. Sodom Sex Toys
+   Coordinates: 1307.03, -1157.00, 23.39
+   Angle: 95.01 | Interior: 0
+   Saved: 2026-01-25 19:17
+
+239. Lighthouse Ruins
+   Coordinates: -2091.93, 2313.62, 25.49
+   Angle: 349.07 | Interior: 0
+   Saved: 2026-01-25 19:18
+
+240. Trashed Vice City Maps
+   Coordinates: -2174.51, -2439.03, 30.05
+   Angle: 136.09 | Interior: 0
+   Saved: 2026-01-25 19:25
+
+241. Linden Station
+   Coordinates: 2848.82, 1291.28, 10.94
+   Angle: 293.58 | Interior: 0
+   Saved: 2026-01-25 19:28
+
+242. Powertool Paradise
+   Coordinates: -2178.46, -2399.62, 30.18
+   Angle: 140.36 | Interior: 0
+   Saved: 2026-01-25 19:29
+
+243. Chef Mings
+   Coordinates: 1996.47, -1279.91, 23.44
+   Angle: 178.90 | Interior: 0
+   Saved: 2026-01-25 19:31
+
+244. Jellystone International
+   Coordinates: 2520.55, -1376.71, 28.09
+   Angle: 340.27 | Interior: 0
+   Saved: 2026-01-25 19:33
+
+245. Unused Bombshop in SF
+   Coordinates: -1697.19, 1035.58, 44.76
+   Angle: 278.81 | Interior: 0
+   Saved: 2026-01-25 19:36
+
+246. Discharger Evacuator III
+   Coordinates: 784.61, -1030.25, 24.59
+   Angle: 160.89 | Interior: 0
+   Saved: 2026-01-25 19:42
+
+247. Large chemical plant
+   Coordinates: -1026.40, -705.72, 135.50
+   Angle: 38.45 | Interior: 0
+   Saved: 2026-01-25 19:44
+
+248. Lust for Men
+   Coordinates: 489.22, -1402.61, 33.01
+   Angle: 93.81 | Interior: 0
+   Saved: 2026-01-25 19:45
+
+249. Bio Engineering
+   Coordinates: 1351.12, 348.49, 19.94
+   Angle: 299.17 | Interior: 0
+   Saved: 2026-01-25 19:53
+
+250. Abandoned Truck Terminal
+   Coordinates: 203.06, -228.21, 1.34
+   Angle: 51.46 | Interior: 0
+   Saved: 2026-01-25 19:56
+
+251. Market Station
+   Coordinates: 823.90, -1361.94, -0.95
+   Angle: 166.26 | Interior: 0
+   Saved: 2026-01-25 20:08
+
+252. Meet me a the film Studio
+   Coordinates: 913.49, -1232.96, 16.67
+   Angle: 130.29 | Interior: 0
+   Saved: 2026-01-25 20:11
+
+253. Pet Grooming
+   Coordinates: 2037.23, -1084.85, 24.17
+   Angle: 253.32 | Interior: 0
+   Saved: 2026-01-25 20:16
+
+254. LS Fashions
+   Coordinates: 1070.79, -1221.54, 16.46
+   Angle: 203.48 | Interior: 0
+   Saved: 2026-01-25 23:21
+
+255. Rodeo Hotel
+   Coordinates: 332.77, -1518.54, 35.42
+   Angle: 198.98 | Interior: 0
+   Saved: 2026-01-25 23:23
+
+256. Spinnin Sprunk
+   Coordinates: 1308.27, 254.28, 36.19
+   Angle: 260.47 | Interior: 0
+   Saved: 2026-01-25 23:41
+
+257. LS Opera
+   Coordinates: 1463.67, -1022.46, 23.42
+   Angle: 219.89 | Interior: 0
+   Saved: 2026-01-25 23:44
+
+258. HI K69
+   Coordinates: -95.86, 1085.24, 19.32
+   Angle: 125.17 | Interior: 0
+   Saved: 2026-01-25 23:47
+
+259. Santos Investment
+   Coordinates: 2861.53, -1408.13, 11.30
+   Angle: 122.68 | Interior: 0
+   Saved: 2026-01-25 23:57
+
+260. U Get Inn Mote;
+   Coordinates: -108.05, 1208.17, 19.31
+   Angle: 294.75 | Interior: 0
+   Saved: 2026-01-26 00:08
+
+261. The Wizard Of Ass
+   Coordinates: -2608.05, 163.78, 3.90
+   Angle: 270.25 | Interior: 0
+   Saved: 2026-01-26 19:45
+
+262. Gangsta Bail Bonds
+   Coordinates: 1685.50, -1584.28, 13.12
+   Angle: 9.85 | Interior: 0
+   Saved: 2026-01-26 19:46
+
+263. CHUCKUP
+   Coordinates: 1466.72, 1039.51, 9.63
+   Angle: 90.57 | Interior: 0
+   Saved: 2026-01-26 19:51
+
+264. College
+   Coordinates: 1046.03, 1013.78, 10.56
+   Angle: 90.54 | Interior: 0
+   Saved: 2026-01-26 19:53
+
+265. We'll dump your load
+   Coordinates: -67.69, -1123.66, 0.65
+   Angle: 94.53 | Interior: 0
+   Saved: 2026-01-26 20:01
+
+266. Photo Opportunity
+   Coordinates: -2183.27, -2438.36, 35.29
+   Angle: 201.85 | Interior: 0
+   Saved: 2026-01-26 21:54
+
+267. Drive Thru Mental Clinic
+   Coordinates: 1918.91, 2249.32, 10.38
+   Angle: 177.13 | Interior: 0
+   Saved: 2026-01-26 22:00
+
+268. Yellow Bell Golf
+   Coordinates: 1496.16, 2772.99, 10.39
+   Angle: 11.81 | Interior: 0
+   Saved: 2026-01-26 22:35
+
+269. Learning to drive is Hard
+   Coordinates: -2025.74, -100.07, 34.73
+   Angle: 186.09 | Interior: 0
+   Saved: 2026-01-26 22:36
+
+270. Learn to be a captain!
+   Coordinates: -2185.61, 2410.95, 4.55
+   Angle: 312.12 | Interior: 0
+   Saved: 2026-01-26 22:37
+
+271. Ship docked in LS
+   Coordinates: 2824.31, -2388.03, 11.64
+   Angle: 58.01 | Interior: 0
+   Saved: 2026-01-26 22:39
+
+272. Candy Suxxx
+   Coordinates: 418.74, -1314.20, 31.93
+   Angle: 24.49 | Interior: 0
+   Saved: 2026-01-26 22:40
+
+273. Small dock near a ranch
+   Coordinates: -658.21, 881.11, 1.58
+   Angle: 213.53 | Interior: 0
+   Saved: 2026-01-26 22:43
+
+274. Vank Hoff in the park
+   Coordinates: -2406.26, 325.98, 34.75
+   Angle: 35.51 | Interior: 0
+   Saved: 2026-01-26 22:43
+
+275. Turning Trick, ADvanced Motoring LV
+   Coordinates: 1174.12, 1349.60, 10.50
+   Angle: 213.00 | Interior: 0
+   Saved: 2026-01-26 22:45
+
+276. LS: Breakable SPRUNK sign
+   Coordinates: 2171.08, -1515.94, 23.28
+   Angle: 205.29 | Interior: 0
+   Saved: 2026-01-26 22:46
+
+277. We have gas
+   Coordinates: 661.31, -568.88, 15.91
+   Angle: 358.70 | Interior: 0
+   Saved: 2026-01-26 22:46
+
+278. The Smokin Beef Grill
+   Coordinates: -856.97, 1535.76, 22.16
+   Angle: 108.89 | Interior: 0
+   Saved: 2026-01-26 22:48
+
+279. I bet my Hdra can land on that Ship
+   Coordinates: -1250.84, 502.26, 17.80
+   Angle: 83.79 | Interior: 0
+   Saved: 2026-01-26 22:51
+
+280. Hazarous Materials Response Team
+   Coordinates: 1717.99, 2062.63, 10.39
+   Angle: 58.80 | Interior: 0
+   Saved: 2026-01-26 22:53
+
+281. A Burger for OG loc
+   Coordinates: 792.17, -1624.54, 12.95
+   Angle: 38.85 | Interior: 0
+   Saved: 2026-01-26 22:54
+
+282. Dried Lake
+   Coordinates: 10.77, 1518.66, 12.32
+   Angle: 170.85 | Interior: 0
+   Saved: 2026-01-26 22:55
+
+283. A cannon in a house, LS
+   Coordinates: 2808.22, -1176.74, 24.95
+   Angle: 348.96 | Interior: 0
+   Saved: 2026-01-26 22:56
+
+284. Homerun!
+   Coordinates: -2308.02, 207.76, 34.89
+   Angle: 356.38 | Interior: 0
+   Saved: 2026-01-28 22:45
+
+285. Fake Stairs
+   Coordinates: 2613.80, 1271.56, 10.39
+   Angle: 68.26 | Interior: 0
+   Saved: 2026-01-28 22:54
+
+286. Lipstick
+   Coordinates: 2370.57, 1720.51, 10.39
+   Angle: 104.03 | Interior: 0
+   Saved: 2026-01-28 22:55
+
+287. Substandard
+   Coordinates: 527.10, -1760.67, 13.84
+   Angle: 11.46 | Interior: 0
+   Saved: 2026-01-28 22:57
+
+288. Jizzy's  girl is kidnapped
+   Coordinates: -1904.16, -608.33, 24.16
+   Angle: 131.68 | Interior: 0
+   Saved: 2026-01-28 23:03
+
+289. Green Sabre
+   Coordinates: 1611.82, -1890.00, 13.11
+   Angle: 351.81 | Interior: 0
+   Saved: 2026-01-28 23:06
+
+290. The Biffin Bridge Hotel
+   Coordinates: -2463.00, 132.36, 34.74
+   Angle: 115.64 | Interior: 0
+   Saved: 2026-01-28 23:07
+
+291. Vinewood Wigs
+   Coordinates: 1007.30, -1386.82, 12.90
+   Angle: 44.55 | Interior: 0
+   Saved: 2026-01-28 23:09
+
+292. Hidden Tunnel LS
+   Coordinates: 1295.77, -985.12, 32.27
+   Angle: 117.93 | Interior: 0
+   Saved: 2026-01-28 23:09
+
+293. Burn Baby Burn
+   Coordinates: 2352.73, -1169.86, 27.59
+   Angle: 182.57 | Interior: 0
+   Saved: 2026-01-30 06:41
+
+294. Zapateria SORID
+   Coordinates: 1069.77, -1879.19, 13.11
+   Angle: 286.95 | Interior: 0
+   Saved: 2026-01-30 06:43
+
+295. Big pointy building in SF downtown
+   Coordinates: -1748.99, 870.08, 24.66
+   Angle: 324.06 | Interior: 0
+   Saved: 2026-01-30 06:44
+
+296. All Saint General Hospital
+   Coordinates: 1174.27, -1323.69, 14.49
+   Angle: 225.14 | Interior: 0
+   Saved: 2026-01-30 06:45
+
+297. Ah shit, here we go again.
+   Coordinates: 2238.52, -1261.93, 23.50
+   Angle: 265.23 | Interior: 0
+   Saved: 2026-01-30 06:46
+
+298. No easter eggs up here
+   Coordinates: -2665.96, 1595.02, 216.80
+   Angle: 267.97 | Interior: 0
+   Saved: 2026-01-30 06:48
+
+299. LSPD
+   Coordinates: 1554.60, -1675.32, 15.76
+   Angle: 276.37 | Interior: 0
+   Saved: 2026-01-30 06:49
+
+300. Shooting range
+   Coordinates: -325.59, 820.29, 13.90
+   Angle: 100.37 | Interior: 0
+   Saved: 2026-01-30 06:53
+
+301. Cop Art
+   Coordinates: -2655.97, 402.52, 4.34
+   Angle: 305.04 | Interior: 0
+   Saved: 2026-01-30 19:15
 

@@ -1,0 +1,198 @@
+═══════════════════════════════════════════════════════════════════════════
+                    SAVE POSITION TOOL v3.0 - WHAT'S NEW
+═══════════════════════════════════════════════════════════════════════════
+
+🎯 MAJOR NEW FEATURES:
+
+1. **ESP HUNT MODE** (Press F9)
+   - Shows ALL saved positions on your screen with distance
+   - Perfect for manual hunting! No more guessing where to go
+   - Adjustable distance range (50-500 meters)
+   - Color-coded by category and favorites
+   - Favorite positions shown in GOLD with ★ icon
+   - Category colors: Events=RED, Spots=GREEN, Safe Zones=BLUE, etc.
+
+2. **CATEGORIES & ORGANIZATION**
+   - Organize positions into: Events, Spots, Safe Zones, Resources, Custom
+   - Filter by category to find positions faster
+   - Each position shows its category in the list
+   - Quick category selector for each position
+
+3. **FAVORITES SYSTEM** (★)
+   - Mark important positions as favorites
+   - Filter to show only favorites
+   - Favorites highlighted in GOLD in ESP
+   - Quick toggle with ★ Fav button
+
+4. **DISTANCE CALCULATOR**
+   - Shows distance to EVERY position in real-time
+   - Distances displayed in meters (e.g., "123m")  
+   - Sort by distance to find nearest positions
+   - Performance optimized with caching
+
+5. **SORTING OPTIONS**
+   - Sort by: None, Name (A-Z), Date (newest first), Distance (nearest first)
+   - Works with search and filters
+   - Makes finding positions super easy
+
+6. **ROUTE SYSTEM** (Coming Soon - Foundation Added)
+   - Create routes with multiple positions
+   - Sequential teleporting through route points
+   - Save and load custom routes
+   - Perfect for farming runs
+
+7. **AUTO-BACKUP SYSTEM**
+   - Automatically backs up every 20 saves
+   - Backup saved to: config\SavedPositions_Backup.json
+   - Never lose your positions again!
+   - Manual backup via Export button
+
+8. **MERGE IMPORT**
+   - Import positions WITHOUT replacing existing ones
+   - Checkbox: "Merge with existing (don't replace)"
+   - Automatically skips duplicates
+   - Shows count of added vs skipped positions
+
+9. **DUPLICATE DETECTION**
+   - Warns when saving position too close to existing one (<10m)
+   - Prevents name conflicts
+   - Helps keep your list clean
+
+10. **PERFORMANCE OPTIMIZATIONS**
+    - Distance calculation caching (updates every 500ms)
+    - Optimized ESP rendering
+    - Faster position loading
+    - Reduced memory usage
+
+═══════════════════════════════════════════════════════════════════════════
+                       UTILITY SUITE - IMPROVEMENTS
+═══════════════════════════════════════════════════════════════════════════
+
+🔧 BUG FIXES:
+   - **CRITICAL FIX**: setHighPriority() now actually works!
+     Fixed permission flags from 0x400 to 0x0600
+     (Added PROCESS_SET_INFORMATION permission)
+
+🚀 FPS UNLOCK (FINALLY WORKS!):
+   - Real FPS unlock implementation using memory patching
+   - Removes GTA's 71 FPS cap
+   - Toggle on/off in menu
+   - Safe memory writing with error handling
+   - Shows success/failure messages
+
+═══════════════════════════════════════════════════════════════════════════
+                              HOTKEYS
+═══════════════════════════════════════════════════════════════════════════
+
+SavePosition Tool:
+   F10     - Open/Close Menu
+   F9      - Toggle ESP Hunt Mode ON/OFF
+   
+UtilitySuite:
+   Numpad1 - Open/Close Menu
+
+═══════════════════════════════════════════════════════════════════════════
+                            COMMANDS
+═══════════════════════════════════════════════════════════════════════════
+
+/spos [name]    - Save current position with name
+/lpos [index]   - Load position by index number
+/lpos [name]    - Load position by name (fuzzy search)
+/poslist        - Show all saved positions in chat
+/autotp         - Toggle auto-teleport on/off
+
+═══════════════════════════════════════════════════════════════════════════
+                         HOW TO USE ESP MODE
+═══════════════════════════════════════════════════════════════════════════
+
+1. Press F9 to enable ESP
+2. All saved positions within range will show on screen
+3. Adjust "Distance" slider to show more/less positions
+4. Favorite positions show in GOLD with ★
+5. Each position shows:
+   - Name
+   - Distance in meters
+   - Category color
+6. Perfect for manual hunting - you can see all locations!
+
+═══════════════════════════════════════════════════════════════════════════
+                         UPGRADE NOTES
+═══════════════════════════════════════════════════════════════════════════
+
+✅ All existing positions automatically upgraded with:
+   - favorite = false (can be changed)
+   - category = "Custom" (can be changed)
+
+✅ Fully backward compatible - old saves work perfectly
+
+✅ New backup system protects your data
+
+✅ Import/Export updated to support new features
+
+═══════════════════════════════════════════════════════════════════════════
+                          TIPS & TRICKS
+═══════════════════════════════════════════════════════════════════════════
+
+🎯 Manual Hunting:
+   1. Save all event locations beforehand
+   2. Enable ESP (F9)
+   3. See all locations on screen
+   4. Navigate directly to nearest one!
+
+⭐ Organizing Positions:
+   1. Use categories for different types (Events, Spots, etc.)
+   2. Mark frequently used ones as favorites
+   3. Sort by distance when hunting
+   4. Use search to find specific positions
+
+💾 Backup Strategy:
+   1. Export positions regularly
+   2. Auto-backup happens every 20 saves
+   3. Keep export file safe
+   4. Use merge when importing from friends
+
+🔍 Finding Positions:
+   1. Use search box for quick filtering
+   2. Sort by distance to find nearest
+   3. Filter by category to see specific types
+   4. Toggle favorites to see starred only
+
+═══════════════════════════════════════════════════════════════════════════
+                       FILE LOCATIONS
+═══════════════════════════════════════════════════════════════════════════
+
+Main Save:    moonloader\config\SavedPositions.json
+Auto-Backup:  moonloader\config\SavedPositions_Backup.json
+Export File:  moonloader\config\SavedPositions_Export.txt
+Routes:       moonloader\config\SavedRoutes.json
+
+═══════════════════════════════════════════════════════════════════════════
+                          CHANGELOG
+═══════════════════════════════════════════════════════════════════════════
+
+v3.0 (2026-02-02):
+  + ESP Hunt Mode with F9 hotkey
+  + Categories and organization system
+  + Favorites with star marking
+  + Real-time distance calculator
+  + Multiple sorting options
+  + Route system foundation
+  + Auto-backup every 20 saves
+  + Merge import option
+  + Duplicate position detection
+  + Performance optimizations (caching)
+  + UtilitySuite: Fixed critical priority bug
+  + UtilitySuite: Real FPS unlock implementation
+
+v2.6 (Previous):
+  + Auto-teleport system
+  + Export/Import functionality
+  + Basic position management
+
+═══════════════════════════════════════════════════════════════════════════
+
+Created by: BOJO Dev
+Version: 3.0 ENHANCED
+Date: February 2, 2026
+
+Enjoy hunting! 🎯

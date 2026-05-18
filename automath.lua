@@ -104,12 +104,17 @@ function sampev.onServerMessage(color, text)
     end
 
     local answer = math.floor(tonumber(result) + 0.5)
+    
+    -- Copy the full command to clipboard for easy pasting
+    local clipboardText = ANSWER_CMD .. " " .. answer
+    setClipboardText(clipboardText)
 
     sampAddChatMessage("{00FF00}===========================================", 0xFFFFFF)
     sampAddChatMessage("{FFFF00}Math test = {FFFFFF}" .. equation, 0xFFFFFF)
     sampAddChatMessage("{00FF00}Math Answer : {FFFFFF}" .. answer, 0xFFFFFF)
-    sampAddChatMessage("{FF6600}Type: {FFFFFF}" .. ANSWER_CMD .. " " .. answer, 0xFFFFFF)
+    sampAddChatMessage("{FF6600}Auto-copied to clipboard: {FFFFFF}" .. clipboardText, 0xFFFFFF)
+    sampAddChatMessage("{00FF00}Just press CTRL+V then ENTER!", 0xFFFFFF)
     sampAddChatMessage("{00FF00}===========================================", 0xFFFFFF)
 
-    printStringNow("~y~MATH DETECTED!~n~~g~" .. equation .. " = " .. answer .. "~n~~r~" .. ANSWER_CMD .. " " .. answer, 8000)
+    printStringNow("~y~MATH DETECTED!~n~~g~" .. equation .. " = " .. answer .. "~n~~w~COPIED TO CLIPBOARD!~n~~g~CTRL+V then ENTER", 8000)
 end
