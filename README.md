@@ -95,7 +95,7 @@ Both scripts require the following libraries:
 
 ## Author
 
-**Developed by BOJO Dev**
+**Developed by Bojooow**
 *Version: 4.0*
 
 ---
