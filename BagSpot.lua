@@ -1,26 +1,25 @@
 ﻿--[[
     ┌─────────────────────────────────────────────────────────────────────────┐
-    │                 SAVE POSITION TOOL v4.0 (ULTIMATE)                     │
-    │              MoonLoader Script for SA-MP                               │
-    │                                                                        │
-    │  Features:                                                             │
-    │  • Instant teleport with cooldown                                      │
-    │  • PERMANENT SAVE with export/import/merge                             │
-    │  • Tags                                                   │
-    │  • Distance calculator & sorting                                       │
-    │  • ESP markers for all saved positions (HUNT MODE)                     │
-    │  • Route system (sequential teleports)                                 │
-    │  • Auto-backup & duplicate detection                                   │
-    │  • MONEYBAG TRACKER: ESP lines, Radar, and Auto-TP (on chat hint)      │
-    │  • SOUND ALERTS: Beeps for hints, spawns, and auto-teleport            │
-    │  • PROXIMITY PULSE: Visual and audio indicators for nearby moneybags   │
-    │                                                                        │
-    │  Hotkey: F10 - Menu | F9 - Toggle ESP                                 │
-    │  Commands: /spos, /lpos, /poslist, /uc, /route, /clearfocus, /mbcmd   │
+    │                         BAGSPOT v4.0                                    │
+    │              MoonLoader Script for SA-MP                                │
+    │                                                                         │
+    │  Features:                                                              │
+    │  • Instant teleport with cooldown                                       │
+    │  • Permanent save with export/import/merge                              │
+    │  • Distance calculator and sorting                                      │
+    │  • ESP markers for all saved positions                                  │
+    │  • Route system (sequential teleports)                                  │
+    │  • Auto-backup and duplicate detection                                  │
+    │  • Moneybag tracker: ESP lines, radar, and Auto-TP on chat hint         │
+    │  • Goldpot database matching (NEW tab, smart scoring)                   │
+    │  • Sound alerts and proximity pulse for nearby moneybags                │
+    │                                                                         │
+    │  Hotkey: F10 - Menu | F9 - Toggle ESP                                   │
+    │  Commands: /spos, /lpos, /poslist, /uc, /autotp, /clearfocus            │
     └─────────────────────────────────────────────────────────────────────────┘
 ]]
 
-script_name("SavePosition")
+script_name("BagSpot")
 script_author("BOJO Dev")
 script_version("4.0")
 
@@ -47,7 +46,7 @@ local CONFIG = {
     ROUTES_FILE = getWorkingDirectory() .. "\\config\\SavedRoutes.json",
     HOTKEY = vkeys.VK_F10,
     ESP_HOTKEY = vkeys.VK_F9,
-    WINDOW_TITLE = "Save Position Manager v4.0",
+    WINDOW_TITLE = "BagSpot",
     MAX_NAME_LENGTH = 64,
     TELEPORT_COOLDOWN = 2,
     AUTO_BACKUP_INTERVAL = 20, -- Backup every 20 saves
@@ -102,6 +101,9 @@ local newPositionName = imgui.new.char[CONFIG.MAX_NAME_LENGTH]("")
 local searchFilter = imgui.new.char[64]("")
 local showConfirmDelete = imgui.new.bool(false)
 local deleteIndex = nil
+local renameIndex = nil
+local showRenamePopup = imgui.new.bool(false)
+local renameBuffer = imgui.new.char[CONFIG.MAX_NAME_LENGTH]("")
 local statusMessage = ""
 local statusMessageTime = 0
 local lastTeleportTime = 0
@@ -1247,7 +1249,7 @@ local function doUpdateCoords()
         savedPositions[lastHintedSavedIndex].z = pz
         savedPositions[lastHintedSavedIndex].timestamp = os.time()
         savePositionsToFile()
-        local msg = "{00FF00}[SavePos]{FFFFFF} Updated coords for: {FFFF00}" .. lastHintedName
+        local msg = "{00FF00}[BagSpot]{FFFFFF} Updated coords for: {FFFF00}" .. lastHintedName
         sampAddChatMessage(msg, 0xFFFFFFFF)
         setStatusMessage("✓ Updated coords: " .. lastHintedName)
         return true
@@ -1270,14 +1272,14 @@ local function doUpdateCoords()
             matchGoldpotDatabase()
             saveGoldpotNEW()
         end
-        local msg = "{00FF00}[SavePos]{FFFFFF} Saved exact location: {FFFF00}" .. lastHintedGoldpot.name
+        local msg = "{00FF00}[BagSpot]{FFFFFF} Saved exact location: {FFFF00}" .. lastHintedGoldpot.name
         sampAddChatMessage(msg, 0xFFFFFFFF)
         setStatusMessage("✓ Saved exact location: " .. lastHintedGoldpot.name)
         lastHintedSavedIndex = #savedPositions
         lastHintedGoldpot = nil
         return true
     else
-        sampAddChatMessage("{FF6600}[SavePos]{FFFFFF} No hint detected yet. Wait for a hint first.", 0xFFFFFFFF)
+        sampAddChatMessage("{FF6600}[BagSpot]{FFFFFF} No hint detected yet. Wait for a hint first.", 0xFFFFFFFF)
         return false
     end
 end
@@ -1709,7 +1711,7 @@ local function renderMenu()
     
     -- Header with cooldown indicator
     imgui.PushStyleColor(imgui.Col.Text, CONFIG.COLORS.HEADER)
-    imgui.Text(">> POSITION MANAGER v2.6")
+    imgui.Text(">> BagSpot")
     imgui.PopStyleColor()
     
     -- Cooldown display
@@ -1790,7 +1792,7 @@ local function renderMenu()
         -- Check for duplicate positions by coordinates
         local isDupe, dupeIndex, dupePos = isDuplicatePosition(x, y, z, 10.0)
         if isDupe then
-            sampAddChatMessage(string.format("{FF6600}[SavePos]{FFFFFF} Warning: Position very close to '%s' (%.1fm away)", 
+            sampAddChatMessage(string.format("{FF6600}[BagSpot]{FFFFFF} Warning: Position very close to '%s' (%.1fm away)", 
                 dupePos.name, calculateDistance(x, y, z, dupePos.x, dupePos.y, dupePos.z)), 0xFFFFFFFF)
         end
         
@@ -1826,7 +1828,7 @@ local function renderMenu()
                 -- Auto-backup every X saves
                 if saveCounter % CONFIG.AUTO_BACKUP_INTERVAL == 0 then
                     if createBackup() then
-                        sampAddChatMessage("{00FF00}[SavePos]{FFFFFF} Auto-backup created", 0xFFFFFFFF)
+                        sampAddChatMessage("{00FF00}[BagSpot]{FFFFFF} Auto-backup created", 0xFFFFFFFF)
                     end
                 end
             else
@@ -1878,7 +1880,7 @@ local function renderMenu()
         local success, msg = exportPositions()
         setStatusMessage(msg)
         if success then
-            sampAddChatMessage("{00FF00}[SavePos]{FFFFFF} " .. msg, 0xFFFFFFFF)
+            sampAddChatMessage("{00FF00}[BagSpot]{FFFFFF} " .. msg, 0xFFFFFFFF)
         end
     end
     imgui.PopStyleColor()
@@ -2085,6 +2087,16 @@ local function renderMenu()
             
             imgui.SameLine()
             
+            imgui.PushStyleColor(imgui.Col.Button, CONFIG.COLORS.IMPORT)
+            if imgui.Button("Rename##" .. i, imgui.ImVec2(70, 25)) then
+                renameIndex = i
+                ffi.copy(renameBuffer, pos.name or "")
+                showRenamePopup[0] = true
+            end
+            imgui.PopStyleColor()
+            
+            imgui.SameLine()
+            
             imgui.PushStyleColor(imgui.Col.Button, CONFIG.COLORS.DELETE)
             if imgui.Button("Delete##" .. i, imgui.ImVec2(80, 25)) then
                 deleteIndex = i
@@ -2122,6 +2134,39 @@ local function renderMenu()
     end
 
     imgui.End()
+    
+    -- Rename popup
+    if showRenamePopup[0] and renameIndex and savedPositions[renameIndex] then
+        imgui.SetNextWindowPos(imgui.ImVec2(imgui.GetIO().DisplaySize.x / 2 - 150, imgui.GetIO().DisplaySize.y / 2 - 60))
+        imgui.SetNextWindowSize(imgui.ImVec2(300, 120))
+        if imgui.Begin("Rename Position", showRenamePopup, imgui.WindowFlags.NoResize + imgui.WindowFlags.NoCollapse) then
+            local oldName = savedPositions[renameIndex].name or ""
+            
+            imgui.Text("New name:")
+            imgui.PushItemWidth(260)
+            imgui.InputText("##RenameInput", renameBuffer, CONFIG.MAX_NAME_LENGTH)
+            imgui.PopItemWidth()
+            
+            imgui.Spacing()
+            
+            if imgui.Button("Save", imgui.ImVec2(130, 0)) then
+                local newName = ffi.string(renameBuffer)
+                if newName ~= "" then
+                    savedPositions[renameIndex].name = newName
+                    savedPositions[renameIndex].timestamp = os.time()
+                    savePositionsToFile()
+                    setStatusMessage("✓ Renamed: " .. oldName .. " → " .. newName)
+                    showRenamePopup[0] = false
+                end
+            end
+            
+            imgui.SameLine()
+            if imgui.Button("Cancel", imgui.ImVec2(130, 0)) then
+                showRenamePopup[0] = false
+            end
+        end
+        imgui.End()
+    end
     
     -- Delete confirmation
     if showConfirmDelete[0] then
@@ -2182,7 +2227,7 @@ local function renderMenu()
             if success then
                 showImportWindow[0] = false
                 ffi.fill(importText, 10000)
-                sampAddChatMessage("{00FF00}[SavePos]{FFFFFF} " .. msg, 0xFFFFFFFF)
+                sampAddChatMessage("{00FF00}[BagSpot]{FFFFFF} " .. msg, 0xFFFFFFFF)
             end
         end
         
@@ -2510,16 +2555,16 @@ function main()
     
     -- Load saved positions from file
     if loadPositionsFromFile() then
-        sampAddChatMessage("{00BFFF}[SavePos]{FFFFFF} v3.0 ENHANCED loaded - " .. #savedPositions .. " positions loaded", 0xFFFFFFFF)
+        sampAddChatMessage("{00BFFF}[BagSpot]{FFFFFF} loaded - " .. #savedPositions .. " positions loaded", 0xFFFFFFFF)
     else
-        sampAddChatMessage("{FF0000}[SavePos]{FFFFFF} Failed to load save file", 0xFFFFFFFF)
+        sampAddChatMessage("{FF0000}[BagSpot]{FFFFFF} Failed to load save file", 0xFFFFFFFF)
         savedPositions = {}
     end
     
     -- Load routes
     if loadRoutesFromFile() then
         if #savedRoutes > 0 then
-            sampAddChatMessage("{00BFFF}[SavePos]{FFFFFF} " .. #savedRoutes .. " routes loaded", 0xFFFFFFFF)
+            sampAddChatMessage("{00BFFF}[BagSpot]{FFFFFF} " .. #savedRoutes .. " routes loaded", 0xFFFFFFFF)
         end
     end
     
@@ -2546,7 +2591,7 @@ function main()
         -- Check if name already exists
         local exists, existingIndex = isPositionNameExists(name)
         if exists then
-            sampAddChatMessage("{FF0000}[SavePos]{FFFFFF} Position '" .. name .. "' already exists at #" .. existingIndex, 0xFFFFFFFF)
+            sampAddChatMessage("{FF0000}[BagSpot]{FFFFFF} Position '" .. name .. "' already exists at #" .. existingIndex, 0xFFFFFFFF)
             sampAddChatMessage("{AAAAAA}Use a different name or delete the existing one first", 0xFFFFFFFF)
             return
         end
@@ -2572,7 +2617,7 @@ function main()
             saveGoldpotNEW()
         end
         
-        sampAddChatMessage("{00FF00}[SavePos]{FFFFFF} Saved: " .. name .. " (Total: " .. #savedPositions .. ")", 0xFFFFFFFF)
+        sampAddChatMessage("{00FF00}[BagSpot]{FFFFFF} Saved: " .. name .. " (Total: " .. #savedPositions .. ")", 0xFFFFFFFF)
     end)
     
     sampRegisterChatCommand("lpos", function(params)
@@ -2580,7 +2625,7 @@ function main()
         local index = tonumber(params)
         if index and savedPositions[index] then
             teleportToPosition(savedPositions[index])
-            sampAddChatMessage("{00FF00}[SavePos]{FFFFFF} Teleporting to: " .. savedPositions[index].name, 0xFFFFFFFF)
+            sampAddChatMessage("{00FF00}[BagSpot]{FFFFFF} Teleporting to: " .. savedPositions[index].name, 0xFFFFFFFF)
             return
         end
         
@@ -2590,20 +2635,20 @@ function main()
             if pos then
                 teleportToPosition(pos)
                 local matchQuality = score >= 0.9 and "Exact" or score >= 0.7 and "Good" or "Partial"
-                sampAddChatMessage(string.format("{00FF00}[SavePos]{FFFFFF} Teleporting to: %s [%s match #%d]", 
+                sampAddChatMessage(string.format("{00FF00}[BagSpot]{FFFFFF} Teleporting to: %s [%s match #%d]", 
                     pos.name, matchQuality, idx), 0xFFFFFFFF)
             else
-                sampAddChatMessage("{FF0000}[SavePos]{FFFFFF} No position found matching '" .. params .. "'", 0xFFFFFFFF)
+                sampAddChatMessage("{FF0000}[BagSpot]{FFFFFF} No position found matching '" .. params .. "'", 0xFFFFFFFF)
                 sampAddChatMessage("{AAAAAA}Use /poslist to see all positions", 0xFFFFFFFF)
             end
         else
-            sampAddChatMessage("{FF0000}[SavePos]{FFFFFF} Usage: /lpos [name] or /lpos [index]", 0xFFFFFFFF)
+            sampAddChatMessage("{FF0000}[BagSpot]{FFFFFF} Usage: /lpos [name] or /lpos [index]", 0xFFFFFFFF)
             sampAddChatMessage("{AAAAAA}Example: /lpos cable | /lpos 5", 0xFFFFFFFF)
         end
     end)
     
     sampRegisterChatCommand("poslist", function()
-        sampAddChatMessage("{00BFFF}[SavePos]{FFFFFF} === Saved Positions (" .. #savedPositions .. ") ===", 0xFFFFFFFF)
+        sampAddChatMessage("{00BFFF}[BagSpot]{FFFFFF} === Saved Positions (" .. #savedPositions .. ") ===", 0xFFFFFFFF)
         if #savedPositions == 0 then
             sampAddChatMessage("{AAAAAA}No positions saved. Use /spos to save one.", 0xFFFFFFFF)
         else
@@ -2778,6 +2823,13 @@ function sampev.onDestroyPickup(id)
 end
 
 function sampev.onSendPickedUpPickup(pickupId)
+    if moneyBags[pickupId] and espFocusPosition then
+        local px, py, pz = moneyBags[pickupId].x, moneyBags[pickupId].y, moneyBags[pickupId].z
+        local dist = calculateDistance(px, py, pz, espFocusPosition.x, espFocusPosition.y, espFocusPosition.z)
+        if dist < 10 then
+            espFocusPosition = nil
+        end
+    end
     moneyBags[pickupId] = nil
 end
 
@@ -2958,7 +3010,7 @@ function sampev.onServerMessage(color, text)
                 lastHintedSavedIndex = goldMatch.saved and goldMatch.savedIndex or nil
                 lastHintedGoldpot = goldMatch.saved and nil or goldMatch
                 if goldMatch.saved then
-                    sampAddChatMessage("{FF6600}[SavePos]{FFFFFF} Detected keyword but no position data loaded", 0xFFFFFFFF)
+                    sampAddChatMessage("{FF6600}[BagSpot]{FFFFFF} Detected keyword but no position data loaded", 0xFFFFFFFF)
                     printStringNow("~y~" .. goldMatch.name .. "~n~~w~Detected but no data loaded", 3000)
                 else
                     local shortcutLine = goldMatch.shortcut ~= "" and "~g~" .. goldMatch.shortcut .. "~w~ to go there" or ""
@@ -2995,7 +3047,7 @@ function sampev.onServerMessage(color, text)
                 lastHintedName = hintLocation
                 lastHintedSavedIndex = nil
                 lastHintedGoldpot = newEntry
-                sampAddChatMessage("{FF6600}[SavePos]{FFFFFF} Unknown hint added to DB as NEW: {FFFF00}" .. hintLocation, 0xFFFFFFFF)
+                sampAddChatMessage("{FF6600}[BagSpot]{FFFFFF} Unknown hint added to DB as NEW: {FFFF00}" .. hintLocation, 0xFFFFFFFF)
                 printStringNow("~y~" .. hintLocation .. "~n~~c~NEW~w~: Check Goldpot DB", 3000)
             end
             saveHintAnalytics()
@@ -3038,7 +3090,7 @@ function sampev.onServerMessage(color, text)
             saveHintAnalytics()
             lastHintedSavedIndex = nil
             printStringNow("~y~" .. hintLocation .. "~n~~c~NEW~w~: Added to Goldpot DB", 3000)
-            sampAddChatMessage("{FF6600}[SavePos]{FFFFFF} Added to NEW tab: {FFFF00}" .. hintLocation, 0xFFFFFFFF)
+            sampAddChatMessage("{FF6600}[BagSpot]{FFFFFF} Added to NEW tab: {FFFF00}" .. hintLocation, 0xFFFFFFFF)
             return
         end
         

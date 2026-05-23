@@ -1,27 +1,28 @@
-# Save Position Manager v4.0
+# BagSpot
 
-A high-performance, feature-rich MoonLoader script for **GTA: San Andreas Multiplayer (SA-MP)**. This tool allows players and developers to save, manage, and teleport to multiple coordinates, with advanced **Moneybag Hunting** automation and visualization.
+A high-performance MoonLoader script for **GTA: San Andreas Multiplayer (SA-MP)** — save, manage, and teleport to coordinates with integrated **Moneybag Hunting** automation and radar.
 
 ---
 
 ## Features
 
-### 📍 Position Management
+### Position Management
 * **Instant Teleportation:** Move to saved locations instantly (on-foot or in-vehicle).
 * **Permanent Storage:** All data is saved in `config/SavedPositions.json`.
-* **Smart Search & Filter:** Search through locations and filter by category.
+* **Smart Search:** Search through saved locations by name.
 * **Route System:** Create and execute sequential teleport routes.
 * **Export/Import:** Share your positions or back them up via JSON.
-* **Advanced UI:** Modern, responsive interface built with `mimgui`.
+* **Advanced UI:** Responsive interface built with `mimgui`.
 
-### 💰 Moneybag Hunt (Automated)
+### Moneybag Hunt (Automated)
 * **Moneybag ESP:** Highlight nearby pickups (model 1550) with color-coded lines.
 * **Chat Hint Detection:** Automatically detects location hints in chat (e.g., `"Hint: Grove Street"`).
-* **ESP Focus Mode:** Automatically locks your ESP on the detected location to avoid clutter.
+* **ESP Focus Mode:** Automatically locks your ESP on the detected location to reduce clutter.
 * **Auto-Teleport:** Automatically teleports you to detected moneybags (with a countdown and cooldown).
-* **Mini-Radar:** A circular, rotating radar in the corner showing moneybag positions.
+* **Mini-Radar:** Circular, rotating radar in the corner showing moneybag positions.
 * **Proximity Pulse:** Visual and audio alerts when a moneybag is very close.
 * **Sound Alerts:** Beeps for hint detection, spawns, and teleports.
+* **Goldpot Database:** Matches hints against a known goldpot database; unknown hints are stored in a NEW tab for later saving.
 
 ---
 
@@ -29,7 +30,7 @@ A high-performance, feature-rich MoonLoader script for **GTA: San Andreas Multip
 
 1. Ensure you have MoonLoader installed.
 2. Download the script files.
-3. Place `SavePosition.lua` into your `moonloader/` folder.
+3. Place `BagSpot.lua` into your `moonloader/` folder.
 4. Place any required libraries in your `moonloader/lib/` folder.
 5. Launch the game!
 
@@ -47,12 +48,11 @@ A high-performance, feature-rich MoonLoader script for **GTA: San Andreas Multip
 | Command | Description |
 | :--- | :--- |
 | `/spos [name]` | Save current position with an optional name |
-| `/lpos [index]` | Teleport to a position by its list index |
+| `/lpos [name]` | Teleport to a position by name or index |
 | `/poslist` | Display all saved positions in the chat |
-| `/route` | Manage and execute saved routes |
+| `/uc` | Update coordinates of the last known hint position |
 | `/autotp` | Toggle automated moneybag teleportation |
 | `/clearfocus` | Manually clear the active ESP focus |
-| `/mbcmd` | Show Moneybag command help |
 
 ---
 
