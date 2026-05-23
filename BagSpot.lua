@@ -3004,8 +3004,8 @@ end
 -- ─────────────────────────────────────────────────────────────────────────────
 
 function sampev.onServerMessage(color, text)
-    -- Detect "found in" for moneybag respawn countdown
-    if text:find("found in", 1, true) then
+    -- Detect "found in" + "sec" for moneybag respawn countdown (avoids false match on hints)
+    if text:find("found in", 1, true) and text:find("sec", 1, true) then
         respawnTimerStart = os.clock()
         respawnTimerActive = true
     end
