@@ -28,8 +28,22 @@ require 'lib.moonloader'
 local vkeys = require 'vkeys'
 local imgui = require 'mimgui'
 local ffi = require 'ffi'
-ffi.cdef[[void __stdcall Beep(uint32_t dwFreq, uint32_t dwDuration);]]
+ffi.cdef[[
+void __stdcall Beep(uint32_t dwFreq, uint32_t dwDuration);
+int __stdcall PlaySoundA(const char* pszSound, void* hmod, uint32_t fdwSound);
+]]
 local kernel32 = ffi.load('kernel32')
+local winmm = ffi.load('winmm')
+
+local SND_ASYNC = 0x0001
+local SND_NODEFAULT = 0x0002
+local SND_FILENAME = 0x00020000
+
+local function playSoundFile(path)
+    xpcall(function()
+        winmm.PlaySoundA(path, nil, SND_FILENAME + SND_ASYNC + SND_NODEFAULT)
+    end, function() end)
+end
 local encoding = require 'encoding'
 encoding.default = 'CP1251'
 local u8 = encoding.UTF8
@@ -2717,7 +2731,7 @@ function main()
             end
             if nearBag then
                 if os.clock() - (lastProxBeep or 0) > 2 then
-                    playBeep(1000, 80)
+                    playSoundFile(getWorkingDirectory() .. "\\sounds\\notifmb.mp3")
                     lastProxBeep = os.clock()
                 end
             end
