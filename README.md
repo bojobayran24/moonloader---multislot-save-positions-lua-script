@@ -70,9 +70,21 @@ Clicking **EXPORT Positions** generates a file at:
 
 ---
 
+## Companion Script: Auto Math Detector
+
+`automath.lua` is bundled in this repo. It automatically detects "Math: Solve X+Y" prompts in chat, computes the answer, and submits it with a random 8-13s delay and a live countdown on screen.
+
+### Installation
+Place `automath.lua` in your `moonloader/` folder alongside `BagSpot.lua`.
+
+### Configuration
+Open `automath.lua` and change `ANSWER_CMD` if your server uses a different command (default: `/ans`).
+
+---
+
 ## Dependencies
 
-The script requires the following libraries:
+Both scripts require the following libraries:
 - `mimgui`
 - `vkeys`
 - `encoding`
